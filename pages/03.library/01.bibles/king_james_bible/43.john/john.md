@@ -1,0 +1,952 @@
+---
+title: 'John'
+template: bible
+simplesearch:
+    process: false
+---
+
+# John
+
+### THE GOSPEL ACCORDING TO JOHN
+
+## CHAPTER 1.
+
+In the beginning was the Word, and the Word was with God, and the Word was God.  
+<span class="verse-number">2&ensp;</span>The same was in the beginning with God.  
+<span class="verse-number">3&ensp;</span>All things were made by him; and without him was not any thing made that was made.  
+<span class="verse-number">4&ensp;</span>In him was life; and the life was the light of men.  
+<span class="verse-number">5&ensp;</span>And the light shineth in darkness; and the darkness comprehended it not.  
+<span class="verse-number">6&ensp;</span>¶ There was a man sent from God, whose name _was_ John.  
+<span class="verse-number">7&ensp;</span>The same came for a witness, to bear witness of the Light, that all _men_ through him might believe.  
+<span class="verse-number">8&ensp;</span>He was not that Light, but _was sent_ to bear witness of that Light.  
+<span class="verse-number">9&ensp;</span>_That_ was the true Light, which lighteth every man that cometh into the world.  
+<span class="verse-number">10&ensp;</span>He was in the world, and the world was made by him, and the world knew him not.  
+<span class="verse-number">11&ensp;</span>He came unto his own, and his own received him not.  
+<span class="verse-number">12&ensp;</span>But as many as received him, to them gave he power to become the sons of God, _even_ to them that believe on his name:  
+<span class="verse-number">13&ensp;</span>Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.  
+<span class="verse-number">14&ensp;</span>And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.  
+<span class="verse-number">15&ensp;</span>¶ John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.  
+<span class="verse-number">16&ensp;</span>And of his fulness have all we received, and grace for grace.  
+<span class="verse-number">17&ensp;</span>For the law was given by Moses, _but_ grace and truth came by Jesus Christ.  
+<span class="verse-number">18&ensp;</span>No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared _him_.  
+<span class="verse-number">19&ensp;</span>¶ And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?  
+<span class="verse-number">20&ensp;</span>And he confessed, and denied not; but confessed, I am not the Christ.  
+<span class="verse-number">21&ensp;</span>And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.  
+<span class="verse-number">22&ensp;</span>Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?  
+<span class="verse-number">23&ensp;</span>He said, I _am_ the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.  
+<span class="verse-number">24&ensp;</span>And they which were sent were of the Pharisees.  
+<span class="verse-number">25&ensp;</span>And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?  
+<span class="verse-number">26&ensp;</span>John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;  
+<span class="verse-number">27&ensp;</span>He it is, who coming after me is preferred before me, whose shoe’s latchet I am not worthy to unloose.  
+<span class="verse-number">28&ensp;</span>These things were done in Bethabara beyond Jordan, where John was baptizing.  
+<span class="verse-number">29&ensp;</span>¶ The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.  
+<span class="verse-number">30&ensp;</span>This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.  
+<span class="verse-number">31&ensp;</span>And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.  
+<span class="verse-number">32&ensp;</span>And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.  
+<span class="verse-number">33&ensp;</span>And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.  
+<span class="verse-number">34&ensp;</span>And I saw, and bare record that this is the Son of God.  
+<span class="verse-number">35&ensp;</span>¶ Again the next day after John stood, and two of his disciples;  
+<span class="verse-number">36&ensp;</span>And looking upon Jesus as he walked, he saith, Behold the Lamb of God!  
+<span class="verse-number">37&ensp;</span>And the two disciples heard him speak, and they followed Jesus.  
+<span class="verse-number">38&ensp;</span>Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?  
+<span class="verse-number">39&ensp;</span>He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.  
+<span class="verse-number">40&ensp;</span>One of the two which heard John _speak_, and followed him, was Andrew, Simon Peter’s brother.  
+<span class="verse-number">41&ensp;</span>He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.  
+<span class="verse-number">42&ensp;</span>And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.  
+<span class="verse-number">43&ensp;</span>¶ The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.  
+<span class="verse-number">44&ensp;</span>Now Philip was of Bethsaida, the city of Andrew and Peter.  
+<span class="verse-number">45&ensp;</span>Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.  
+<span class="verse-number">46&ensp;</span>And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.  
+<span class="verse-number">47&ensp;</span>Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!  
+<span class="verse-number">48&ensp;</span>Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.  
+<span class="verse-number">49&ensp;</span>Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.  
+<span class="verse-number">50&ensp;</span>Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.  
+<span class="verse-number">51&ensp;</span>And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.  
+
+## CHAPTER 2.
+
+And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:  
+<span class="verse-number">2&ensp;</span>And both Jesus was called, and his disciples, to the marriage.  
+<span class="verse-number">3&ensp;</span>And when they wanted wine, the mother of Jesus saith unto him, They have no wine.  
+<span class="verse-number">4&ensp;</span>Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.  
+<span class="verse-number">5&ensp;</span>His mother saith unto the servants, Whatsoever he saith unto you, do _it_.   
+<span class="verse-number">6&ensp;</span>And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.  
+<span class="verse-number">7&ensp;</span>Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.  
+<span class="verse-number">8&ensp;</span>And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare _it_.   
+<span class="verse-number">9&ensp;</span>When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,  
+<span class="verse-number">10&ensp;</span>And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: _but_ thou hast kept the good wine until now.  
+<span class="verse-number">11&ensp;</span>This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.  
+<span class="verse-number">12&ensp;</span>¶ After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.  
+<span class="verse-number">13&ensp;</span>¶ And the Jews’ passover was at hand, and Jesus went up to Jerusalem,  
+<span class="verse-number">14&ensp;</span>And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:  
+<span class="verse-number">15&ensp;</span>And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers’ money, and overthrew the tables;  
+<span class="verse-number">16&ensp;</span>And said unto them that sold doves, Take these things hence; make not my Father’s house an house of merchandise.  
+<span class="verse-number">17&ensp;</span>And his disciples remembered that it was written, The zeal of thine house hath eaten me up.  
+<span class="verse-number">18&ensp;</span>¶ Then answered the Jews and said unto him, What sign shewest thou unto us, seeing that thou doest these things?  
+<span class="verse-number">19&ensp;</span>Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up.  
+<span class="verse-number">20&ensp;</span>Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?  
+<span class="verse-number">21&ensp;</span>But he spake of the temple of his body.  
+<span class="verse-number">22&ensp;</span>When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said.  
+<span class="verse-number">23&ensp;</span>¶ Now when he was in Jerusalem at the passover, in the feast _day_, many believed in his name, when they saw the miracles which he did.  
+<span class="verse-number">24&ensp;</span>But Jesus did not commit himself unto them, because he knew all _men_,   
+<span class="verse-number">25&ensp;</span>And needed not that any should testify of man: for he knew what was in man.  
+
+## CHAPTER 3.
+
+There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:  
+<span class="verse-number">2&ensp;</span>The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.  
+<span class="verse-number">3&ensp;</span>Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.  
+<span class="verse-number">4&ensp;</span>Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother’s womb, and be born?  
+<span class="verse-number">5&ensp;</span>Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and _of_ the Spirit, he cannot enter into the kingdom of God.  
+<span class="verse-number">6&ensp;</span>That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.  
+<span class="verse-number">7&ensp;</span>Marvel not that I said unto thee, Ye must be born again.  
+<span class="verse-number">8&ensp;</span>The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.  
+<span class="verse-number">9&ensp;</span>Nicodemus answered and said unto him, How can these things be?  
+<span class="verse-number">10&ensp;</span>Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?  
+<span class="verse-number">11&ensp;</span>Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.  
+<span class="verse-number">12&ensp;</span>If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you _of_ heavenly things?  
+<span class="verse-number">13&ensp;</span>And no man hath ascended up to heaven, but he that came down from heaven, _even_ the Son of man which is in heaven.  
+<span class="verse-number">14&ensp;</span>¶ And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:  
+<span class="verse-number">15&ensp;</span>That whosoever believeth in him should not perish, but have eternal life.  
+<span class="verse-number">16&ensp;</span>¶ For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.  
+<span class="verse-number">17&ensp;</span>For God sent not his Son into the world to condemn the world; but that the world through him might be saved.  
+<span class="verse-number">18&ensp;</span>¶ He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.  
+<span class="verse-number">19&ensp;</span>And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.  
+<span class="verse-number">20&ensp;</span>For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.  
+<span class="verse-number">21&ensp;</span>But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.  
+<span class="verse-number">22&ensp;</span>¶ After these things came Jesus and his disciples into the land of Judæa; and there he tarried with them, and baptized.  
+<span class="verse-number">23&ensp;</span>¶ And John also was baptizing in Ænon near to Salim, because there was much water there: and they came, and were baptized.  
+<span class="verse-number">24&ensp;</span>For John was not yet cast into prison.  
+<span class="verse-number">25&ensp;</span>¶ Then there arose a question between _some_ of John’s disciples and the Jews about purifying.  
+<span class="verse-number">26&ensp;</span>And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all _men_ come to him.  
+<span class="verse-number">27&ensp;</span>John answered and said, A man can receive nothing, except it be given him from heaven.  
+<span class="verse-number">28&ensp;</span>Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.  
+<span class="verse-number">29&ensp;</span>He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom’s voice: this my joy therefore is fulfilled.  
+<span class="verse-number">30&ensp;</span>He must increase, but I _must_ decrease.  
+<span class="verse-number">31&ensp;</span>He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.  
+<span class="verse-number">32&ensp;</span>And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.  
+<span class="verse-number">33&ensp;</span>He that hath received his testimony hath set to his seal that God is true.  
+<span class="verse-number">34&ensp;</span>For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure _unto him_.   
+<span class="verse-number">35&ensp;</span>The Father loveth the Son, and hath given all things into his hand.  
+<span class="verse-number">36&ensp;</span>He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.  
+
+## CHAPTER 4.
+
+When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,  
+<span class="verse-number">2&ensp;</span>(Though Jesus himself baptized not, but his disciples,)  
+<span class="verse-number">3&ensp;</span>He left Judæa, and departed again into Galilee.  
+<span class="verse-number">4&ensp;</span>And he must needs go through Samaria.  
+<span class="verse-number">5&ensp;</span>Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.  
+<span class="verse-number">6&ensp;</span>Now Jacob’s well was there. Jesus therefore, being wearied with _his_ journey, sat thus on the well: _and_ it was about the sixth hour.  
+<span class="verse-number">7&ensp;</span>There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.  
+<span class="verse-number">8&ensp;</span>(For his disciples were gone away unto the city to buy meat.)  
+<span class="verse-number">9&ensp;</span>Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.  
+<span class="verse-number">10&ensp;</span>Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.  
+<span class="verse-number">11&ensp;</span>The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?  
+<span class="verse-number">12&ensp;</span>Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?  
+<span class="verse-number">13&ensp;</span>Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:  
+<span class="verse-number">14&ensp;</span>But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.  
+<span class="verse-number">15&ensp;</span>The woman saith unto him, Sir, give me this water, that I thirst not, neither come hither to draw.  
+<span class="verse-number">16&ensp;</span>Jesus saith unto her, Go, call thy husband, and come hither.  
+<span class="verse-number">17&ensp;</span>The woman answered and said, I have no husband. Jesus said unto her, Thou hast well said, I have no husband:  
+<span class="verse-number">18&ensp;</span>For thou hast had five husbands; and he whom thou now hast is not thy husband: in that saidst thou truly.  
+<span class="verse-number">19&ensp;</span>The woman saith unto him, Sir, I perceive that thou art a prophet.  
+<span class="verse-number">20&ensp;</span>Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship.  
+<span class="verse-number">21&ensp;</span>Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father.  
+<span class="verse-number">22&ensp;</span>Ye worship ye know not what: we know what we worship: for salvation is of the Jews.  
+<span class="verse-number">23&ensp;</span>But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him.  
+<span class="verse-number">24&ensp;</span>God _is_ a Spirit: and they that worship him must worship _him_ in spirit and in truth.  
+<span class="verse-number">25&ensp;</span>The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things.  
+<span class="verse-number">26&ensp;</span>Jesus saith unto her, I that speak unto thee am _he_.  
+<span class="verse-number">27&ensp;</span>¶ And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her?  
+<span class="verse-number">28&ensp;</span>The woman then left her waterpot, and went her way into the city, and saith to the men,  
+<span class="verse-number">29&ensp;</span>Come, see a man, which told me all things that ever I did: is not this the Christ?  
+<span class="verse-number">30&ensp;</span>Then they went out of the city, and came unto him.  
+<span class="verse-number">31&ensp;</span>¶ In the mean while his disciples prayed him, saying, Master, eat.  
+<span class="verse-number">32&ensp;</span>But he said unto them, I have meat to eat that ye know not of.  
+<span class="verse-number">33&ensp;</span>Therefore said the disciples one to another, Hath any man brought him _ought_ to eat?  
+<span class="verse-number">34&ensp;</span>Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work.  
+<span class="verse-number">35&ensp;</span>Say not ye, There are yet four months, and _then_ cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.  
+<span class="verse-number">36&ensp;</span>And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together.  
+<span class="verse-number">37&ensp;</span>And herein is that saying true, One soweth, and another reapeth.  
+<span class="verse-number">38&ensp;</span>I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.  
+<span class="verse-number">39&ensp;</span>¶ And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.  
+<span class="verse-number">40&ensp;</span>So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days.  
+<span class="verse-number">41&ensp;</span>And many more believed because of his own word;  
+<span class="verse-number">42&ensp;</span>And said unto the woman, Now we believe, not because of thy saying: for we have heard _him_ ourselves, and know that this is indeed the Christ, the Saviour of the world.  
+<span class="verse-number">43&ensp;</span>¶ Now after two days he departed thence, and went into Galilee.  
+<span class="verse-number">44&ensp;</span>For Jesus himself testified, that a prophet hath no honour in his own country.  
+<span class="verse-number">45&ensp;</span>Then when he was come into Galilee, the Galilæans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast.  
+<span class="verse-number">46&ensp;</span>So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.  
+<span class="verse-number">47&ensp;</span>When he heard that Jesus was come out of Judæa into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death.  
+<span class="verse-number">48&ensp;</span>Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.  
+<span class="verse-number">49&ensp;</span>The nobleman saith unto him, Sir, come down ere my child die.  
+<span class="verse-number">50&ensp;</span>Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way.  
+<span class="verse-number">51&ensp;</span>And as he was now going down, his servants met him, and told _him_, saying, Thy son liveth.  
+<span class="verse-number">52&ensp;</span>Then enquired he of them the hour when he began to amend. And they said unto him, Yesterday at the seventh hour the fever left him.  
+<span class="verse-number">53&ensp;</span>So the father knew that _it was_ at the same hour, in the which Jesus said unto him, Thy son liveth: and himself believed, and his whole house.  
+<span class="verse-number">54&ensp;</span>This _is_ again the second miracle _that_ Jesus did, when he was come out of Judæa into Galilee.  
+
+## CHAPTER 5.
+
+After this there was a feast of the Jews; and Jesus went up to Jerusalem.  
+<span class="verse-number">2&ensp;</span>Now there is at Jerusalem by the sheep _market_ a pool, which is called in the Hebrew tongue Bethesda, having five porches.  
+<span class="verse-number">3&ensp;</span>In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water.  
+<span class="verse-number">4&ensp;</span>For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had.  
+<span class="verse-number">5&ensp;</span>And a certain man was there, which had an infirmity thirty and eight years.  
+<span class="verse-number">6&ensp;</span>When Jesus saw him lie, and knew that he had been now a long time _in that case_, he saith unto him, Wilt thou be made whole?  
+<span class="verse-number">7&ensp;</span>The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me.  
+<span class="verse-number">8&ensp;</span>Jesus saith unto him, Rise, take up thy bed, and walk.  
+<span class="verse-number">9&ensp;</span>And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath.  
+<span class="verse-number">10&ensp;</span>¶ The Jews therefore said unto him that was cured, It is the sabbath day: it is not lawful for thee to carry _thy_ bed.  
+<span class="verse-number">11&ensp;</span>He answered them, He that made me whole, the same said unto me, Take up thy bed, and walk.  
+<span class="verse-number">12&ensp;</span>Then asked they him, What man is that which said unto thee, Take up thy bed, and walk?  
+<span class="verse-number">13&ensp;</span>And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in _that_ place.  
+<span class="verse-number">14&ensp;</span>Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee.  
+<span class="verse-number">15&ensp;</span>The man departed, and told the Jews that it was Jesus, which had made him whole.  
+<span class="verse-number">16&ensp;</span>And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day.  
+<span class="verse-number">17&ensp;</span>¶ But Jesus answered them, My Father worketh hitherto, and I work.  
+<span class="verse-number">18&ensp;</span>Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God.  
+<span class="verse-number">19&ensp;</span>Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise.  
+<span class="verse-number">20&ensp;</span>For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel.  
+<span class="verse-number">21&ensp;</span>For as the Father raiseth up the dead, and quickeneth _them_; even so the Son quickeneth whom he will.  
+<span class="verse-number">22&ensp;</span>For the Father judgeth no man, but hath committed all judgment unto the Son:  
+<span class="verse-number">23&ensp;</span>That all _men_ should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him.  
+<span class="verse-number">24&ensp;</span>Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.  
+<span class="verse-number">25&ensp;</span>Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live.  
+<span class="verse-number">26&ensp;</span>For as the Father hath life in himself; so hath he given to the Son to have life in himself;  
+<span class="verse-number">27&ensp;</span>And hath given him authority to execute judgment also, because he is the Son of man.  
+<span class="verse-number">28&ensp;</span>Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,  
+<span class="verse-number">29&ensp;</span>And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.  
+<span class="verse-number">30&ensp;</span>I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.  
+<span class="verse-number">31&ensp;</span>If I bear witness of myself, my witness is not true.  
+<span class="verse-number">32&ensp;</span>¶ There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.  
+<span class="verse-number">33&ensp;</span>Ye sent unto John, and he bare witness unto the truth.  
+<span class="verse-number">34&ensp;</span>But I receive not testimony from man: but these things I say, that ye might be saved.  
+<span class="verse-number">35&ensp;</span>He was a burning and a shining light: and ye were willing for a season to rejoice in his light.  
+<span class="verse-number">36&ensp;</span>¶ But I have greater witness than _that_ of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me.  
+<span class="verse-number">37&ensp;</span>And the Father himself, which hath sent me, hath borne witness of me. Ye have neither heard his voice at any time, nor seen his shape.  
+<span class="verse-number">38&ensp;</span>And ye have not his word abiding in you: for whom he hath sent, him ye believe not.  
+<span class="verse-number">39&ensp;</span>¶ Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.  
+<span class="verse-number">40&ensp;</span>And ye will not come to me, that ye might have life.  
+<span class="verse-number">41&ensp;</span>I receive not honour from men.  
+<span class="verse-number">42&ensp;</span>But I know you, that ye have not the love of God in you.  
+<span class="verse-number">43&ensp;</span>I am come in my Father’s name, and ye receive me not: if another shall come in his own name, him ye will receive.  
+<span class="verse-number">44&ensp;</span>How can ye believe, which receive honour one of another, and seek not the honour that _cometh_ from God only?  
+<span class="verse-number">45&ensp;</span>Do not think that I will accuse you to the Father: there is _one_ that accuseth you, _even_ Moses, in whom ye trust.  
+<span class="verse-number">46&ensp;</span>For had ye believed Moses, ye would have believed me: for he wrote of me.  
+<span class="verse-number">47&ensp;</span>But if ye believe not his writings, how shall ye believe my words?  
+
+## CHAPTER 6.
+
+After these things Jesus went over the sea of Galilee, which is _the sea_ of Tiberias.  
+<span class="verse-number">2&ensp;</span>And a great multitude followed him, because they saw his miracles which he did on them that were diseased.  
+<span class="verse-number">3&ensp;</span>And Jesus went up into a mountain, and there he sat with his disciples.  
+<span class="verse-number">4&ensp;</span>And the passover, a feast of the Jews, was nigh.  
+<span class="verse-number">5&ensp;</span>¶ When Jesus then lifted up _his_ eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat?  
+<span class="verse-number">6&ensp;</span>And this he said to prove him: for he himself knew what he would do.  
+<span class="verse-number">7&ensp;</span>Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little.  
+<span class="verse-number">8&ensp;</span>One of his disciples, Andrew, Simon Peter’s brother, saith unto him,  
+<span class="verse-number">9&ensp;</span>There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?  
+<span class="verse-number">10&ensp;</span>And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand.  
+<span class="verse-number">11&ensp;</span>And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.  
+<span class="verse-number">12&ensp;</span>When they were filled, he said unto his disciples, Gather up the fragments that remain, that nothing be lost.  
+<span class="verse-number">13&ensp;</span>Therefore they gathered _them_ together, and filled twelve baskets with the fragments of the five barley loaves, which remained over and above unto them that had eaten.  
+<span class="verse-number">14&ensp;</span>Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world.  
+<span class="verse-number">15&ensp;</span>¶ When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone.  
+<span class="verse-number">16&ensp;</span>And when even was _now_ come, his disciples went down unto the sea,  
+<span class="verse-number">17&ensp;</span>And entered into a ship, and went over the sea toward Capernaum. And it was now dark, and Jesus was not come to them.  
+<span class="verse-number">18&ensp;</span>And the sea arose by reason of a great wind that blew.  
+<span class="verse-number">19&ensp;</span>So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid.  
+<span class="verse-number">20&ensp;</span>But he saith unto them, It is I; be not afraid.  
+<span class="verse-number">21&ensp;</span>Then they willingly received him into the ship: and immediately the ship was at the land whither they went.  
+<span class="verse-number">22&ensp;</span>¶ The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but _that_ his disciples were gone away alone;  
+<span class="verse-number">23&ensp;</span>(Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)  
+<span class="verse-number">24&ensp;</span>When the people therefore saw that Jesus was not there, neither his disciples, they also took shipping, and came to Capernaum, seeking for Jesus.  
+<span class="verse-number">25&ensp;</span>And when they had found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither?  
+<span class="verse-number">26&ensp;</span>Jesus answered them and said, Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.  
+<span class="verse-number">27&ensp;</span>Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.  
+<span class="verse-number">28&ensp;</span>Then said they unto him, What shall we do, that we might work the works of God?  
+<span class="verse-number">29&ensp;</span>Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent.  
+<span class="verse-number">30&ensp;</span>They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?  
+<span class="verse-number">31&ensp;</span>Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat.  
+<span class="verse-number">32&ensp;</span>Then Jesus said unto them, Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven.  
+<span class="verse-number">33&ensp;</span>For the bread of God is he which cometh down from heaven, and giveth life unto the world.  
+<span class="verse-number">34&ensp;</span>Then said they unto him, Lord, evermore give us this bread.  
+<span class="verse-number">35&ensp;</span>And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.  
+<span class="verse-number">36&ensp;</span>But I said unto you, That ye also have seen me, and believe not.  
+<span class="verse-number">37&ensp;</span>All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.  
+<span class="verse-number">38&ensp;</span>For I came down from heaven, not to do mine own will, but the will of him that sent me.  
+<span class="verse-number">39&ensp;</span>And this is the Father’s will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.  
+<span class="verse-number">40&ensp;</span>And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.  
+<span class="verse-number">41&ensp;</span>The Jews then murmured at him, because he said, I am the bread which came down from heaven.  
+<span class="verse-number">42&ensp;</span>And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?  
+<span class="verse-number">43&ensp;</span>Jesus therefore answered and said unto them, Murmur not among yourselves.  
+<span class="verse-number">44&ensp;</span>No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.  
+<span class="verse-number">45&ensp;</span>It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.  
+<span class="verse-number">46&ensp;</span>Not that any man hath seen the Father, save he which is of God, he hath seen the Father.  
+<span class="verse-number">47&ensp;</span>Verily, verily, I say unto you, He that believeth on me hath everlasting life.  
+<span class="verse-number">48&ensp;</span>I am that bread of life.  
+<span class="verse-number">49&ensp;</span>Your fathers did eat manna in the wilderness, and are dead.  
+<span class="verse-number">50&ensp;</span>This is the bread which cometh down from heaven, that a man may eat thereof, and not die.  
+<span class="verse-number">51&ensp;</span>I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.  
+<span class="verse-number">52&ensp;</span>The Jews therefore strove among themselves, saying, How can this man give us _his_ flesh to eat?  
+<span class="verse-number">53&ensp;</span>Then Jesus said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.  
+<span class="verse-number">54&ensp;</span>Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.  
+<span class="verse-number">55&ensp;</span>For my flesh is meat indeed, and my blood is drink indeed.  
+<span class="verse-number">56&ensp;</span>He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.  
+<span class="verse-number">57&ensp;</span>As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me.  
+<span class="verse-number">58&ensp;</span>This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever.  
+<span class="verse-number">59&ensp;</span>These things said he in the synagogue, as he taught in Capernaum.  
+<span class="verse-number">60&ensp;</span>Many therefore of his disciples, when they had heard _this_, said, This is an hard saying; who can hear it?  
+<span class="verse-number">61&ensp;</span>When Jesus knew in himself that his disciples murmured at it, he said unto them, Doth this offend you?  
+<span class="verse-number">62&ensp;</span>_What_ and if ye shall see the Son of man ascend up where he was before?  
+<span class="verse-number">63&ensp;</span>It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, _they_ are spirit, and _they_ are life.  
+<span class="verse-number">64&ensp;</span>But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him.  
+<span class="verse-number">65&ensp;</span>And he said, Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.  
+<span class="verse-number">66&ensp;</span>¶ From that _time_ many of his disciples went back, and walked no more with him.  
+<span class="verse-number">67&ensp;</span>Then said Jesus unto the twelve, Will ye also go away?  
+<span class="verse-number">68&ensp;</span>Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.  
+<span class="verse-number">69&ensp;</span>And we believe and are sure that thou art that Christ, the Son of the living God.  
+<span class="verse-number">70&ensp;</span>Jesus answered them, Have not I chosen you twelve, and one of you is a devil?  
+<span class="verse-number">71&ensp;</span>He spake of Judas Iscariot _the son_ of Simon: for he it was that should betray him, being one of the twelve.  
+
+## CHAPTER 7.
+
+After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.  
+<span class="verse-number">2&ensp;</span>Now the Jews’ feast of tabernacles was at hand.  
+<span class="verse-number">3&ensp;</span>His brethren therefore said unto him, Depart hence, and go into Judæa, that thy disciples also may see the works that thou doest.  
+<span class="verse-number">4&ensp;</span>For _there is_ no man _that_ doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world.  
+<span class="verse-number">5&ensp;</span>For neither did his brethren believe in him.  
+<span class="verse-number">6&ensp;</span>Then Jesus said unto them, My time is not yet come: but your time is alway ready.  
+<span class="verse-number">7&ensp;</span>The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.  
+<span class="verse-number">8&ensp;</span>Go ye up unto this feast: I go not up yet unto this feast; for my time is not yet full come.  
+<span class="verse-number">9&ensp;</span>When he had said these words unto them, he abode _still_ in Galilee.  
+<span class="verse-number">10&ensp;</span>¶ But when his brethren were gone up, then went he also up unto the feast, not openly, but as it were in secret.  
+<span class="verse-number">11&ensp;</span>Then the Jews sought him at the feast, and said, Where is he?  
+<span class="verse-number">12&ensp;</span>And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people.  
+<span class="verse-number">13&ensp;</span>Howbeit no man spake openly of him for fear of the Jews.  
+<span class="verse-number">14&ensp;</span>¶ Now about the midst of the feast Jesus went up into the temple, and taught.  
+<span class="verse-number">15&ensp;</span>And the Jews marvelled, saying, How knoweth this man letters, having never learned?  
+<span class="verse-number">16&ensp;</span>Jesus answered them, and said, My doctrine is not mine, but his that sent me.  
+<span class="verse-number">17&ensp;</span>If any man will do his will, he shall know of the doctrine, whether it be of God, or _whether_ I speak of myself.  
+<span class="verse-number">18&ensp;</span>He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him.  
+<span class="verse-number">19&ensp;</span>Did not Moses give you the law, and _yet_ none of you keepeth the law? Why go ye about to kill me?  
+<span class="verse-number">20&ensp;</span>The people answered and said, Thou hast a devil: who goeth about to kill thee?  
+<span class="verse-number">21&ensp;</span>Jesus answered and said unto them, I have done one work, and ye all marvel.  
+<span class="verse-number">22&ensp;</span>Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man.  
+<span class="verse-number">23&ensp;</span>If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?  
+<span class="verse-number">24&ensp;</span>Judge not according to the appearance, but judge righteous judgment.  
+<span class="verse-number">25&ensp;</span>Then said some of them of Jerusalem, Is not this he, whom they seek to kill?  
+<span class="verse-number">26&ensp;</span>But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?  
+<span class="verse-number">27&ensp;</span>Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is.  
+<span class="verse-number">28&ensp;</span>Then cried Jesus in the temple as he taught, saying, Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not.  
+<span class="verse-number">29&ensp;</span>But I know him: for I am from him, and he hath sent me.  
+<span class="verse-number">30&ensp;</span>Then they sought to take him: but no man laid hands on him, because his hour was not yet come.  
+<span class="verse-number">31&ensp;</span>And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this _man_ hath done?  
+<span class="verse-number">32&ensp;</span>¶ The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.  
+<span class="verse-number">33&ensp;</span>Then said Jesus unto them, Yet a little while am I with you, and _then_ I go unto him that sent me.  
+<span class="verse-number">34&ensp;</span>Ye shall seek me, and shall not find _me_: and where I am, _thither_ ye cannot come.  
+<span class="verse-number">35&ensp;</span>Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?  
+<span class="verse-number">36&ensp;</span>What _manner of_ saying is this that he said, Ye shall seek me, and shall not find _me_: and where I am, _thither_ ye cannot come?  
+<span class="verse-number">37&ensp;</span>In the last day, that great _day_ of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink.  
+<span class="verse-number">38&ensp;</span>He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.  
+<span class="verse-number">39&ensp;</span>(But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet _given_; because that Jesus was not yet glorified.)  
+<span class="verse-number">40&ensp;</span>¶ Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.  
+<span class="verse-number">41&ensp;</span>Others said, This is the Christ. But some said, Shall Christ come out of Galilee?  
+<span class="verse-number">42&ensp;</span>Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?  
+<span class="verse-number">43&ensp;</span>So there was a division among the people because of him.  
+<span class="verse-number">44&ensp;</span>And some of them would have taken him; but no man laid hands on him.  
+<span class="verse-number">45&ensp;</span>¶ Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?  
+<span class="verse-number">46&ensp;</span>The officers answered, Never man spake like this man.  
+<span class="verse-number">47&ensp;</span>Then answered them the Pharisees, Are ye also deceived?  
+<span class="verse-number">48&ensp;</span>Have any of the rulers or of the Pharisees believed on him?  
+<span class="verse-number">49&ensp;</span>But this people who knoweth not the law are cursed.  
+<span class="verse-number">50&ensp;</span>Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)  
+<span class="verse-number">51&ensp;</span>Doth our law judge _any_ man, before it hear him, and know what he doeth?  
+<span class="verse-number">52&ensp;</span>They answered and said unto him, Art thou also of Galilee? Search, and look: for out of Galilee ariseth no prophet.  
+<span class="verse-number">53&ensp;</span>And every man went unto his own house.  
+
+## CHAPTER 8.
+
+Jesus went unto the mount of Olives.  
+<span class="verse-number">2&ensp;</span>And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them.  
+<span class="verse-number">3&ensp;</span>And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst,  
+<span class="verse-number">4&ensp;</span>They say unto him, Master, this woman was taken in adultery, in the very act.  
+<span class="verse-number">5&ensp;</span>Now Moses in the law commanded us, that such should be stoned: but what sayest thou?  
+<span class="verse-number">6&ensp;</span>This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with _his_ finger wrote on the ground, _as though he heard them not_.  
+<span class="verse-number">7&ensp;</span>So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.  
+<span class="verse-number">8&ensp;</span>And again he stooped down, and wrote on the ground.  
+<span class="verse-number">9&ensp;</span>And they which heard _it_, being convicted by _their own_ conscience, went out one by one, beginning at the eldest, _even_ unto the last: and Jesus was left alone, and the woman standing in the midst.  
+<span class="verse-number">10&ensp;</span>When Jesus had lifted up himself, and saw none but the woman, he said unto her, Woman, where are those thine accusers? hath no man condemned thee?  
+<span class="verse-number">11&ensp;</span>She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee: go, and sin no more.  
+<span class="verse-number">12&ensp;</span>¶ Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.  
+<span class="verse-number">13&ensp;</span>The Pharisees therefore said unto him, Thou bearest record of thyself; thy record is not true.  
+<span class="verse-number">14&ensp;</span>Jesus answered and said unto them, Though I bear record of myself, _yet_ my record is true: for I know whence I came, and whither I go; but ye cannot tell whence I come, and whither I go.  
+<span class="verse-number">15&ensp;</span>Ye judge after the flesh; I judge no man.  
+<span class="verse-number">16&ensp;</span>And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me.  
+<span class="verse-number">17&ensp;</span>It is also written in your law, that the testimony of two men is true.  
+<span class="verse-number">18&ensp;</span>I am one that bear witness of myself, and the Father that sent me beareth witness of me.  
+<span class="verse-number">19&ensp;</span>Then said they unto him, Where is thy Father? Jesus answered, Ye neither know me, nor my Father: if ye had known me, ye should have known my Father also.  
+<span class="verse-number">20&ensp;</span>These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.  
+<span class="verse-number">21&ensp;</span>Then said Jesus again unto them, I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come.  
+<span class="verse-number">22&ensp;</span>Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come.  
+<span class="verse-number">23&ensp;</span>And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world.  
+<span class="verse-number">24&ensp;</span>I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am _he_, ye shall die in your sins.  
+<span class="verse-number">25&ensp;</span>Then said they unto him, Who art thou? And Jesus saith unto them, Even _the same_ that I said unto you from the beginning.  
+<span class="verse-number">26&ensp;</span>I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him.  
+<span class="verse-number">27&ensp;</span>They understood not that he spake to them of the Father.  
+<span class="verse-number">28&ensp;</span>Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am _he_, and _that_ I do nothing of myself; but as my Father hath taught me, I speak these things.  
+<span class="verse-number">29&ensp;</span>And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.  
+<span class="verse-number">30&ensp;</span>As he spake these words, many believed on him.  
+<span class="verse-number">31&ensp;</span>Then said Jesus to those Jews which believed on him, If ye continue in my word, _then_ are ye my disciples indeed;  
+<span class="verse-number">32&ensp;</span>And ye shall know the truth, and the truth shall make you free.  
+<span class="verse-number">33&ensp;</span>¶ They answered him, We be Abraham’s seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?  
+<span class="verse-number">34&ensp;</span>Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.  
+<span class="verse-number">35&ensp;</span>And the servant abideth not in the house for ever: _but_ the Son abideth ever.  
+<span class="verse-number">36&ensp;</span>If the Son therefore shall make you free, ye shall be free indeed.  
+<span class="verse-number">37&ensp;</span>I know that ye are Abraham’s seed; but ye seek to kill me, because my word hath no place in you.  
+<span class="verse-number">38&ensp;</span>I speak that which I have seen with my Father: and ye do that which ye have seen with your father.  
+<span class="verse-number">39&ensp;</span>They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham’s children, ye would do the works of Abraham.  
+<span class="verse-number">40&ensp;</span>But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham.  
+<span class="verse-number">41&ensp;</span>Ye do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, _even_ God.  
+<span class="verse-number">42&ensp;</span>Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me.  
+<span class="verse-number">43&ensp;</span>Why do ye not understand my speech? _even_ because ye cannot hear my word.  
+<span class="verse-number">44&ensp;</span>Ye are of _your_ father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.  
+<span class="verse-number">45&ensp;</span>And because I tell _you_ the truth, ye believe me not.  
+<span class="verse-number">46&ensp;</span>Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?  
+<span class="verse-number">47&ensp;</span>He that is of God heareth God’s words: ye therefore hear _them_ not, because ye are not of God.  
+<span class="verse-number">48&ensp;</span>Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil?  
+<span class="verse-number">49&ensp;</span>Jesus answered, I have not a devil; but I honour my Father, and ye do dishonour me.  
+<span class="verse-number">50&ensp;</span>And I seek not mine own glory: there is one that seeketh and judgeth.  
+<span class="verse-number">51&ensp;</span>Verily, verily, I say unto you, If a man keep my saying, he shall never see death.  
+<span class="verse-number">52&ensp;</span>Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death.  
+<span class="verse-number">53&ensp;</span>Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself?  
+<span class="verse-number">54&ensp;</span>Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:  
+<span class="verse-number">55&ensp;</span>Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.  
+<span class="verse-number">56&ensp;</span>Your father Abraham rejoiced to see my day: and he saw _it_, and was glad.  
+<span class="verse-number">57&ensp;</span>Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?  
+<span class="verse-number">58&ensp;</span>Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.  
+<span class="verse-number">59&ensp;</span>Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.  
+
+## CHAPTER 9.
+
+And as _Jesus_ passed by, he saw a man which was blind from _his_ birth.  
+<span class="verse-number">2&ensp;</span>And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?  
+<span class="verse-number">3&ensp;</span>Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.  
+<span class="verse-number">4&ensp;</span>I must work the works of him that sent me, while it is day: the night cometh, when no man can work.  
+<span class="verse-number">5&ensp;</span>As long as I am in the world, I am the light of the world.  
+<span class="verse-number">6&ensp;</span>When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,  
+<span class="verse-number">7&ensp;</span>And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.  
+<span class="verse-number">8&ensp;</span>¶ The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?  
+<span class="verse-number">9&ensp;</span>Some said, This is he: others _said_, He is like him: _but_ he said, I am _he_.   
+<span class="verse-number">10&ensp;</span>Therefore said they unto him, How were thine eyes opened?  
+<span class="verse-number">11&ensp;</span>He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.  
+<span class="verse-number">12&ensp;</span>Then said they unto him, Where is he? He said, I know not.  
+<span class="verse-number">13&ensp;</span>¶ They brought to the Pharisees him that aforetime was blind.  
+<span class="verse-number">14&ensp;</span>And it was the sabbath day when Jesus made the clay, and opened his eyes.  
+<span class="verse-number">15&ensp;</span>Then again the Pharisees also asked him how he had received his sight. He said unto them, He put clay upon mine eyes, and I washed, and do see.  
+<span class="verse-number">16&ensp;</span>Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them.  
+<span class="verse-number">17&ensp;</span>They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet.  
+<span class="verse-number">18&ensp;</span>But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight.  
+<span class="verse-number">19&ensp;</span>And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see?  
+<span class="verse-number">20&ensp;</span>His parents answered them and said, We know that this is our son, and that he was born blind:  
+<span class="verse-number">21&ensp;</span>But by what means he now seeth, we know not; or who hath opened his eyes, we know not: he is of age; ask him: he shall speak for himself.  
+<span class="verse-number">22&ensp;</span>These _words_ spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue.  
+<span class="verse-number">23&ensp;</span>Therefore said his parents, He is of age; ask him.  
+<span class="verse-number">24&ensp;</span>Then again called they the man that was blind, and said unto him, Give God the praise: we know that this man is a sinner.  
+<span class="verse-number">25&ensp;</span>He answered and said, Whether he be a sinner _or no_, I know not: one thing I know, that, whereas I was blind, now I see.  
+<span class="verse-number">26&ensp;</span>Then said they to him again, What did he to thee? how opened he thine eyes?  
+<span class="verse-number">27&ensp;</span>He answered them, I have told you already, and ye did not hear: wherefore would ye hear _it_ again? will ye also be his disciples?  
+<span class="verse-number">28&ensp;</span>Then they reviled him, and said, Thou art his disciple; but we are Moses’ disciples.  
+<span class="verse-number">29&ensp;</span>We know that God spake unto Moses: _as for_ this _fellow_, we know not from whence he is.  
+<span class="verse-number">30&ensp;</span>The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and _yet_ he hath opened mine eyes.  
+<span class="verse-number">31&ensp;</span>Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth.  
+<span class="verse-number">32&ensp;</span>Since the world began was it not heard that any man opened the eyes of one that was born blind.  
+<span class="verse-number">33&ensp;</span>If this man were not of God, he could do nothing.  
+<span class="verse-number">34&ensp;</span>They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out.  
+<span class="verse-number">35&ensp;</span>Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?  
+<span class="verse-number">36&ensp;</span>He answered and said, Who is he, Lord, that I might believe on him?  
+<span class="verse-number">37&ensp;</span>And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.  
+<span class="verse-number">38&ensp;</span>And he said, Lord, I believe. And he worshipped him.  
+<span class="verse-number">39&ensp;</span>¶ And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.  
+<span class="verse-number">40&ensp;</span>And _some_ of the Pharisees which were with him heard these words, and said unto him, Are we blind also?  
+<span class="verse-number">41&ensp;</span>Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth.  
+
+## CHAPTER 10.
+
+Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.  
+<span class="verse-number">2&ensp;</span>But he that entereth in by the door is the shepherd of the sheep.  
+<span class="verse-number">3&ensp;</span>To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.  
+<span class="verse-number">4&ensp;</span>And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.  
+<span class="verse-number">5&ensp;</span>And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.  
+<span class="verse-number">6&ensp;</span>This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.  
+<span class="verse-number">7&ensp;</span>Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep.  
+<span class="verse-number">8&ensp;</span>All that ever came before me are thieves and robbers: but the sheep did not hear them.  
+<span class="verse-number">9&ensp;</span>I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.  
+<span class="verse-number">10&ensp;</span>The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have _it_ more abundantly.  
+<span class="verse-number">11&ensp;</span>I am the good shepherd: the good shepherd giveth his life for the sheep.  
+<span class="verse-number">12&ensp;</span>But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.  
+<span class="verse-number">13&ensp;</span>The hireling fleeth, because he is an hireling, and careth not for the sheep.  
+<span class="verse-number">14&ensp;</span>I am the good shepherd, and know my _sheep_, and am known of mine.  
+<span class="verse-number">15&ensp;</span>As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.  
+<span class="verse-number">16&ensp;</span>And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, _and_ one shepherd.  
+<span class="verse-number">17&ensp;</span>Therefore doth my Father love me, because I lay down my life, that I might take it again.  
+<span class="verse-number">18&ensp;</span>No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.  
+<span class="verse-number">19&ensp;</span>¶ There was a division therefore again among the Jews for these sayings.  
+<span class="verse-number">20&ensp;</span>And many of them said, He hath a devil, and is mad; why hear ye him?  
+<span class="verse-number">21&ensp;</span>Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?  
+<span class="verse-number">22&ensp;</span>¶ And it was at Jerusalem the feast of the dedication, and it was winter.  
+<span class="verse-number">23&ensp;</span>And Jesus walked in the temple in Solomon’s porch.  
+<span class="verse-number">24&ensp;</span>Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.  
+<span class="verse-number">25&ensp;</span>Jesus answered them, I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me.  
+<span class="verse-number">26&ensp;</span>But ye believe not, because ye are not of my sheep, as I said unto you.  
+<span class="verse-number">27&ensp;</span>My sheep hear my voice, and I know them, and they follow me:  
+<span class="verse-number">28&ensp;</span>And I give unto them eternal life; and they shall never perish, neither shall any _man_ pluck them out of my hand.  
+<span class="verse-number">29&ensp;</span>My Father, which gave _them_ me, is greater than all; and no _man_ is able to pluck _them_ out of my Father’s hand.  
+<span class="verse-number">30&ensp;</span>I and _my_ Father are one.  
+<span class="verse-number">31&ensp;</span>Then the Jews took up stones again to stone him.  
+<span class="verse-number">32&ensp;</span>Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?  
+<span class="verse-number">33&ensp;</span>The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.  
+<span class="verse-number">34&ensp;</span>Jesus answered them, Is it not written in your law, I said, Ye are gods?  
+<span class="verse-number">35&ensp;</span>If he called them gods, unto whom the word of God came, and the scripture cannot be broken;  
+<span class="verse-number">36&ensp;</span>Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?  
+<span class="verse-number">37&ensp;</span>If I do not the works of my Father, believe me not.  
+<span class="verse-number">38&ensp;</span>But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father _is_ in me, and I in him.  
+<span class="verse-number">39&ensp;</span>Therefore they sought again to take him: but he escaped out of their hand,  
+<span class="verse-number">40&ensp;</span>And went away again beyond Jordan into the place where John at first baptized; and there he abode.  
+<span class="verse-number">41&ensp;</span>And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.  
+<span class="verse-number">42&ensp;</span>And many believed on him there.  
+
+## CHAPTER 11.
+
+Now a certain _man_ was sick, _named_ Lazarus, of Bethany, the town of Mary and her sister Martha.  
+<span class="verse-number">2&ensp;</span>(It was _that_ Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)  
+<span class="verse-number">3&ensp;</span>Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.  
+<span class="verse-number">4&ensp;</span>When Jesus heard _that_, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.  
+<span class="verse-number">5&ensp;</span>Now Jesus loved Martha, and her sister, and Lazarus.  
+<span class="verse-number">6&ensp;</span>When he had heard therefore that he was sick, he abode two days still in the same place where he was.  
+<span class="verse-number">7&ensp;</span>Then after that saith he to _his_ disciples, Let us go into Judæa again.  
+<span class="verse-number">8&ensp;</span>_His_ disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?  
+<span class="verse-number">9&ensp;</span>Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world.  
+<span class="verse-number">10&ensp;</span>But if a man walk in the night, he stumbleth, because there is no light in him.  
+<span class="verse-number">11&ensp;</span>These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.  
+<span class="verse-number">12&ensp;</span>Then said his disciples, Lord, if he sleep, he shall do well.  
+<span class="verse-number">13&ensp;</span>Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.  
+<span class="verse-number">14&ensp;</span>Then said Jesus unto them plainly, Lazarus is dead.  
+<span class="verse-number">15&ensp;</span>And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.  
+<span class="verse-number">16&ensp;</span>Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.  
+<span class="verse-number">17&ensp;</span>Then when Jesus came, he found that he had _lain_ in the grave four days already.  
+<span class="verse-number">18&ensp;</span>Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:  
+<span class="verse-number">19&ensp;</span>And many of the Jews came to Martha and Mary, to comfort them concerning their brother.  
+<span class="verse-number">20&ensp;</span>Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat _still_ in the house.  
+<span class="verse-number">21&ensp;</span>Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died.  
+<span class="verse-number">22&ensp;</span>But I know, that even now, whatsoever thou wilt ask of God, God will give _it_ thee.  
+<span class="verse-number">23&ensp;</span>Jesus saith unto her, Thy brother shall rise again.  
+<span class="verse-number">24&ensp;</span>Martha saith unto him, I know that he shall rise again in the resurrection at the last day.  
+<span class="verse-number">25&ensp;</span>Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:  
+<span class="verse-number">26&ensp;</span>And whosoever liveth and believeth in me shall never die. Believest thou this?  
+<span class="verse-number">27&ensp;</span>She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.  
+<span class="verse-number">28&ensp;</span>And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.  
+<span class="verse-number">29&ensp;</span>As soon as she heard _that_, she arose quickly, and came unto him.  
+<span class="verse-number">30&ensp;</span>Now Jesus was not yet come into the town, but was in that place where Martha met him.  
+<span class="verse-number">31&ensp;</span>The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.  
+<span class="verse-number">32&ensp;</span>Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died.  
+<span class="verse-number">33&ensp;</span>When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,  
+<span class="verse-number">34&ensp;</span>And said, Where have ye laid him? They said unto him, Lord, come and see.  
+<span class="verse-number">35&ensp;</span>Jesus wept.  
+<span class="verse-number">36&ensp;</span>Then said the Jews, Behold how he loved him!  
+<span class="verse-number">37&ensp;</span>And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?  
+<span class="verse-number">38&ensp;</span>Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it.  
+<span class="verse-number">39&ensp;</span>Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been _dead_ four days.  
+<span class="verse-number">40&ensp;</span>Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?  
+<span class="verse-number">41&ensp;</span>Then they took away the stone _from the place_ where the dead was laid. And Jesus lifted up _his_ eyes, and said, Father, I thank thee that thou hast heard me.  
+<span class="verse-number">42&ensp;</span>And I knew that thou hearest me always: but because of the people which stand by I said _it_, that they may believe that thou hast sent me.  
+<span class="verse-number">43&ensp;</span>And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.  
+<span class="verse-number">44&ensp;</span>And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.  
+<span class="verse-number">45&ensp;</span>Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.  
+<span class="verse-number">46&ensp;</span>But some of them went their ways to the Pharisees, and told them what things Jesus had done.  
+<span class="verse-number">47&ensp;</span>¶ Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.  
+<span class="verse-number">48&ensp;</span>If we let him thus alone, all _men_ will believe on him: and the Romans shall come and take away both our place and nation.  
+<span class="verse-number">49&ensp;</span>And one of them, _named_ Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,  
+<span class="verse-number">50&ensp;</span>Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.  
+<span class="verse-number">51&ensp;</span>And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;  
+<span class="verse-number">52&ensp;</span>And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.  
+<span class="verse-number">53&ensp;</span>Then from that day forth they took counsel together for to put him to death.  
+<span class="verse-number">54&ensp;</span>Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.  
+<span class="verse-number">55&ensp;</span>¶ And the Jews’ passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.  
+<span class="verse-number">56&ensp;</span>Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?  
+<span class="verse-number">57&ensp;</span>Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew _it_, that they might take him.  
+
+## CHAPTER 12.
+
+Then Jesus six days before the passover came to Bethany, where Lazarus was which had been dead, whom he raised from the dead.  
+<span class="verse-number">2&ensp;</span>There they made him a supper; and Martha served: but Lazarus was one of them that sat at the table with him.  
+<span class="verse-number">3&ensp;</span>Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment.  
+<span class="verse-number">4&ensp;</span>Then saith one of his disciples, Judas Iscariot, Simon’s _son_, which should betray him,  
+<span class="verse-number">5&ensp;</span>Why was not this ointment sold for three hundred pence, and given to the poor?  
+<span class="verse-number">6&ensp;</span>This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein.  
+<span class="verse-number">7&ensp;</span>Then said Jesus, Let her alone: against the day of my burying hath she kept this.  
+<span class="verse-number">8&ensp;</span>For the poor always ye have with you; but me ye have not always.  
+<span class="verse-number">9&ensp;</span>Much people of the Jews therefore knew that he was there: and they came not for Jesus’ sake only, but that they might see Lazarus also, whom he had raised from the dead.  
+<span class="verse-number">10&ensp;</span>¶ But the chief priests consulted that they might put Lazarus also to death;  
+<span class="verse-number">11&ensp;</span>Because that by reason of him many of the Jews went away, and believed on Jesus.  
+<span class="verse-number">12&ensp;</span>¶ On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem,  
+<span class="verse-number">13&ensp;</span>Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed _is_ the King of Israel that cometh in the name of the Lord.  
+<span class="verse-number">14&ensp;</span>And Jesus, when he had found a young ass, sat thereon; as it is written,  
+<span class="verse-number">15&ensp;</span>Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass’s colt.  
+<span class="verse-number">16&ensp;</span>These things understood not his disciples at the first: but when Jesus was glorified, then remembered they that these things were written of him, and _that_ they had done these things unto him.  
+<span class="verse-number">17&ensp;</span>The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record.  
+<span class="verse-number">18&ensp;</span>For this cause the people also met him, for that they heard that he had done this miracle.  
+<span class="verse-number">19&ensp;</span>The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him.  
+<span class="verse-number">20&ensp;</span>¶ And there were certain Greeks among them that came up to worship at the feast:  
+<span class="verse-number">21&ensp;</span>The same came therefore to Philip, which was of Bethsaida of Galilee, and desired him, saying, Sir, we would see Jesus.  
+<span class="verse-number">22&ensp;</span>Philip cometh and telleth Andrew: and again Andrew and Philip tell Jesus.  
+<span class="verse-number">23&ensp;</span>¶ And Jesus answered them, saying, The hour is come, that the Son of man should be glorified.  
+<span class="verse-number">24&ensp;</span>Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.  
+<span class="verse-number">25&ensp;</span>He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal.  
+<span class="verse-number">26&ensp;</span>If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will _my_ Father honour.  
+<span class="verse-number">27&ensp;</span>Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour.  
+<span class="verse-number">28&ensp;</span>Father, glorify thy name. Then came there a voice from heaven, _saying_, I have both glorified _it_, and will glorify _it_ again.  
+<span class="verse-number">29&ensp;</span>The people therefore, that stood by, and heard _it_, said that it thundered: others said, An angel spake to him.  
+<span class="verse-number">30&ensp;</span>Jesus answered and said, This voice came not because of me, but for your sakes.  
+<span class="verse-number">31&ensp;</span>Now is the judgment of this world: now shall the prince of this world be cast out.  
+<span class="verse-number">32&ensp;</span>And I, if I be lifted up from the earth, will draw all _men_ unto me.  
+<span class="verse-number">33&ensp;</span>This he said, signifying what death he should die.  
+<span class="verse-number">34&ensp;</span>The people answered him, We have heard out of the law that Christ abideth for ever: and how sayest thou, The Son of man must be lifted up? who is this Son of man?  
+<span class="verse-number">35&ensp;</span>Then Jesus said unto them, Yet a little while is the light with you. Walk while ye have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth.  
+<span class="verse-number">36&ensp;</span>While ye have light, believe in the light, that ye may be the children of light. These things spake Jesus, and departed, and did hide himself from them.  
+<span class="verse-number">37&ensp;</span>¶ But though he had done so many miracles before them, yet they believed not on him:  
+<span class="verse-number">38&ensp;</span>That the saying of Esaias the prophet might be fulfilled, which he spake, Lord, who hath believed our report? and to whom hath the arm of the Lord been revealed?  
+<span class="verse-number">39&ensp;</span>Therefore they could not believe, because that Esaias said again,  
+<span class="verse-number">40&ensp;</span>He hath blinded their eyes, and hardened their heart; that they should not see with _their_ eyes, nor understand with _their_ heart, and be converted, and I should heal them.  
+<span class="verse-number">41&ensp;</span>These things said Esaias, when he saw his glory, and spake of him.  
+<span class="verse-number">42&ensp;</span>¶ Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess _him_, lest they should be put out of the synagogue:  
+<span class="verse-number">43&ensp;</span>For they loved the praise of men more than the praise of God.  
+<span class="verse-number">44&ensp;</span>¶ Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me.  
+<span class="verse-number">45&ensp;</span>And he that seeth me seeth him that sent me.  
+<span class="verse-number">46&ensp;</span>I am come a light into the world, that whosoever believeth on me should not abide in darkness.  
+<span class="verse-number">47&ensp;</span>And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world.  
+<span class="verse-number">48&ensp;</span>He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.  
+<span class="verse-number">49&ensp;</span>For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak.  
+<span class="verse-number">50&ensp;</span>And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak.  
+
+## CHAPTER 13.
+
+Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.  
+<span class="verse-number">2&ensp;</span>And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon’s _son_, to betray him;  
+<span class="verse-number">3&ensp;</span>Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God;  
+<span class="verse-number">4&ensp;</span>He riseth from supper, and laid aside his garments; and took a towel, and girded himself.  
+<span class="verse-number">5&ensp;</span>After that he poureth water into a bason, and began to wash the disciples’ feet, and to wipe _them_ with the towel wherewith he was girded.  
+<span class="verse-number">6&ensp;</span>Then cometh he to Simon Peter: and Peter saith unto him, Lord, dost thou wash my feet?  
+<span class="verse-number">7&ensp;</span>Jesus answered and said unto him, What I do thou knowest not now; but thou shalt know hereafter.  
+<span class="verse-number">8&ensp;</span>Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me.  
+<span class="verse-number">9&ensp;</span>Simon Peter saith unto him, Lord, not my feet only, but also _my_ hands and _my_ head.  
+<span class="verse-number">10&ensp;</span>Jesus saith to him, He that is washed needeth not save to wash _his_ feet, but is clean every whit: and ye are clean, but not all.  
+<span class="verse-number">11&ensp;</span>For he knew who should betray him; therefore said he, Ye are not all clean.  
+<span class="verse-number">12&ensp;</span>So after he had washed their feet, and had taken his garments, and was set down again, he said unto them, Know ye what I have done to you?  
+<span class="verse-number">13&ensp;</span>Ye call me Master and Lord: and ye say well; for _so_ I am.  
+<span class="verse-number">14&ensp;</span>If I then, _your_ Lord and Master, have washed your feet; ye also ought to wash one another’s feet.  
+<span class="verse-number">15&ensp;</span>For I have given you an example, that ye should do as I have done to you.  
+<span class="verse-number">16&ensp;</span>Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.  
+<span class="verse-number">17&ensp;</span>If ye know these things, happy are ye if ye do them.  
+<span class="verse-number">18&ensp;</span>¶ I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.  
+<span class="verse-number">19&ensp;</span>Now I tell you before it come, that, when it is come to pass, ye may believe that I am _he_.  
+<span class="verse-number">20&ensp;</span>Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.  
+<span class="verse-number">21&ensp;</span>When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me.  
+<span class="verse-number">22&ensp;</span>Then the disciples looked one on another, doubting of whom he spake.  
+<span class="verse-number">23&ensp;</span>Now there was leaning on Jesus’ bosom one of his disciples, whom Jesus loved.  
+<span class="verse-number">24&ensp;</span>Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake.  
+<span class="verse-number">25&ensp;</span>He then lying on Jesus’ breast saith unto him, Lord, who is it?  
+<span class="verse-number">26&ensp;</span>Jesus answered, He it is, to whom I shall give a sop, when I have dipped _it_. And when he had dipped the sop, he gave _it_ to Judas Iscariot, _the son_ of Simon.  
+<span class="verse-number">27&ensp;</span>And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly.  
+<span class="verse-number">28&ensp;</span>Now no man at the table knew for what intent he spake this unto him.  
+<span class="verse-number">29&ensp;</span>For some _of them_ thought, because Judas had the bag, that Jesus had said unto him, Buy _those things_ that we have need of against the feast; or, that he should give something to the poor.  
+<span class="verse-number">30&ensp;</span>He then having received the sop went immediately out: and it was night.  
+<span class="verse-number">31&ensp;</span>¶ Therefore, when he was gone out, Jesus said, Now is the Son of man glorified, and God is glorified in him.  
+<span class="verse-number">32&ensp;</span>If God be glorified in him, God shall also glorify him in himself, and shall straightway glorify him.  
+<span class="verse-number">33&ensp;</span>Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you.  
+<span class="verse-number">34&ensp;</span>A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.  
+<span class="verse-number">35&ensp;</span>By this shall all _men_ know that ye are my disciples, if ye have love one to another.  
+<span class="verse-number">36&ensp;</span>¶ Simon Peter said unto him, Lord, whither goest thou? Jesus answered him, Whither I go, thou canst not follow me now; but thou shalt follow me afterwards.  
+<span class="verse-number">37&ensp;</span>Peter said unto him, Lord, why cannot I follow thee now? I will lay down my life for thy sake.  
+<span class="verse-number">38&ensp;</span>Jesus answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice.  
+
+## CHAPTER 14.
+
+Let not your heart be troubled: ye believe in God, believe also in me.  
+<span class="verse-number">2&ensp;</span>In my Father’s house are many mansions: if _it were_ not _so_, I would have told you. I go to prepare a place for you.  
+<span class="verse-number">3&ensp;</span>And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, _there_ ye may be also.  
+<span class="verse-number">4&ensp;</span>And whither I go ye know, and the way ye know.  
+<span class="verse-number">5&ensp;</span>Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?  
+<span class="verse-number">6&ensp;</span>Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.  
+<span class="verse-number">7&ensp;</span>If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him.  
+<span class="verse-number">8&ensp;</span>Philip saith unto him, Lord, shew us the Father, and it sufficeth us.  
+<span class="verse-number">9&ensp;</span>Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou _then_, Shew us the Father?  
+<span class="verse-number">10&ensp;</span>Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.  
+<span class="verse-number">11&ensp;</span>Believe me that I _am_ in the Father, and the Father in me: or else believe me for the very works’ sake.  
+<span class="verse-number">12&ensp;</span>Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater _works_ than these shall he do; because I go unto my Father.  
+<span class="verse-number">13&ensp;</span>And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.  
+<span class="verse-number">14&ensp;</span>If ye shall ask any thing in my name, I will do _it_.  
+<span class="verse-number">15&ensp;</span>¶ If ye love me, keep my commandments.  
+<span class="verse-number">16&ensp;</span>And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;  
+<span class="verse-number">17&ensp;</span>_Even_ the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.  
+<span class="verse-number">18&ensp;</span>I will not leave you comfortless: I will come to you.  
+<span class="verse-number">19&ensp;</span>Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.  
+<span class="verse-number">20&ensp;</span>At that day ye shall know that I _am_ in my Father, and ye in me, and I in you.  
+<span class="verse-number">21&ensp;</span>He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.  
+<span class="verse-number">22&ensp;</span>Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?  
+<span class="verse-number">23&ensp;</span>Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.  
+<span class="verse-number">24&ensp;</span>He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father’s which sent me.  
+<span class="verse-number">25&ensp;</span>These things have I spoken unto you, being _yet_ present with you.  
+<span class="verse-number">26&ensp;</span>But the Comforter, _which is_ the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.  
+<span class="verse-number">27&ensp;</span>Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.  
+<span class="verse-number">28&ensp;</span>Ye have heard how I said unto you, I go away, and come _again_ unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.  
+<span class="verse-number">29&ensp;</span>And now I have told you before it come to pass, that, when it is come to pass, ye might believe.  
+<span class="verse-number">30&ensp;</span>Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me.  
+<span class="verse-number">31&ensp;</span>But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.  
+
+## CHAPTER 15.
+
+I am the true vine, and my Father is the husbandman.  
+<span class="verse-number">2&ensp;</span>Every branch in me that beareth not fruit he taketh away: and every _branch_ that beareth fruit, he purgeth it, that it may bring forth more fruit.  
+<span class="verse-number">3&ensp;</span>Now ye are clean through the word which I have spoken unto you.  
+<span class="verse-number">4&ensp;</span>Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.  
+<span class="verse-number">5&ensp;</span>I am the vine, ye _are_ the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.  
+<span class="verse-number">6&ensp;</span>If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast _them_ into the fire, and they are burned.  
+<span class="verse-number">7&ensp;</span>If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.  
+<span class="verse-number">8&ensp;</span>Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.  
+<span class="verse-number">9&ensp;</span>As the Father hath loved me, so have I loved you: continue ye in my love.  
+<span class="verse-number">10&ensp;</span>If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.  
+<span class="verse-number">11&ensp;</span>These things have I spoken unto you, that my joy might remain in you, and _that_ your joy might be full.  
+<span class="verse-number">12&ensp;</span>This is my commandment, That ye love one another, as I have loved you.  
+<span class="verse-number">13&ensp;</span>Greater love hath no man than this, that a man lay down his life for his friends.  
+<span class="verse-number">14&ensp;</span>Ye are my friends, if ye do whatsoever I command you.  
+<span class="verse-number">15&ensp;</span>Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you.  
+<span class="verse-number">16&ensp;</span>Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and _that_ your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.  
+<span class="verse-number">17&ensp;</span>These things I command you, that ye love one another.  
+<span class="verse-number">18&ensp;</span>If the world hate you, ye know that it hated me before _it hated_ you.  
+<span class="verse-number">19&ensp;</span>If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.  
+<span class="verse-number">20&ensp;</span>Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.  
+<span class="verse-number">21&ensp;</span>But all these things will they do unto you for my name’s sake, because they know not him that sent me.  
+<span class="verse-number">22&ensp;</span>If I had not come and spoken unto them, they had not had sin: but now they have no cloke for their sin.  
+<span class="verse-number">23&ensp;</span>He that hateth me hateth my Father also.  
+<span class="verse-number">24&ensp;</span>If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father.  
+<span class="verse-number">25&ensp;</span>But _this cometh to pass_, that the word might be fulfilled that is written in their law, They hated me without a cause.  
+<span class="verse-number">26&ensp;</span>But when the Comforter is come, whom I will send unto you from the Father, _even_ the Spirit of truth, which proceedeth from the Father, he shall testify of me:  
+<span class="verse-number">27&ensp;</span>And ye also shall bear witness, because ye have been with me from the beginning.  
+
+## CHAPTER 16.
+
+These things have I spoken unto you, that ye should not be offended.  
+<span class="verse-number">2&ensp;</span>They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.  
+<span class="verse-number">3&ensp;</span>And these things will they do unto you, because they have not known the Father, nor me.  
+<span class="verse-number">4&ensp;</span>But these things have I told you, that when the time shall come, ye may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you.  
+<span class="verse-number">5&ensp;</span>But now I go my way to him that sent me; and none of you asketh me, Whither goest thou?  
+<span class="verse-number">6&ensp;</span>But because I have said these things unto you, sorrow hath filled your heart.  
+<span class="verse-number">7&ensp;</span>Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.  
+<span class="verse-number">8&ensp;</span>And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:  
+<span class="verse-number">9&ensp;</span>Of sin, because they believe not on me;  
+<span class="verse-number">10&ensp;</span>Of righteousness, because I go to my Father, and ye see me no more;  
+<span class="verse-number">11&ensp;</span>Of judgment, because the prince of this world is judged.  
+<span class="verse-number">12&ensp;</span>I have yet many things to say unto you, but ye cannot bear them now.  
+<span class="verse-number">13&ensp;</span>Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, _that_ shall he speak: and he will shew you things to come.  
+<span class="verse-number">14&ensp;</span>He shall glorify me: for he shall receive of mine, and shall shew _it_ unto you.  
+<span class="verse-number">15&ensp;</span>All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew _it_ unto you.  
+<span class="verse-number">16&ensp;</span>A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father.  
+<span class="verse-number">17&ensp;</span>Then said _some_ of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?  
+<span class="verse-number">18&ensp;</span>They said therefore, What is this that he saith, A little while? we cannot tell what he saith.  
+<span class="verse-number">19&ensp;</span>Now Jesus knew that they were desirous to ask him, and said unto them, Do ye enquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?  
+<span class="verse-number">20&ensp;</span>Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy.  
+<span class="verse-number">21&ensp;</span>A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world.  
+<span class="verse-number">22&ensp;</span>And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you.  
+<span class="verse-number">23&ensp;</span>And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give _it_ you.  
+<span class="verse-number">24&ensp;</span>Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.  
+<span class="verse-number">25&ensp;</span>These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father.  
+<span class="verse-number">26&ensp;</span>At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:  
+<span class="verse-number">27&ensp;</span>For the Father himself loveth you, because ye have loved me, and have believed that I came out from God.  
+<span class="verse-number">28&ensp;</span>I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.  
+<span class="verse-number">29&ensp;</span>His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb.  
+<span class="verse-number">30&ensp;</span>Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God.  
+<span class="verse-number">31&ensp;</span>Jesus answered them, Do ye now believe?  
+<span class="verse-number">32&ensp;</span>Behold, the hour cometh, yea, is now come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me.  
+<span class="verse-number">33&ensp;</span>These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.  
+
+## CHAPTER 17.
+
+These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:  
+<span class="verse-number">2&ensp;</span>As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.  
+<span class="verse-number">3&ensp;</span>And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.  
+<span class="verse-number">4&ensp;</span>I have glorified thee on the earth: I have finished the work which thou gavest me to do.  
+<span class="verse-number">5&ensp;</span>And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.  
+<span class="verse-number">6&ensp;</span>I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.  
+<span class="verse-number">7&ensp;</span>Now they have known that all things whatsoever thou hast given me are of thee.  
+<span class="verse-number">8&ensp;</span>For I have given unto them the words which thou gavest me; and they have received _them_, and have known surely that I came out from thee, and they have believed that thou didst send me.  
+<span class="verse-number">9&ensp;</span>I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine.  
+<span class="verse-number">10&ensp;</span>And all mine are thine, and thine are mine; and I am glorified in them.  
+<span class="verse-number">11&ensp;</span>And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we _are_.  
+<span class="verse-number">12&ensp;</span>While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.  
+<span class="verse-number">13&ensp;</span>And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.  
+<span class="verse-number">14&ensp;</span>I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world.  
+<span class="verse-number">15&ensp;</span>I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.  
+<span class="verse-number">16&ensp;</span>They are not of the world, even as I am not of the world.  
+<span class="verse-number">17&ensp;</span>Sanctify them through thy truth: thy word is truth.  
+<span class="verse-number">18&ensp;</span>As thou hast sent me into the world, even so have I also sent them into the world.  
+<span class="verse-number">19&ensp;</span>And for their sakes I sanctify myself, that they also might be sanctified through the truth.  
+<span class="verse-number">20&ensp;</span>Neither pray I for these alone, but for them also which shall believe on me through their word;  
+<span class="verse-number">21&ensp;</span>That they all may be one; as thou, Father, _art_ in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.  
+<span class="verse-number">22&ensp;</span>And the glory which thou gavest me I have given them; that they may be one, even as we are one:  
+<span class="verse-number">23&ensp;</span>I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.  
+<span class="verse-number">24&ensp;</span>Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world.  
+<span class="verse-number">25&ensp;</span>O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me.  
+<span class="verse-number">26&ensp;</span>And I have declared unto them thy name, and will declare _it_: that the love wherewith thou hast loved me may be in them, and I in them.  
+
+## CHAPTER 18.
+
+When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.  
+<span class="verse-number">2&ensp;</span>And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples.  
+<span class="verse-number">3&ensp;</span>Judas then, having received a band _of men_ and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons.  
+<span class="verse-number">4&ensp;</span>Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?  
+<span class="verse-number">5&ensp;</span>They answered him, Jesus of Nazareth. Jesus saith unto them, I am _he_. And Judas also, which betrayed him, stood with them.  
+<span class="verse-number">6&ensp;</span>As soon then as he had said unto them, I am _he_, they went backward, and fell to the ground.  
+<span class="verse-number">7&ensp;</span>Then asked he them again, Whom seek ye? And they said, Jesus of Nazareth.  
+<span class="verse-number">8&ensp;</span>Jesus answered, I have told you that I am _he_: if therefore ye seek me, let these go their way:  
+<span class="verse-number">9&ensp;</span>That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none.  
+<span class="verse-number">10&ensp;</span>Then Simon Peter having a sword drew it, and smote the high priest’s servant, and cut off his right ear. The servant’s name was Malchus.  
+<span class="verse-number">11&ensp;</span>Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?  
+<span class="verse-number">12&ensp;</span>Then the band and the captain and officers of the Jews took Jesus, and bound him,  
+<span class="verse-number">13&ensp;</span>And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.  
+<span class="verse-number">14&ensp;</span>Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.  
+<span class="verse-number">15&ensp;</span>¶ And Simon Peter followed Jesus, and _so did_ another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest.  
+<span class="verse-number">16&ensp;</span>But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter.  
+<span class="verse-number">17&ensp;</span>Then saith the damsel that kept the door unto Peter, Art not thou also _one_ of this man’s disciples? He saith, I am not.  
+<span class="verse-number">18&ensp;</span>And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself.  
+<span class="verse-number">19&ensp;</span>¶ The high priest then asked Jesus of his disciples, and of his doctrine.  
+<span class="verse-number">20&ensp;</span>Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.  
+<span class="verse-number">21&ensp;</span>Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said.  
+<span class="verse-number">22&ensp;</span>And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?  
+<span class="verse-number">23&ensp;</span>Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?  
+<span class="verse-number">24&ensp;</span>Now Annas had sent him bound unto Caiaphas the high priest.  
+<span class="verse-number">25&ensp;</span>And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also _one_ of his disciples? He denied _it_, and said, I am not.  
+<span class="verse-number">26&ensp;</span>One of the servants of the high priest, being _his_ kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?  
+<span class="verse-number">27&ensp;</span>Peter then denied again: and immediately the cock crew.  
+<span class="verse-number">28&ensp;</span>¶ Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover.  
+<span class="verse-number">29&ensp;</span>Pilate then went out unto them, and said, What accusation bring ye against this man?  
+<span class="verse-number">30&ensp;</span>They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee.  
+<span class="verse-number">31&ensp;</span>Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:  
+<span class="verse-number">32&ensp;</span>That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.  
+<span class="verse-number">33&ensp;</span>Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?  
+<span class="verse-number">34&ensp;</span>Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?  
+<span class="verse-number">35&ensp;</span>Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?  
+<span class="verse-number">36&ensp;</span>Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.  
+<span class="verse-number">37&ensp;</span>Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.  
+<span class="verse-number">38&ensp;</span>Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault _at all_.   
+<span class="verse-number">39&ensp;</span>But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?  
+<span class="verse-number">40&ensp;</span>Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.  
+
+## CHAPTER 19.
+
+Then Pilate therefore took Jesus, and scourged _him_.   
+<span class="verse-number">2&ensp;</span>And the soldiers platted a crown of thorns, and put _it_ on his head, and they put on him a purple robe,  
+<span class="verse-number">3&ensp;</span>And said, Hail, King of the Jews! and they smote him with their hands.  
+<span class="verse-number">4&ensp;</span>Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him.  
+<span class="verse-number">5&ensp;</span>Then came Jesus forth, wearing the crown of thorns, and the purple robe. And _Pilate_ saith unto them, Behold the man!  
+<span class="verse-number">6&ensp;</span>When the chief priests therefore and officers saw him, they cried out, saying, Crucify _him_, crucify _him_. Pilate saith unto them, Take ye him, and crucify _him_: for I find no fault in him.  
+<span class="verse-number">7&ensp;</span>The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God.  
+<span class="verse-number">8&ensp;</span>¶ When Pilate therefore heard that saying, he was the more afraid;  
+<span class="verse-number">9&ensp;</span>And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer.  
+<span class="verse-number">10&ensp;</span>Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?  
+<span class="verse-number">11&ensp;</span>Jesus answered, Thou couldest have no power _at all_ against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin.  
+<span class="verse-number">12&ensp;</span>And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Cæsar’s friend: whosoever maketh himself a king speaketh against Cæsar.  
+<span class="verse-number">13&ensp;</span>¶ When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.  
+<span class="verse-number">14&ensp;</span>And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!  
+<span class="verse-number">15&ensp;</span>But they cried out, Away with _him_, away with _him_, crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Cæsar.  
+<span class="verse-number">16&ensp;</span>Then delivered he him therefore unto them to be crucified. And they took Jesus, and led _him_ away.  
+<span class="verse-number">17&ensp;</span>And he bearing his cross went forth into a place called _the place_ of a skull, which is called in the Hebrew Golgotha:  
+<span class="verse-number">18&ensp;</span>Where they crucified him, and two other with him, on either side one, and Jesus in the midst.  
+<span class="verse-number">19&ensp;</span>¶ And Pilate wrote a title, and put _it_ on the cross. And the writing was, JESUS OF NAZARETH THE KING OF THE JEWS.  
+<span class="verse-number">20&ensp;</span>This title then read many of the Jews: for the place where Jesus was crucified was nigh to the city: and it was written in Hebrew, _and_ Greek, _and_ Latin.  
+<span class="verse-number">21&ensp;</span>Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews.  
+<span class="verse-number">22&ensp;</span>Pilate answered, What I have written I have written.  
+<span class="verse-number">23&ensp;</span>¶ Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also _his_ coat: now the coat was without seam, woven from the top throughout.  
+<span class="verse-number">24&ensp;</span>They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did.  
+<span class="verse-number">25&ensp;</span>¶ Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the _wife_ of Cleophas, and Mary Magdalene.  
+<span class="verse-number">26&ensp;</span>When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!  
+<span class="verse-number">27&ensp;</span>Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own _home_.  
+<span class="verse-number">28&ensp;</span>¶ After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst.  
+<span class="verse-number">29&ensp;</span>Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put _it_ upon hyssop, and put _it_ to his mouth.  
+<span class="verse-number">30&ensp;</span>When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.  
+<span class="verse-number">31&ensp;</span>The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and _that_ they might be taken away.  
+<span class="verse-number">32&ensp;</span>Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him.  
+<span class="verse-number">33&ensp;</span>But when they came to Jesus, and saw that he was dead already, they brake not his legs:  
+<span class="verse-number">34&ensp;</span>But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water.  
+<span class="verse-number">35&ensp;</span>And he that saw _it_ bare record, and his record is true: and he knoweth that he saith true, that ye might believe.  
+<span class="verse-number">36&ensp;</span>For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken.  
+<span class="verse-number">37&ensp;</span>And again another scripture saith, They shall look on him whom they pierced.  
+<span class="verse-number">38&ensp;</span>¶ And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave _him_ leave. He came therefore, and took the body of Jesus.  
+<span class="verse-number">39&ensp;</span>And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound _weight_.   
+<span class="verse-number">40&ensp;</span>Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.  
+<span class="verse-number">41&ensp;</span>Now in the place where he was crucified there was a garden; and in the garden a new sepulchre, wherein was never man yet laid.  
+<span class="verse-number">42&ensp;</span>There laid they Jesus therefore because of the Jews’ preparation _day_; for the sepulchre was nigh at hand.  
+
+## CHAPTER 20.
+
+The first _day_ of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.  
+<span class="verse-number">2&ensp;</span>Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him.  
+<span class="verse-number">3&ensp;</span>Peter therefore went forth, and that other disciple, and came to the sepulchre.  
+<span class="verse-number">4&ensp;</span>So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre.  
+<span class="verse-number">5&ensp;</span>And he stooping down, _and looking in_, saw the linen clothes lying; yet went he not in.  
+<span class="verse-number">6&ensp;</span>Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,  
+<span class="verse-number">7&ensp;</span>And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself.  
+<span class="verse-number">8&ensp;</span>Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed.  
+<span class="verse-number">9&ensp;</span>For as yet they knew not the scripture, that he must rise again from the dead.  
+<span class="verse-number">10&ensp;</span>Then the disciples went away again unto their own home.  
+<span class="verse-number">11&ensp;</span>¶ But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, _and looked_ into the sepulchre,  
+<span class="verse-number">12&ensp;</span>And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain.  
+<span class="verse-number">13&ensp;</span>And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him.  
+<span class="verse-number">14&ensp;</span>And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus.  
+<span class="verse-number">15&ensp;</span>Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away.  
+<span class="verse-number">16&ensp;</span>Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.  
+<span class="verse-number">17&ensp;</span>Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and _to_ my God, and your God.  
+<span class="verse-number">18&ensp;</span>Mary Magdalene came and told the disciples that she had seen the Lord, and _that_ he had spoken these things unto her.  
+<span class="verse-number">19&ensp;</span>¶ Then the same day at evening, being the first _day_ of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace _be_ unto you.  
+<span class="verse-number">20&ensp;</span>And when he had so said, he shewed unto them _his_ hands and his side. Then were the disciples glad, when they saw the Lord.  
+<span class="verse-number">21&ensp;</span>Then said Jesus to them again, Peace _be_ unto you: as _my_ Father hath sent me, even so send I you.  
+<span class="verse-number">22&ensp;</span>And when he had said this, he breathed on _them_, and saith unto them, Receive ye the Holy Ghost:  
+<span class="verse-number">23&ensp;</span>Whose soever sins ye remit, they are remitted unto them; _and_ whose soever _sins_ ye retain, they are retained.  
+<span class="verse-number">24&ensp;</span>¶ But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.  
+<span class="verse-number">25&ensp;</span>The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe.  
+<span class="verse-number">26&ensp;</span>¶ And after eight days again his disciples were within, and Thomas with them: _then_ came Jesus, the doors being shut, and stood in the midst, and said, Peace _be_ unto you.  
+<span class="verse-number">27&ensp;</span>Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust _it_ into my side: and be not faithless, but believing.  
+<span class="verse-number">28&ensp;</span>And Thomas answered and said unto him, My Lord and my God.  
+<span class="verse-number">29&ensp;</span>Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed _are_ they that have not seen, and _yet_ have believed.  
+<span class="verse-number">30&ensp;</span>¶ And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:  
+<span class="verse-number">31&ensp;</span>But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.  
+
+## CHAPTER 21.
+
+After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he _himself_.   
+<span class="verse-number">2&ensp;</span>There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the _sons_ of Zebedee, and two other of his disciples.  
+<span class="verse-number">3&ensp;</span>Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing.  
+<span class="verse-number">4&ensp;</span>But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus.  
+<span class="verse-number">5&ensp;</span>Then Jesus saith unto them, Children, have ye any meat? They answered him, No.  
+<span class="verse-number">6&ensp;</span>And he said unto them, Cast the net on the right side of the ship, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes.  
+<span class="verse-number">7&ensp;</span>Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt _his_ fisher’s coat _unto him_, (for he was naked,) and did cast himself into the sea.  
+<span class="verse-number">8&ensp;</span>And the other disciples came in a little ship; (for they were not far from land, but as it were two hundred cubits,) dragging the net with fishes.  
+<span class="verse-number">9&ensp;</span>As soon then as they were come to land, they saw a fire of coals there, and fish laid thereon, and bread.  
+<span class="verse-number">10&ensp;</span>Jesus saith unto them, Bring of the fish which ye have now caught.  
+<span class="verse-number">11&ensp;</span>Simon Peter went up, and drew the net to land full of great fishes, an hundred and fifty and three: and for all there were so many, yet was not the net broken.  
+<span class="verse-number">12&ensp;</span>Jesus saith unto them, Come _and_ dine. And none of the disciples durst ask him, Who art thou? knowing that it was the Lord.  
+<span class="verse-number">13&ensp;</span>Jesus then cometh, and taketh bread, and giveth them, and fish likewise.  
+<span class="verse-number">14&ensp;</span>This is now the third time that Jesus shewed himself to his disciples, after that he was risen from the dead.  
+<span class="verse-number">15&ensp;</span>¶ So when they had dined, Jesus saith to Simon Peter, Simon, _son_ of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.  
+<span class="verse-number">16&ensp;</span>He saith to him again the second time, Simon, _son_ of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.  
+<span class="verse-number">17&ensp;</span>He saith unto him the third time, Simon, _son_ of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.  
+<span class="verse-number">18&ensp;</span>Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry _thee_ whither thou wouldest not.  
+<span class="verse-number">19&ensp;</span>This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.  
+<span class="verse-number">20&ensp;</span>Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?  
+<span class="verse-number">21&ensp;</span>Peter seeing him saith to Jesus, Lord, and what _shall_ this man _do_?   
+<span class="verse-number">22&ensp;</span>Jesus saith unto him, If I will that he tarry till I come, what _is that_ to thee? follow thou me.  
+<span class="verse-number">23&ensp;</span>Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what _is that_ to thee?  
+<span class="verse-number">24&ensp;</span>This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true.  
+<span class="verse-number">25&ensp;</span>And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.  
