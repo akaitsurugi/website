@@ -1,0 +1,263 @@
+---
+title: 'Zechariah'
+template: bible
+simplesearch:
+    process: false
+---
+
+# Zechariah
+
+### ZECHARIAH
+
+## CHAPTER 1.
+
+In the eighth month, in the second year of Darius, came the word of the <span class="small-caps">Lord</span> unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,  
+<span class="verse-number">2&ensp;</span>The <span class="small-caps">Lord</span> hath been sore displeased with your fathers.  
+<span class="verse-number">3&ensp;</span>Therefore say thou unto them, Thus saith the <span class="small-caps">Lord</span> of hosts; Turn ye unto me, saith the <span class="small-caps">Lord</span> of hosts, and I will turn unto you, saith the <span class="small-caps">Lord</span> of hosts.  
+<span class="verse-number">4&ensp;</span>Be ye not as your fathers, unto whom the former prophets have cried, saying, Thus saith the <span class="small-caps">Lord</span> of hosts; Turn ye now from your evil ways, and _from_ your evil doings: but they did not hear, nor hearken unto me, saith the <span class="small-caps">Lord</span>.  
+<span class="verse-number">5&ensp;</span>Your fathers, where _are_ they? and the prophets, do they live for ever?  
+<span class="verse-number">6&ensp;</span>But my words and my statutes, which I commanded my servants the prophets, did they not take hold of your fathers? and they returned and said, Like as the <span class="small-caps">Lord</span> of hosts thought to do unto us, according to our ways, and according to our doings, so hath he dealt with us.  
+<span class="verse-number">7&ensp;</span>¶ Upon the four and twentieth day of the eleventh month, which _is_ the month Sebat, in the second year of Darius, came the word of the <span class="small-caps">Lord</span> unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,  
+<span class="verse-number">8&ensp;</span>I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees that _were_ in the bottom; and behind him _were there_ red horses, speckled, and white.  
+<span class="verse-number">9&ensp;</span>Then said I, O my lord, what _are_ these? And the angel that talked with me said unto me, I will shew thee what these _be_.  
+<span class="verse-number">10&ensp;</span>And the man that stood among the myrtle trees answered and said, These _are they_ whom the <span class="small-caps">Lord</span> hath sent to walk to and fro through the earth.  
+<span class="verse-number">11&ensp;</span>And they answered the angel of the <span class="small-caps">Lord</span> that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, behold, all the earth sitteth still, and is at rest.  
+<span class="verse-number">12&ensp;</span>¶ Then the angel of the <span class="small-caps">Lord</span> answered and said, O <span class="small-caps">Lord</span> of hosts, how long wilt thou not have mercy on Jerusalem and on the cities of Judah, against which thou hast had indignation these threescore and ten years?  
+<span class="verse-number">13&ensp;</span>And the <span class="small-caps">Lord</span> answered the angel that talked with me _with_ good words _and_ comfortable words.  
+<span class="verse-number">14&ensp;</span>So the angel that communed with me said unto me, Cry thou, saying, Thus saith the <span class="small-caps">Lord</span> of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.  
+<span class="verse-number">15&ensp;</span>And I am very sore displeased with the heathen _that are_ at ease: for I was but a little displeased, and they helped forward the affliction.  
+<span class="verse-number">16&ensp;</span>Therefore thus saith the <span class="small-caps">Lord</span>; I am returned to Jerusalem with mercies: my house shall be built in it, saith the <span class="small-caps">Lord</span> of hosts, and a line shall be stretched forth upon Jerusalem.  
+<span class="verse-number">17&ensp;</span>Cry yet, saying, Thus saith the <span class="small-caps">Lord</span> of hosts; My cities through prosperity shall yet be spread abroad; and the <span class="small-caps">Lord</span> shall yet comfort Zion, and shall yet choose Jerusalem.  
+<span class="verse-number">18&ensp;</span>¶ Then lifted I up mine eyes, and saw, and behold four horns.  
+<span class="verse-number">19&ensp;</span>And I said unto the angel that talked with me, What _be_ these? And he answered me, These _are_ the horns which have scattered Judah, Israel, and Jerusalem.  
+<span class="verse-number">20&ensp;</span>And the <span class="small-caps">Lord</span> shewed me four carpenters.  
+<span class="verse-number">21&ensp;</span>Then said I, What come these to do? And he spake, saying, These _are_ the horns which have scattered Judah, so that no man did lift up his head: but these are come to fray them, to cast out the horns of the Gentiles, which lifted up _their_ horn over the land of Judah to scatter it.  
+
+## CHAPTER 2.
+
+I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand.  
+<span class="verse-number">2&ensp;</span>Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what _is_ the breadth thereof, and what _is_ the length thereof.  
+<span class="verse-number">3&ensp;</span>And, behold, the angel that talked with me went forth, and another angel went out to meet him,  
+<span class="verse-number">4&ensp;</span>And said unto him, Run, speak to this young man, saying, Jerusalem shall be inhabited _as_ towns without walls for the multitude of men and cattle therein:  
+<span class="verse-number">5&ensp;</span>For I, saith the <span class="small-caps">Lord</span>, will be unto her a wall of fire round about, and will be the glory in the midst of her.  
+<span class="verse-number">6&ensp;</span>¶ Ho, ho, _come forth_, and flee from the land of the north, saith the <span class="small-caps">Lord</span>: for I have spread you abroad as the four winds of the heaven, saith the <span class="small-caps">Lord</span>.  
+<span class="verse-number">7&ensp;</span>Deliver thyself, O Zion, that dwellest _with_ the daughter of Babylon.  
+<span class="verse-number">8&ensp;</span>For thus saith the <span class="small-caps">Lord</span> of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye.  
+<span class="verse-number">9&ensp;</span>For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the <span class="small-caps">Lord</span> of hosts hath sent me.  
+<span class="verse-number">10&ensp;</span>¶ Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the <span class="small-caps">Lord</span>.  
+<span class="verse-number">11&ensp;</span>And many nations shall be joined to the <span class="small-caps">Lord</span> in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the <span class="small-caps">Lord</span> of hosts hath sent me unto thee.  
+<span class="verse-number">12&ensp;</span>And the <span class="small-caps">Lord</span> shall inherit Judah his portion in the holy land, and shall choose Jerusalem again.  
+<span class="verse-number">13&ensp;</span>Be silent, O all flesh, before the <span class="small-caps">Lord</span>: for he is raised up out of his holy habitation.  
+
+## CHAPTER 3.
+
+And he shewed me Joshua the high priest standing before the angel of the <span class="small-caps">Lord</span>, and Satan standing at his right hand to resist him.  
+<span class="verse-number">2&ensp;</span>And the <span class="small-caps">Lord</span> said unto Satan, The <span class="small-caps">Lord</span> rebuke thee, O Satan; even the <span class="small-caps">Lord</span> that hath chosen Jerusalem rebuke thee: _is_ not this a brand plucked out of the fire?  
+<span class="verse-number">3&ensp;</span>Now Joshua was clothed with filthy garments, and stood before the angel.  
+<span class="verse-number">4&ensp;</span>And he answered and spake unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment.  
+<span class="verse-number">5&ensp;</span>And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the <span class="small-caps">Lord</span> stood by.  
+<span class="verse-number">6&ensp;</span>And the angel of the <span class="small-caps">Lord</span> protested unto Joshua, saying,  
+<span class="verse-number">7&ensp;</span>Thus saith the <span class="small-caps">Lord</span> of hosts; If thou wilt walk in my ways, and if thou wilt keep my charge, then thou shalt also judge my house, and shalt also keep my courts, and I will give thee places to walk among these that stand by.  
+<span class="verse-number">8&ensp;</span>¶ Hear now, O Joshua the high priest, thou, and thy fellows that sit before thee: for they _are_ men wondered at: for, behold, I will bring forth my servant the BRANCH.  
+<span class="verse-number">9&ensp;</span>For behold the stone that I have laid before Joshua; upon one stone _shall be_ seven eyes: behold, I will engrave the graving thereof, saith the <span class="small-caps">Lord</span> of hosts, and I will remove the iniquity of that land in one day.  
+<span class="verse-number">10&ensp;</span>In that day, saith the <span class="small-caps">Lord</span> of hosts, shall ye call every man his neighbour under the vine and under the fig tree.  
+
+## CHAPTER 4.
+
+And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,  
+<span class="verse-number">2&ensp;</span>And said unto me, What seest thou? And I said, I have looked, and behold a candlestick all _of_ gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which _are_ upon the top thereof:  
+<span class="verse-number">3&ensp;</span>And two olive trees by it, one upon the right _side_ of the bowl, and the other upon the left _side_ thereof.  
+<span class="verse-number">4&ensp;</span>So I answered and spake to the angel that talked with me, saying, What _are_ these, my lord?  
+<span class="verse-number">5&ensp;</span>Then the angel that talked with me answered and said unto me, Knowest thou not what these be? And I said, No, my lord.  
+<span class="verse-number">6&ensp;</span>Then he answered and spake unto me, saying, This _is_ the word of the <span class="small-caps">Lord</span> unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the <span class="small-caps">Lord</span> of hosts.  
+<span class="verse-number">7&ensp;</span>Who _art_ thou, O great mountain? before Zerubbabel _thou shalt become_ a plain: and he shall bring forth the headstone _thereof with_ shoutings, _crying_, Grace, grace unto it.  
+<span class="verse-number">8&ensp;</span>Moreover the word of the <span class="small-caps">Lord</span> came unto me, saying,  
+<span class="verse-number">9&ensp;</span>The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the <span class="small-caps">Lord</span> of hosts hath sent me unto you.  
+<span class="verse-number">10&ensp;</span>For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel _with_ those seven; they _are_ the eyes of the <span class="small-caps">Lord</span>, which run to and fro through the whole earth.  
+<span class="verse-number">11&ensp;</span>¶ Then answered I, and said unto him, What _are_ these two olive trees upon the right _side_ of the candlestick and upon the left _side_ thereof?  
+<span class="verse-number">12&ensp;</span>And I answered again, and said unto him, What _be these_ two olive branches which through the two golden pipes empty the golden _oil_ out of themselves?  
+<span class="verse-number">13&ensp;</span>And he answered me and said, Knowest thou not what these _be_? And I said, No, my lord.  
+<span class="verse-number">14&ensp;</span>Then said he, These _are_ the two anointed ones, that stand by the Lord of the whole earth.  
+
+## CHAPTER 5.
+
+Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.  
+<span class="verse-number">2&ensp;</span>And he said unto me, What seest thou? And I answered, I see a flying roll; the length thereof _is_ twenty cubits, and the breadth thereof ten cubits.  
+<span class="verse-number">3&ensp;</span>Then said he unto me, This _is_ the curse that goeth forth over the face of the whole earth: for every one that stealeth shall be cut off _as_ on this side according to it; and every one that sweareth shall be cut off _as_ on that side according to it.  
+<span class="verse-number">4&ensp;</span>I will bring it forth, saith the <span class="small-caps">Lord</span> of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof.  
+<span class="verse-number">5&ensp;</span>¶ Then the angel that talked with me went forth, and said unto me, Lift up now thine eyes, and see what _is_ this that goeth forth.  
+<span class="verse-number">6&ensp;</span>And I said, What _is_ it? And he said, This _is_ an ephah that goeth forth. He said moreover, This _is_ their resemblance through all the earth.  
+<span class="verse-number">7&ensp;</span>And, behold, there was lifted up a talent of lead: and this _is_ a woman that sitteth in the midst of the ephah.  
+<span class="verse-number">8&ensp;</span>And he said, This _is_ wickedness. And he cast it into the midst of the ephah; and he cast the weight of lead upon the mouth thereof.  
+<span class="verse-number">9&ensp;</span>Then lifted I up mine eyes, and looked, and, behold, there came out two women, and the wind _was_ in their wings; for they had wings like the wings of a stork: and they lifted up the ephah between the earth and the heaven.  
+<span class="verse-number">10&ensp;</span>Then said I to the angel that talked with me, Whither do these bear the ephah?  
+<span class="verse-number">11&ensp;</span>And he said unto me, To build it an house in the land of Shinar: and it shall be established, and set there upon her own base.  
+
+## CHAPTER 6.
+
+And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains _were_ mountains of brass.  
+<span class="verse-number">2&ensp;</span>In the first chariot _were_ red horses; and in the second chariot black horses;  
+<span class="verse-number">3&ensp;</span>And in the third chariot white horses; and in the fourth chariot grisled and bay horses.  
+<span class="verse-number">4&ensp;</span>Then I answered and said unto the angel that talked with me, What _are_ these, my lord?  
+<span class="verse-number">5&ensp;</span>And the angel answered and said unto me, These _are_ the four spirits of the heavens, which go forth from standing before the Lord of all the earth.  
+<span class="verse-number">6&ensp;</span>The black horses which _are_ therein go forth into the north country; and the white go forth after them; and the grisled go forth toward the south country.  
+<span class="verse-number">7&ensp;</span>And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth.  
+<span class="verse-number">8&ensp;</span>Then cried he upon me, and spake unto me, saying, Behold, these that go toward the north country have quieted my spirit in the north country.  
+<span class="verse-number">9&ensp;</span>¶ And the word of the <span class="small-caps">Lord</span> came unto me, saying,  
+<span class="verse-number">10&ensp;</span>Take of _them of_ the captivity, _even_ of Heldai, of Tobijah, and of Jedaiah, which are come from Babylon, and come thou the same day, and go into the house of Josiah the son of Zephaniah;  
+<span class="verse-number">11&ensp;</span>Then take silver and gold, and make crowns, and set _them_ upon the head of Joshua the son of Josedech, the high priest;  
+<span class="verse-number">12&ensp;</span>And speak unto him, saying, Thus speaketh the <span class="small-caps">Lord</span> of hosts, saying, Behold the man whose name _is_ The BRANCH; and he shall grow up out of his place, and he shall build the temple of the <span class="small-caps">Lord</span>:  
+<span class="verse-number">13&ensp;</span>Even he shall build the temple of the <span class="small-caps">Lord</span>; and he shall bear the glory, and shall sit and rule upon his throne; and he shall be a priest upon his throne: and the counsel of peace shall be between them both.  
+<span class="verse-number">14&ensp;</span>And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of the <span class="small-caps">Lord</span>.  
+<span class="verse-number">15&ensp;</span>And they _that are_ far off shall come and build in the temple of the <span class="small-caps">Lord</span>, and ye shall know that the <span class="small-caps">Lord</span> of hosts hath sent me unto you. And _this_ shall come to pass, if ye will diligently obey the voice of the <span class="small-caps">Lord</span> your God.  
+
+## CHAPTER 7.
+
+And it came to pass in the fourth year of king Darius, _that_ the word of the <span class="small-caps">Lord</span> came unto Zechariah in the fourth _day_ of the ninth month, _even_ in Chisleu;  
+<span class="verse-number">2&ensp;</span>When they had sent unto the house of God Sherezer and Regem–melech, and their men, to pray before the <span class="small-caps">Lord</span>,  
+<span class="verse-number">3&ensp;</span>_And_ to speak unto the priests which _were_ in the house of the <span class="small-caps">Lord</span> of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?  
+<span class="verse-number">4&ensp;</span>¶ Then came the word of the <span class="small-caps">Lord</span> of hosts unto me, saying,  
+<span class="verse-number">5&ensp;</span>Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh _month_, even those seventy years, did ye at all fast unto me, _even_ to me?  
+<span class="verse-number">6&ensp;</span>And when ye did eat, and when ye did drink, did not ye eat _for yourselves_, and drink _for yourselves_?  
+<span class="verse-number">7&ensp;</span>_Should ye_ not _hear_ the words which the <span class="small-caps">Lord</span> hath cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when _men_ inhabited the south and the plain?  
+<span class="verse-number">8&ensp;</span>¶ And the word of the <span class="small-caps">Lord</span> came unto Zechariah, saying,  
+<span class="verse-number">9&ensp;</span>Thus speaketh the <span class="small-caps">Lord</span> of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother:  
+<span class="verse-number">10&ensp;</span>And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart.  
+<span class="verse-number">11&ensp;</span>But they refused to hearken, and pulled away the shoulder, and stopped their ears, that they should not hear.  
+<span class="verse-number">12&ensp;</span>Yea, they made their hearts _as_ an adamant stone, lest they should hear the law, and the words which the <span class="small-caps">Lord</span> of hosts hath sent in his spirit by the former prophets: therefore came a great wrath from the <span class="small-caps">Lord</span> of hosts.  
+<span class="verse-number">13&ensp;</span>Therefore it is come to pass, _that_ as he cried, and they would not hear; so they cried, and I would not hear, saith the <span class="small-caps">Lord</span> of hosts:  
+<span class="verse-number">14&ensp;</span>But I scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate.  
+
+## CHAPTER 8.
+
+Again the word of the <span class="small-caps">Lord</span> of hosts came _to me_, saying,  
+<span class="verse-number">2&ensp;</span>Thus saith the <span class="small-caps">Lord</span> of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury.  
+<span class="verse-number">3&ensp;</span>Thus saith the <span class="small-caps">Lord</span>; I am returned unto Zion, and will dwell in the midst of Jerusalem: and Jerusalem shall be called a city of truth; and the mountain of the <span class="small-caps">Lord</span> of hosts the holy mountain.  
+<span class="verse-number">4&ensp;</span>Thus saith the <span class="small-caps">Lord</span> of hosts; There shall yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age.  
+<span class="verse-number">5&ensp;</span>And the streets of the city shall be full of boys and girls playing in the streets thereof.  
+<span class="verse-number">6&ensp;</span>Thus saith the <span class="small-caps">Lord</span> of hosts; If it be marvellous in the eyes of the remnant of this people in these days, should it also be marvellous in mine eyes? saith the <span class="small-caps">Lord</span> of hosts.  
+<span class="verse-number">7&ensp;</span>Thus saith the <span class="small-caps">Lord</span> of hosts; Behold, I will save my people from the east country, and from the west country;  
+<span class="verse-number">8&ensp;</span>And I will bring them, and they shall dwell in the midst of Jerusalem: and they shall be my people, and I will be their God, in truth and in righteousness.  
+<span class="verse-number">9&ensp;</span>¶ Thus saith the <span class="small-caps">Lord</span> of hosts; Let your hands be strong, ye that hear in these days these words by the mouth of the prophets, which _were_ in the day _that_ the foundation of the house of the <span class="small-caps">Lord</span> of hosts was laid, that the temple might be built.  
+<span class="verse-number">10&ensp;</span>For before these days there was no hire for man, nor any hire for beast; neither _was there any_ peace to him that went out or came in because of the affliction: for I set all men every one against his neighbour.  
+<span class="verse-number">11&ensp;</span>But now I _will_ not _be_ unto the residue of this people as in the former days, saith the <span class="small-caps">Lord</span> of hosts.  
+<span class="verse-number">12&ensp;</span>For the seed _shall be_ prosperous; the vine shall give her fruit, and the ground shall give her increase, and the heavens shall give their dew; and I will cause the remnant of this people to possess all these _things_.  
+<span class="verse-number">13&ensp;</span>And it shall come to pass, _that_ as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, _but_ let your hands be strong.  
+<span class="verse-number">14&ensp;</span>For thus saith the <span class="small-caps">Lord</span> of hosts; As I thought to punish you, when your fathers provoked me to wrath, saith the <span class="small-caps">Lord</span> of hosts, and I repented not:  
+<span class="verse-number">15&ensp;</span>So again have I thought in these days to do well unto Jerusalem and to the house of Judah: fear ye not.  
+<span class="verse-number">16&ensp;</span>¶ These _are_ the things that ye shall do; Speak ye every man the truth to his neighbour; execute the judgment of truth and peace in your gates:  
+<span class="verse-number">17&ensp;</span>And let none of you imagine evil in your hearts against his neighbour; and love no false oath: for all these _are things_ that I hate, saith the <span class="small-caps">Lord</span>.  
+<span class="verse-number">18&ensp;</span>¶ And the word of the <span class="small-caps">Lord</span> of hosts came unto me, saying,  
+<span class="verse-number">19&ensp;</span>Thus saith the <span class="small-caps">Lord</span> of hosts; The fast of the fourth _month_, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love the truth and peace.  
+<span class="verse-number">20&ensp;</span>Thus saith the <span class="small-caps">Lord</span> of hosts; _It shall_ yet _come to pass_, that there shall come people, and the inhabitants of many cities:  
+<span class="verse-number">21&ensp;</span>And the inhabitants of one _city_ shall go to another, saying, Let us go speedily to pray before the <span class="small-caps">Lord</span>, and to seek the <span class="small-caps">Lord</span> of hosts: I will go also.  
+<span class="verse-number">22&ensp;</span>Yea, many people and strong nations shall come to seek the <span class="small-caps">Lord</span> of hosts in Jerusalem, and to pray before the <span class="small-caps">Lord</span>.  
+<span class="verse-number">23&ensp;</span>Thus saith the <span class="small-caps">Lord</span> of hosts; In those days _it shall come to pass_, that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard _that_ God _is_ with you.  
+
+## CHAPTER 9.
+
+The burden of the word of the <span class="small-caps">Lord</span> in the land of Hadrach, and Damascus _shall be_ the rest thereof: when the eyes of man, as of all the tribes of Israel, _shall be_ toward the <span class="small-caps">Lord</span>.  
+<span class="verse-number">2&ensp;</span>And Hamath also shall border thereby; Tyrus, and Zidon, though it be very wise.  
+<span class="verse-number">3&ensp;</span>And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets.  
+<span class="verse-number">4&ensp;</span>Behold, the Lord will cast her out, and he will smite her power in the sea; and she shall be devoured with fire.  
+<span class="verse-number">5&ensp;</span>Ashkelon shall see _it_, and fear; Gaza also _shall see it_, and be very sorrowful, and Ekron; for her expectation shall be ashamed; and the king shall perish from Gaza, and Ashkelon shall not be inhabited.  
+<span class="verse-number">6&ensp;</span>And a bastard shall dwell in Ashdod, and I will cut off the pride of the Philistines.  
+<span class="verse-number">7&ensp;</span>And I will take away his blood out of his mouth, and his abominations from between his teeth: but he that remaineth, even he, _shall be_ for our God, and he shall be as a governor in Judah, and Ekron as a Jebusite.  
+<span class="verse-number">8&ensp;</span>And I will encamp about mine house because of the army, because of him that passeth by, and because of him that returneth: and no oppressor shall pass through them any more: for now have I seen with mine eyes.  
+<span class="verse-number">9&ensp;</span>¶ Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he _is_ just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.  
+<span class="verse-number">10&ensp;</span>And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow shall be cut off: and he shall speak peace unto the heathen: and his dominion _shall be_ from sea _even_ to sea, and from the river _even_ to the ends of the earth.  
+<span class="verse-number">11&ensp;</span>As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein _is_ no water.  
+<span class="verse-number">12&ensp;</span>¶ Turn you to the strong hold, ye prisoners of hope: even to day do I declare _that_ I will render double unto thee;  
+<span class="verse-number">13&ensp;</span>When I have bent Judah for me, filled the bow with Ephraim, and raised up thy sons, O Zion, against thy sons, O Greece, and made thee as the sword of a mighty man.  
+<span class="verse-number">14&ensp;</span>And the <span class="small-caps">Lord</span> shall be seen over them, and his arrow shall go forth as the lightning: and the Lord <span class="small-caps">God</span> shall blow the trumpet, and shall go with whirlwinds of the south.  
+<span class="verse-number">15&ensp;</span>The <span class="small-caps">Lord</span> of hosts shall defend them; and they shall devour, and subdue with sling stones; and they shall drink, _and_ make a noise as through wine; and they shall be filled like bowls, _and_ as the corners of the altar.  
+<span class="verse-number">16&ensp;</span>And the <span class="small-caps">Lord</span> their God shall save them in that day as the flock of his people: for they _shall be as_ the stones of a crown, lifted up as an ensign upon his land.  
+<span class="verse-number">17&ensp;</span>For how great _is_ his goodness, and how great _is_ his beauty! corn shall make the young men cheerful, and new wine the maids.  
+
+## CHAPTER 10.
+
+Ask ye of the <span class="small-caps">Lord</span> rain in the time of the latter rain; _so_ the <span class="small-caps">Lord</span> shall make bright clouds, and give them showers of rain, to every one grass in the field.  
+<span class="verse-number">2&ensp;</span>For the idols have spoken vanity, and the diviners have seen a lie, and have told false dreams; they comfort in vain: therefore they went their way as a flock, they were troubled, because _there was_ no shepherd.  
+<span class="verse-number">3&ensp;</span>Mine anger was kindled against the shepherds, and I punished the goats: for the <span class="small-caps">Lord</span> of hosts hath visited his flock the house of Judah, and hath made them as his goodly horse in the battle.  
+<span class="verse-number">4&ensp;</span>Out of him came forth the corner, out of him the nail, out of him the battle bow, out of him every oppressor together.  
+<span class="verse-number">5&ensp;</span>¶ And they shall be as mighty _men_, which tread down _their enemies_ in the mire of the streets in the battle: and they shall fight, because the <span class="small-caps">Lord</span> _is_ with them, and the riders on horses shall be confounded.  
+<span class="verse-number">6&ensp;</span>And I will strengthen the house of Judah, and I will save the house of Joseph, and I will bring them again to place them; for I have mercy upon them: and they shall be as though I had not cast them off: for I _am_ the <span class="small-caps">Lord</span> their God, and will hear them.  
+<span class="verse-number">7&ensp;</span>And _they of_ Ephraim shall be like a mighty _man_, and their heart shall rejoice as through wine: yea, their children shall see _it_, and be glad; their heart shall rejoice in the <span class="small-caps">Lord</span>.  
+<span class="verse-number">8&ensp;</span>I will hiss for them, and gather them; for I have redeemed them: and they shall increase as they have increased.  
+<span class="verse-number">9&ensp;</span>And I will sow them among the people: and they shall remember me in far countries; and they shall live with their children, and turn again.  
+<span class="verse-number">10&ensp;</span>I will bring them again also out of the land of Egypt, and gather them out of Assyria; and I will bring them into the land of Gilead and Lebanon; and _place_ shall not be found for them.  
+<span class="verse-number">11&ensp;</span>And he shall pass through the sea with affliction, and shall smite the waves in the sea, and all the deeps of the river shall dry up: and the pride of Assyria shall be brought down, and the sceptre of Egypt shall depart away.  
+<span class="verse-number">12&ensp;</span>And I will strengthen them in the <span class="small-caps">Lord</span>; and they shall walk up and down in his name, saith the <span class="small-caps">Lord</span>.  
+
+## CHAPTER 11.
+
+Open thy doors, O Lebanon, that the fire may devour thy cedars.  
+<span class="verse-number">2&ensp;</span>Howl, fir tree; for the cedar is fallen; because the mighty are spoiled: howl, O ye oaks of Bashan; for the forest of the vintage is come down.  
+<span class="verse-number">3&ensp;</span>¶ _There is_ a voice of the howling of the shepherds; for their glory is spoiled: a voice of the roaring of young lions; for the pride of Jordan is spoiled.  
+<span class="verse-number">4&ensp;</span>¶ Thus saith the <span class="small-caps">Lord</span> my God; Feed the flock of the slaughter;  
+<span class="verse-number">5&ensp;</span>Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed _be_ the <span class="small-caps">Lord</span>; for I am rich: and their own shepherds pity them not.  
+<span class="verse-number">6&ensp;</span>For I will no more pity the inhabitants of the land, saith the <span class="small-caps">Lord</span>: but, lo, I will deliver the men every one into his neighbour’s hand, and into the hand of his king: and they shall smite the land, and out of their hand I will not deliver _them_.  
+<span class="verse-number">7&ensp;</span>And I will feed the flock of slaughter, _even_ you, O poor of the flock. And I took unto me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock.  
+<span class="verse-number">8&ensp;</span>Three shepherds also I cut off in one month; and my soul lothed them, and their soul also abhorred me.  
+<span class="verse-number">9&ensp;</span>Then said I, I will not feed you: that that dieth, let it die; and that that is to be cut off, let it be cut off; and let the rest eat every one the flesh of another.  
+<span class="verse-number">10&ensp;</span>¶ And I took my staff, _even_ Beauty, and cut it asunder, that I might break my covenant which I had made with all the people.  
+<span class="verse-number">11&ensp;</span>And it was broken in that day: and so the poor of the flock that waited upon me knew that it _was_ the word of the <span class="small-caps">Lord</span>.  
+<span class="verse-number">12&ensp;</span>And I said unto them, If ye think good, give _me_ my price; and if not, forbear. So they weighed for my price thirty _pieces_ of silver.  
+<span class="verse-number">13&ensp;</span>And the <span class="small-caps">Lord</span> said unto me, Cast it unto the potter: a goodly price that I was prised at of them. And I took the thirty _pieces_ of silver, and cast them to the potter in the house of the <span class="small-caps">Lord</span>.  
+<span class="verse-number">14&ensp;</span>Then I cut asunder mine other staff, _even_ Bands, that I might break the brotherhood between Judah and Israel.  
+<span class="verse-number">15&ensp;</span>¶ And the <span class="small-caps">Lord</span> said unto me, Take unto thee yet the instruments of a foolish shepherd.  
+<span class="verse-number">16&ensp;</span>For, lo, I will raise up a shepherd in the land, _which_ shall not visit those that be cut off, neither shall seek the young one, nor heal that that is broken, nor feed that that standeth still: but he shall eat the flesh of the fat, and tear their claws in pieces.  
+<span class="verse-number">17&ensp;</span>Woe to the idol shepherd that leaveth the flock! the sword _shall be_ upon his arm, and upon his right eye: his arm shall be clean dried up, and his right eye shall be utterly darkened.  
+
+## CHAPTER 12.
+
+The burden of the word of the <span class="small-caps">Lord</span> for Israel, saith the <span class="small-caps">Lord</span>, which stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him.  
+<span class="verse-number">2&ensp;</span>Behold, I will make Jerusalem a cup of trembling unto all the people round about, when they shall be in the siege both against Judah _and_ against Jerusalem.  
+<span class="verse-number">3&ensp;</span>¶ And in that day will I make Jerusalem a burdensome stone for all people: all that burden themselves with it shall be cut in pieces, though all the people of the earth be gathered together against it.  
+<span class="verse-number">4&ensp;</span>In that day, saith the <span class="small-caps">Lord</span>, I will smite every horse with astonishment, and his rider with madness: and I will open mine eyes upon the house of Judah, and will smite every horse of the people with blindness.  
+<span class="verse-number">5&ensp;</span>And the governors of Judah shall say in their heart, The inhabitants of Jerusalem _shall be_ my strength in the <span class="small-caps">Lord</span> of hosts their God.  
+<span class="verse-number">6&ensp;</span>¶ In that day will I make the governors of Judah like an hearth of fire among the wood, and like a torch of fire in a sheaf; and they shall devour all the people round about, on the right hand and on the left: and Jerusalem shall be inhabited again in her own place, _even_ in Jerusalem.  
+<span class="verse-number">7&ensp;</span>The <span class="small-caps">Lord</span> also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem do not magnify _themselves_ against Judah.  
+<span class="verse-number">8&ensp;</span>In that day shall the <span class="small-caps">Lord</span> defend the inhabitants of Jerusalem; and he that is feeble among them at that day shall be as David; and the house of David _shall be_ as God, as the angel of the <span class="small-caps">Lord</span> before them.  
+<span class="verse-number">9&ensp;</span>¶ And it shall come to pass in that day, _that_ I will seek to destroy all the nations that come against Jerusalem.  
+<span class="verse-number">10&ensp;</span>And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for _his_ only _son_, and shall be in bitterness for him, as one that is in bitterness for _his_ firstborn.  
+<span class="verse-number">11&ensp;</span>In that day shall there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon.  
+<span class="verse-number">12&ensp;</span>And the land shall mourn, every family apart; the family of the house of David apart, and their wives apart; the family of the house of Nathan apart, and their wives apart;  
+<span class="verse-number">13&ensp;</span>The family of the house of Levi apart, and their wives apart; the family of Shimei apart, and their wives apart;  
+<span class="verse-number">14&ensp;</span>All the families that remain, every family apart, and their wives apart.  
+
+## CHAPTER 13.
+
+In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.  
+<span class="verse-number">2&ensp;</span>¶ And it shall come to pass in that day, saith the <span class="small-caps">Lord</span> of hosts, _that_ I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.  
+<span class="verse-number">3&ensp;</span>And it shall come to pass, _that_ when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the <span class="small-caps">Lord</span>: and his father and his mother that begat him shall thrust him through when he prophesieth.  
+<span class="verse-number">4&ensp;</span>And it shall come to pass in that day, _that_ the prophets shall be ashamed every one of his vision, when he hath prophesied; neither shall they wear a rough garment to deceive:  
+<span class="verse-number">5&ensp;</span>But he shall say, I _am_ no prophet, I _am_ an husbandman; for man taught me to keep cattle from my youth.  
+<span class="verse-number">6&ensp;</span>And _one_ shall say unto him, What _are_ these wounds in thine hands? Then he shall answer, _Those_ with which I was wounded _in_ the house of my friends.  
+<span class="verse-number">7&ensp;</span>¶ Awake, O sword, against my shepherd, and against the man _that is_ my fellow, saith the <span class="small-caps">Lord</span> of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones.  
+<span class="verse-number">8&ensp;</span>And it shall come to pass, _that_ in all the land, saith the <span class="small-caps">Lord</span>, two parts therein shall be cut off _and_ die; but the third shall be left therein.  
+<span class="verse-number">9&ensp;</span>And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It _is_ my people: and they shall say, The <span class="small-caps">Lord</span> _is_ my God.  
+
+## CHAPTER 14.
+
+Behold, the day of the <span class="small-caps">Lord</span> cometh, and thy spoil shall be divided in the midst of thee.  
+<span class="verse-number">2&ensp;</span>For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city.  
+<span class="verse-number">3&ensp;</span>Then shall the <span class="small-caps">Lord</span> go forth, and fight against those nations, as when he fought in the day of battle.  
+<span class="verse-number">4&ensp;</span>¶ And his feet shall stand in that day upon the mount of Olives, which _is_ before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, _and there shall be_ a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south.  
+<span class="verse-number">5&ensp;</span>And ye shall flee _to_ the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the <span class="small-caps">Lord</span> my God shall come, _and_ all the saints with thee.  
+<span class="verse-number">6&ensp;</span>And it shall come to pass in that day, _that_ the light shall not be clear, _nor_ dark:  
+<span class="verse-number">7&ensp;</span>But it shall be one day which shall be known to the <span class="small-caps">Lord</span>, not day, nor night: but it shall come to pass, _that_ at evening time it shall be light.  
+<span class="verse-number">8&ensp;</span>¶ And it shall be in that day, _that_ living waters shall go out from Jerusalem; half of them toward the former sea, and half of them toward the hinder sea: in summer and in winter shall it be.  
+<span class="verse-number">9&ensp;</span>And the <span class="small-caps">Lord</span> shall be king over all the earth: in that day shall there be one <span class="small-caps">Lord</span>, and his name one.  
+<span class="verse-number">10&ensp;</span>All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin’s gate unto the place of the first gate, unto the corner gate, and _from_ the tower of Hananeel unto the king’s winepresses.  
+<span class="verse-number">11&ensp;</span>And _men_ shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited.  
+<span class="verse-number">12&ensp;</span>¶ And this shall be the plague wherewith the <span class="small-caps">Lord</span> will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.  
+<span class="verse-number">13&ensp;</span>And it shall come to pass in that day, _that_ a great tumult from the <span class="small-caps">Lord</span> shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour.  
+<span class="verse-number">14&ensp;</span>And Judah also shall fight at Jerusalem; and the wealth of all the heathen round about shall be gathered together, gold, and silver, and apparel, in great abundance.  
+<span class="verse-number">15&ensp;</span>And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in these tents, as this plague.  
+<span class="verse-number">16&ensp;</span>¶ And it shall come to pass, _that_ every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the <span class="small-caps">Lord</span> of hosts, and to keep the feast of tabernacles.  
+<span class="verse-number">17&ensp;</span>And it shall be, _that_ whoso will not come up of _all_ the families of the earth unto Jerusalem to worship the King, the <span class="small-caps">Lord</span> of hosts, even upon them shall be no rain.  
+<span class="verse-number">18&ensp;</span>And if the family of Egypt go not up, and come not, that _have_ no _rain_; there shall be the plague, wherewith the <span class="small-caps">Lord</span> will smite the heathen that come not up to keep the feast of tabernacles.  
+<span class="verse-number">19&ensp;</span>This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles.  
+<span class="verse-number">20&ensp;</span>¶ In that day shall there be upon the bells of the horses, HOLINESS UNTO THE <span class="small-caps">Lord</span>; and the pots in the <span class="small-caps">Lord’s</span> house shall be like the bowls before the altar.  
+<span class="verse-number">21&ensp;</span>Yea, every pot in Jerusalem and in Judah shall be holiness unto the <span class="small-caps">Lord</span> of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the <span class="small-caps">Lord</span> of hosts.  

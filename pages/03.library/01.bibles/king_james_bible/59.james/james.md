@@ -1,0 +1,133 @@
+---
+title: 'James'
+template: bible
+simplesearch:
+    process: false
+---
+
+# James
+
+### THE GENERAL EPISTLE OF JAMES
+
+## CHAPTER 1.
+
+James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.  
+<span class="verse-number">2&ensp;</span>¶ My brethren, count it all joy when ye fall into divers temptations;  
+<span class="verse-number">3&ensp;</span>Knowing _this_, that the trying of your faith worketh patience.  
+<span class="verse-number">4&ensp;</span>But let patience have _her_ perfect work, that ye may be perfect and entire, wanting nothing.  
+<span class="verse-number">5&ensp;</span>If any of you lack wisdom, let him ask of God, that giveth to all _men_ liberally, and upbraideth not; and it shall be given him.  
+<span class="verse-number">6&ensp;</span>But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.  
+<span class="verse-number">7&ensp;</span>For let not that man think that he shall receive any thing of the Lord.  
+<span class="verse-number">8&ensp;</span>A double minded man _is_ unstable in all his ways.  
+<span class="verse-number">9&ensp;</span>Let the brother of low degree rejoice in that he is exalted:  
+<span class="verse-number">10&ensp;</span>But the rich, in that he is made low: because as the flower of the grass he shall pass away.  
+<span class="verse-number">11&ensp;</span>For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.  
+<span class="verse-number">12&ensp;</span>Blessed _is_ the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.  
+<span class="verse-number">13&ensp;</span>Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:  
+<span class="verse-number">14&ensp;</span>But every man is tempted, when he is drawn away of his own lust, and enticed.  
+<span class="verse-number">15&ensp;</span>Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.  
+<span class="verse-number">16&ensp;</span>Do not err, my beloved brethren.  
+<span class="verse-number">17&ensp;</span>Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.  
+<span class="verse-number">18&ensp;</span>Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.  
+<span class="verse-number">19&ensp;</span>¶ Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:  
+<span class="verse-number">20&ensp;</span>For the wrath of man worketh not the righteousness of God.  
+<span class="verse-number">21&ensp;</span>Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.  
+<span class="verse-number">22&ensp;</span>But be ye doers of the word, and not hearers only, deceiving your own selves.  
+<span class="verse-number">23&ensp;</span>For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:  
+<span class="verse-number">24&ensp;</span>For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.  
+<span class="verse-number">25&ensp;</span>But whoso looketh into the perfect law of liberty, and continueth _therein_, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.  
+<span class="verse-number">26&ensp;</span>If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion _is_ vain.  
+<span class="verse-number">27&ensp;</span>Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, _and_ to keep himself unspotted from the world.  
+
+## CHAPTER 2.
+
+My brethren, have not the faith of our Lord Jesus Christ, _the Lord_ of glory, with respect of persons.  
+<span class="verse-number">2&ensp;</span>For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;  
+<span class="verse-number">3&ensp;</span>And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:  
+<span class="verse-number">4&ensp;</span>Are ye not then partial in yourselves, and are become judges of evil thoughts?  
+<span class="verse-number">5&ensp;</span>Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?  
+<span class="verse-number">6&ensp;</span>But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?  
+<span class="verse-number">7&ensp;</span>Do not they blaspheme that worthy name by the which ye are called?  
+<span class="verse-number">8&ensp;</span>If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:  
+<span class="verse-number">9&ensp;</span>But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors.  
+<span class="verse-number">10&ensp;</span>For whosoever shall keep the whole law, and yet offend in one _point_, he is guilty of all.  
+<span class="verse-number">11&ensp;</span>For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law.  
+<span class="verse-number">12&ensp;</span>So speak ye, and so do, as they that shall be judged by the law of liberty.  
+<span class="verse-number">13&ensp;</span>For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.  
+<span class="verse-number">14&ensp;</span>What _doth it_ profit, my brethren, though a man say he hath faith, and have not works? can faith save him?  
+<span class="verse-number">15&ensp;</span>If a brother or sister be naked, and destitute of daily food,  
+<span class="verse-number">16&ensp;</span>And one of you say unto them, Depart in peace, be _ye_ warmed and filled; notwithstanding ye give them not those things which are needful to the body; what _doth it_ profit?  
+<span class="verse-number">17&ensp;</span>Even so faith, if it hath not works, is dead, being alone.  
+<span class="verse-number">18&ensp;</span>Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.  
+<span class="verse-number">19&ensp;</span>Thou believest that there is one God; thou doest well: the devils also believe, and tremble.  
+<span class="verse-number">20&ensp;</span>But wilt thou know, O vain man, that faith without works is dead?  
+<span class="verse-number">21&ensp;</span>Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?  
+<span class="verse-number">22&ensp;</span>Seest thou how faith wrought with his works, and by works was faith made perfect?  
+<span class="verse-number">23&ensp;</span>And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God.  
+<span class="verse-number">24&ensp;</span>Ye see then how that by works a man is justified, and not by faith only.  
+<span class="verse-number">25&ensp;</span>Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent _them_ out another way?  
+<span class="verse-number">26&ensp;</span>For as the body without the spirit is dead, so faith without works is dead also.  
+
+## CHAPTER 3.
+
+My brethren, be not many masters, knowing that we shall receive the greater condemnation.  
+<span class="verse-number">2&ensp;</span>For in many things we offend all. If any man offend not in word, the same _is_ a perfect man, _and_ able also to bridle the whole body.  
+<span class="verse-number">3&ensp;</span>Behold, we put bits in the horses’ mouths, that they may obey us; and we turn about their whole body.  
+<span class="verse-number">4&ensp;</span>Behold also the ships, which though _they be_ so great, and _are_ driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.  
+<span class="verse-number">5&ensp;</span>Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!  
+<span class="verse-number">6&ensp;</span>And the tongue _is_ a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell.  
+<span class="verse-number">7&ensp;</span>For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:  
+<span class="verse-number">8&ensp;</span>But the tongue can no man tame; _it is_ an unruly evil, full of deadly poison.  
+<span class="verse-number">9&ensp;</span>Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.  
+<span class="verse-number">10&ensp;</span>Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be.  
+<span class="verse-number">11&ensp;</span>Doth a fountain send forth at the same place sweet _water_ and bitter?  
+<span class="verse-number">12&ensp;</span>Can the fig tree, my brethren, bear olive berries? either a vine, figs? so _can_ no fountain both yield salt water and fresh.  
+<span class="verse-number">13&ensp;</span>Who _is_ a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.  
+<span class="verse-number">14&ensp;</span>But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.  
+<span class="verse-number">15&ensp;</span>This wisdom descendeth not from above, but _is_ earthly, sensual, devilish.  
+<span class="verse-number">16&ensp;</span>For where envying and strife _is_, there _is_ confusion and every evil work.  
+<span class="verse-number">17&ensp;</span>But the wisdom that is from above is first pure, then peaceable, gentle, _and_ easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.  
+<span class="verse-number">18&ensp;</span>And the fruit of righteousness is sown in peace of them that make peace.  
+
+## CHAPTER 4.
+
+From whence _come_ wars and fightings among you? _come they_ not hence, _even_ of your lusts that war in your members?  
+<span class="verse-number">2&ensp;</span>Ye lust, and have not: ye kill, and desire to have, and cannot obtain: ye fight and war, yet ye have not, because ye ask not.  
+<span class="verse-number">3&ensp;</span>Ye ask, and receive not, because ye ask amiss, that ye may consume _it_ upon your lusts.  
+<span class="verse-number">4&ensp;</span>Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.  
+<span class="verse-number">5&ensp;</span>Do ye think that the scripture saith in vain, The spirit that dwelleth in us lusteth to envy?  
+<span class="verse-number">6&ensp;</span>But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.  
+<span class="verse-number">7&ensp;</span>Submit yourselves therefore to God. Resist the devil, and he will flee from you.  
+<span class="verse-number">8&ensp;</span>Draw nigh to God, and he will draw nigh to you. Cleanse _your_ hands, _ye_ sinners; and purify _your_ hearts, _ye_ double minded.  
+<span class="verse-number">9&ensp;</span>Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and _your_ joy to heaviness.  
+<span class="verse-number">10&ensp;</span>Humble yourselves in the sight of the Lord, and he shall lift you up.  
+<span class="verse-number">11&ensp;</span>Speak not evil one of another, brethren. He that speaketh evil of _his_ brother, and judgeth his brother, speaketh evil of the law, and judgeth the law: but if thou judge the law, thou art not a doer of the law, but a judge.  
+<span class="verse-number">12&ensp;</span>There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?  
+<span class="verse-number">13&ensp;</span>¶ Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:  
+<span class="verse-number">14&ensp;</span>Whereas ye know not what _shall be_ on the morrow. For what _is_ your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.  
+<span class="verse-number">15&ensp;</span>For that ye _ought_ to say, If the Lord will, we shall live, and do this, or that.  
+<span class="verse-number">16&ensp;</span>But now ye rejoice in your boastings: all such rejoicing is evil.  
+<span class="verse-number">17&ensp;</span>Therefore to him that knoweth to do good, and doeth _it_ not, to him it is sin.  
+
+## CHAPTER 5.
+
+Go to now, _ye_ rich men, weep and howl for your miseries that shall come upon _you_.   
+<span class="verse-number">2&ensp;</span>Your riches are corrupted, and your garments are motheaten.  
+<span class="verse-number">3&ensp;</span>Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.  
+<span class="verse-number">4&ensp;</span>Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.  
+<span class="verse-number">5&ensp;</span>Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter.  
+<span class="verse-number">6&ensp;</span>Ye have condemned _and_ killed the just; _and_ he doth not resist you.  
+<span class="verse-number">7&ensp;</span>¶ Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain.  
+<span class="verse-number">8&ensp;</span>Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh.  
+<span class="verse-number">9&ensp;</span>Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door.  
+<span class="verse-number">10&ensp;</span>Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.  
+<span class="verse-number">11&ensp;</span>Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.  
+<span class="verse-number">12&ensp;</span>But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and _your_ nay, nay; lest ye fall into condemnation.  
+<span class="verse-number">13&ensp;</span>Is any among you afflicted? let him pray. Is any merry? let him sing psalms.  
+<span class="verse-number">14&ensp;</span>Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:  
+<span class="verse-number">15&ensp;</span>And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him.  
+<span class="verse-number">16&ensp;</span>Confess _your_ faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.  
+<span class="verse-number">17&ensp;</span>Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months.  
+<span class="verse-number">18&ensp;</span>And he prayed again, and the heaven gave rain, and the earth brought forth her fruit.  
+<span class="verse-number">19&ensp;</span>Brethren, if any of you do err from the truth, and one convert him;  
+<span class="verse-number">20&ensp;</span>Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.  
