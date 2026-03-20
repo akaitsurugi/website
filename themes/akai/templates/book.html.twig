@@ -1,0 +1,42 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block stylesheets %}
+  {{ parent() }}
+  {% do assets.addCss('theme://css/book.css', 99) %}
+{% endblock %}
+
+{% block content %}
+  <div class="text-container">
+    <div class="book-nav">
+      <div class="left">
+        {% if not page.isFirst() %}
+          {# TODO: don't hardcode strings for previous and next chapter #}
+          <a href="{{ page.nextSibling(page.path).url }}">Previous Chapter</a>
+        {% endif %}
+      </div>
+      <div class="center"><a href="{{ page.parent.url }}">{{ "TOC"|t }}</a></div>
+      <div class="right">
+        {% if not page.isLast() %}
+          <a href="{{ page.prevSibling(page.path).url }}">Next Chapter</a>
+        {% endif %}
+      </div>
+    </div>
+    
+    {{ page.content|raw }}
+    
+    <br />
+    <div class="book-nav">
+      <div class="left">
+        {% if not page.isFirst() %}
+          <a href="{{ page.nextSibling(page.path).url }}">Previous Chapter</a>
+        {% endif %}
+      </div>
+      <div class="center"><a href="{{ page.parent.url }}">{{ "TOC"|t }}</a></div>
+      <div class="right">
+        {% if not page.isLast() %}
+          <a href="{{ page.prevSibling(page.path).url }}">Next Chapter</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endblock %}

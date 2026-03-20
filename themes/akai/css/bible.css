@@ -1,0 +1,114 @@
+@font-face { 
+  font-family: 'EBGaramond';
+  font-weight: 400;
+  font-style: normal;
+  src: url(../fonts/EBGaramond-Regular.ttf) format('truetype');
+}
+
+@font-face { 
+  font-family: 'EBGaramond';
+  font-weight: 400;
+  font-style: italic;
+  src: url(../fonts/EBGaramond-Italic.ttf) format('truetype');
+}
+
+@font-face { 
+  font-family: 'EBGaramond';
+  font-weight: 500;
+  font-style: normal;
+  src: url(../fonts/EBGaramond-Medium.ttf) format('truetype');
+}
+
+@font-face { 
+  font-family: 'EBGaramond-MediumItalic';
+  font-weight: 500;
+  font-style: italic;
+  src: url(../fonts/EBGaramond-MediumItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'EBGaramond';
+  font-weight: 600;
+  font-style: normal;
+  src: url(../fonts/EBGaramond-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'EBGaramond';
+  font-weight: 700;
+  font-style: normal;
+  src: url(../fonts/EBGaramond-Bold.ttf) format('truetype');
+}
+
+h1, h2, h3, h4 {
+  text-align: center !important;
+}
+
+h3 {
+  font-variant: small-caps;
+}
+
+p {
+  font-size: 1.2rem;
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  line-height: 1.5rem;
+}
+
+h2 + p:first-letter, h3 + p:first-letter, h4 + p:first-letter, .psalm-title + p:first-letter {
+  float: left;
+  font-size: 5rem;
+  padding-top: 0.5rem;
+  padding-right: 0.5rem;
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-style: normal;
+}
+
+em {
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-style: italic;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.psalm-title {
+  font-size: 1.2rem;
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  text-align: center !important;
+}
+
+.colophon {
+  font-size: 1.2rem;
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  text-align: center !important;
+}
+
+.verse-number {
+  color: gray;
+}
+
+/* TODO: double-check this, since it's for paragraph mode */
+.verse-number-super {
+  color: gray;
+  font-size: 65%;
+/*   vertical-align: super; */
+  line-height: 0rem;
+/*   padding-left: 0.5em; */
+/*   padding-right: 0.5em; */
+  position: relative;
+  bottom: 0.35rem;
+}
+
+.footnote-ref {
+  padding-left: 2px;
+  padding-right: 1px;
+}
+
+.small-caps {
+  font-variant: small-caps;
+}

@@ -1,0 +1,18 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+  <h1>{{ page.title|raw }}</h1>
+  <h3><div class="subtitle">{{ page.header.subtitle }}</div></h3>
+  
+  <div class="text-container">
+    <div class="light-gray">
+      {{- 'AUTHOR'|t }}: {{ page.taxonomy.author[0] -}}
+      &nbsp;•&nbsp;
+      {{- 'CATEGORY'|t }}: {{ page.taxonomy.category[0]|titleize -}}
+      &nbsp;•&nbsp;
+      {{- 'PUBLISHED'|t }}: {{ page.date|date("Y-n-j") -}}
+    </div>
+    
+    {{ page.content|raw }}
+  </div>
+{% endblock %}
