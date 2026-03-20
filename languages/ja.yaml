@@ -1,0 +1,35 @@
+# Site-wide
+
+# Navigation
+MENU: 'メニュー'
+
+# Library
+CATEGORY: 'カテゴリー'
+SERMONS: '説教'
+LECTURES: '講義'
+PUBLISHED: 'Published'
+UPDATED: '更新日'
+SORT: '並び替え'
+SORT_NEWEST: '新しい順 (デフォルト)'
+SORT_OLDEST: '古い順'
+SORT_NAME_AZ: '名前 (A-Z)'
+SORT_NAME_ZA: '名前 (Z-A)'
+SUBSCRIBE: 'Subscribe'
+FILTERS: 'フィルター'
+TAGS: 'Tags'
+FORMAT: 'フォーマット'
+SUBMIT: 'Submit'
+TITLE: '題名'
+BOOK: '書'
+TOC: 'Table of Contents'
+LANGUAGE: '言語'
+RESULTS: '表示結果'
+DEFAULT: 'デフォルト'
+RESET_FILTERS: 'Reset Filters'
+NO_RESULTS: 'No Results'
+
+# Library Sub-pages
+AUTHOR: 'Author'
+LENGTH: 'Length'
+HOUR: '時間'
+MINUTE: '分'
