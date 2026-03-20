@@ -1,0 +1,42 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block stylesheets %}
+  {{ parent() }}
+  {% do assets.addCss('theme://css/library.css', 99) %}
+{% endblock %}
+
+{% block content %}
+  <h1>{{ page.title|raw }}</h1>
+  {% if page.header.subtitle %}
+    <h3><div class="subtitle">{{ page.header.subtitle }}</div></h3>
+  {% endif %}
+
+  <div class="text-container">
+    {{ page.content|raw }}
+
+    <div class="item-header">
+      <div class="item-title text-center">
+        {{ "TOC"|t }}
+      </div>
+    </div>
+
+    {% set chapterNumber = 0 %}
+  
+    {% for p in page.collection %}
+      {#- TODO: Don't hardcode 'Preface' if possible -#}
+      {% if p.title is not same as 'Preface' %}
+        {% set chapterNumber = chapterNumber + 1 %}
+      {% endif %}
+      <div class="library-item title-name text-left">
+          <a href="{{ page.slug }}/{{ p.slug }}" name="{{ p.slug }}">
+          {#- TODO: Don't hardcode 'Preface' if possible -#}
+          {%- if p.title is not same as 'Preface' %}
+            {{- chapterNumber }}. {{ p.title -}}
+          {% else %}
+            {{- p.title -}}
+          {% endif -%}
+          </a>
+      </div>
+    {% endfor %}
+  </div>
+{% endblock %}

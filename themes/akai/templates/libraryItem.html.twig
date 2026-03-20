@@ -1,0 +1,12 @@
+{% extends 'library.html.twig' %}
+
+{% block content %}
+  {{ parent() }}
+{#
+  {% if page.taxonomy.tradition[0] %}
+    <center><h3>{{ page.taxonomy.tradition[0]|capitalize }}</h3></center>
+  {% elseif page.header.subtitle %}
+    <h3><div class="subtitle">{{ page.header.subtitle }}</div></h3>
+  {% endif %}
+#}
+{% endblock %}
