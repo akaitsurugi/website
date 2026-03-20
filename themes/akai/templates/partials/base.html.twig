@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="{{ (grav.language.getActive ?: grav.config.site.default_lang) }}">
+<head>
+{% block head %}
+  <meta charset="utf-8" />
+  <title>{% if header.title %}{{ header.title }} | {% endif %}{{ site.title }}</title>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="icon" type="image/png" href="{{ url('theme://images/logo.png') }}" />
+  <link rel="canonical" href="{{ page.canonical(true) }}" />
+{% endblock head %}
+
+{% block stylesheets %}
+  {% do assets.addCss('theme://css/custom.css', 100) %}
+{% endblock %}
+
+{% block javascripts %}
+  {% set menuText = 'MENU'|t %}
+  {% do assets.addInlineJs("window.menuText = #{menuText|json_encode|raw};", {priority: 100}) %}
+  {% do assets.addJs('theme://js/menu-toggle.js', {priority: 100}) %}
+{% endblock %}
+
+{% block assets deferred %}
+  {{ assets.css()|raw }}
+  {{ assets.js()|raw }}
+{% endblock %}
+</head>
+
+<body id="top" class="{{ page.header.body_classes }}">
+
+{% block header %}
+  <div class="header">
+    <div class="wrapper padding">
+      <a class="logo" href="{{ home_url }}">
+        <img src="{{ url('theme://images/logo.png') }}" width="128px" height="128px" alt="Akai Tsurugi Logo"><div>
+        <img src="{{ url('theme://images/akai_calligraphy_header.png') }}" width="170px" alt="Akai Tsurugi in Japanese calligraphy" style="margin-bottom:10px;">
+        <br /><span class="title">Akai Tsurugi</span></div>
+      </a>
+      {% block header_navigation %}
+      
+      {# We don't really use this class, but let's name it just in case #}
+      {# Use this to prevent menu-toggle from being laterally adjacent to site-navigation #}
+      <div class="nav-flex">
+      
+      {# TODO: remove this button?#}
+{#
+        <button
+          class="menu-toggle"
+          data-menu-label="{{ 'MENU'|t|e('html_attr') }}"
+          >
+          {{ 'MENU'|t }} +
+        </button>
+#}
+      
+        <ul class="menu-toggle">{{ 'MENU'|t }} +</ul>
+        <nav id="site-navigation" class="site-navigation">
+          {% include 'partials/navigation.html.twig' %}
+        </nav>
+      </div>
+      {% endblock %}
+    </div>
+  </div>
+{% endblock %}
+
+{% block body %}
+  <section id="body" role="main">
+    <div class="wrapper padding main">
+      <div class="article">
+        {% block content %}{% endblock %}
+      </div>
+    </div>
+  </section>
+{% endblock %}
+
+{% block footer %}
+  <div class="footer text-center">
+    <div class="wrapper padding">
+      <!--  footer space  -->
+    </div>
+  </div>
+{% endblock %}
+
+{% block bottom %}
+  {{ assets.js('bottom')|raw }}
+{% endblock %}
+
+</body>
+</html>

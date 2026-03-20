@@ -1,0 +1,37 @@
+{% macro loop(page) %}
+  {% for p in page.children.visible %}
+    {% set currentPage = (p.active or p.activeChild) ? 'selected' : '' %}
+
+{# If we ever use child pages for nav submenus, uncomment this... #}
+{#
+    {% if p.children.visible.count > 0 %}
+      <li class="has-children {{ currentPage }}">
+        <a>{{ p.menu }}</a>
+        <ul class="submenu">
+          {{ _self.loop(p) }}
+        </ul>
+      </li>
+    {% else %}
+#}
+
+{# ...To here... #}
+      <li class="{{ currentPage }}">
+        <a href="{{ p.url }}">{{ p.menu }}</a>
+      </li>
+{# ...And this #}
+{#    {% endif %} #}
+  {% endfor %}
+{% endmacro %}
+
+<ul class="topmenu">
+  {% if config.theme.dropdown.enabled %}
+    {{ _self.loop(pages) }}
+  {% else %}
+    {% for page in pages.children.visible %}
+      {% set currentPage = (page.active or page.activeChild) ? 'selected' : '' %}
+      <li class="{{ currentPage }}">
+        <a href="{{ page.url }}">{{ page.menu }}</a>
+      </li>
+    {% endfor %}
+  {% endif %}
+</ul>

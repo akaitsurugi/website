@@ -1,0 +1,32 @@
+name: Akai
+slug: akai
+type: theme
+version: 1.2.2
+description: The default theme for Akai Tsurugi starting in 2024.
+icon: rebel
+author:
+  name: Luke Lollard
+  email: akaitsurugi@protonmail.com
+homepage: https://github.com/akaitsurugi/website
+demo: https://akaitsurugi.org
+keywords: grav, theme, etc
+bugs: https://github.com/akaitsurugi/website/issues
+readme: https://github.com/akaitsurugi/website/blob/master/themes/akai/README.md
+license: CC BY-SA 4.0
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }
+
+form:
+  validation: loose
+  fields:
+    dropdown.enabled:
+        type: toggle
+        label: Dropdown in Menu
+        highlight: 1
+        default: 1
+        options:
+          1: PLUGIN_ADMIN.ENABLED
+          0: PLUGIN_ADMIN.DISABLED
+        validate:
+          type: bool

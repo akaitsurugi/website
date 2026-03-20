@@ -1,0 +1,15 @@
+{% set taxlist = children_only is defined ? taxonomylist.getChildPagesTags(of_page, children_only) : taxonomylist.get() %}
+
+{% if taxlist %}
+<span class="tags">
+    {% for tax,value in taxlist[taxonomy] %}
+        {% set selected = uri.query(taxonomy) == tax? 'selected' : '' %}
+{#        {% set query = uri.query('query') != ''? '?query=' ~ uri.query('query') : '' %}#}
+        <option value="{{ tax }}" {{ selected }}>{{ tax|titleize }}</option>
+        
+{#        {% set active = uri.param(taxonomy) == tax? 'active' : '' %}#}
+{#        {% set query = uri.query() != ''? '?' ~ uri.query() : '' %}#}
+{#        <a class="{{ active }}" href="{{ base_url }}/{{ taxonomy }}{{ config.system.param_sep }}{{ tax }}{{ query }}">{{ tax|titleize }}</a>#}
+    {% endfor %}
+</span>
+{% endif %}
