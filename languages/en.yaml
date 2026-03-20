@@ -1,0 +1,35 @@
+# Site-wide
+
+# Navigation
+MENU: 'Menu'
+
+# Library
+CATEGORY: 'Category'
+SERMONS: 'Sermons'
+LECTURES: 'Lectures'
+PUBLISHED: 'Published'
+UPDATED: 'Updated'
+SORT: 'Sort'
+SORT_NEWEST: 'Newest (Default)'
+SORT_OLDEST: 'Oldest'
+SORT_NAME_AZ: 'Name (A-Z)'
+SORT_NAME_ZA: 'Name (Z-A)'
+SUBSCRIBE: 'Subscribe'
+FILTERS: 'Filters'
+TAGS: 'Tags'
+FORMAT: 'Format'
+SUBMIT: 'Submit'
+TITLE: 'Title'
+BOOK: 'Book'
+TOC: 'Table of Contents'
+LANGUAGE: 'Language'
+RESULTS: 'Results'
+DEFAULT: 'Default'
+RESET_FILTERS: 'Reset Filters'
+NO_RESULTS: 'No Results'
+
+# Library Sub-pages
+AUTHOR: 'Author'
+LENGTH: 'Length'
+HOUR: 'h'
+MINUTE: 'm'
