@@ -1,0 +1,377 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block head %}
+  {{ parent() }}
+  
+  {# RSS/Atom feeds #}
+  
+  <link rel="alternate" type="application/rss+xml" title="Akai Tsurugi: {{ page.slug|titleize }} RSS Feed" href="{{ page.url }}.rss" />
+  <link rel="alternate" type="application/atom+xml" title="Akai Tsurugi: {{ page.slug|titleize }} Atom Feed" href="{{ page.url }}.atom" />
+  
+  
+  {# Block search indexing for Grav URL parameters #}
+  {# https://nicolas.busseneau.fr/en/blog/2020/09/block-search-indexing-for-grav-url-parameters #}
+  
+  {% if uri.params is not empty or uri.query() %}
+    <meta name="robots" content="noindex">
+  {% endif %}
+{% endblock %}
+
+{% block stylesheets %}
+  {{ parent() }}
+  {% do assets.addCss('theme://css/library.css', 99) %}
+{% endblock %}
+
+{% block javascripts %}
+  {{ parent() }}
+  {% do assets.addJs('theme://js/simplesearch.js', {'group': 'bottom'}) %}
+{% endblock %}
+
+{% block content %}
+  <h1>{{ page.title|raw }}</h1>
+  {% if page.header.subtitle %}
+    <h3><div class="subtitle">{{ page.header.subtitle }}</div></h3>
+  {% endif %}
+
+
+  {# Set up collection #}
+  
+  {% set collection = page.collection %}
+
+  {% if page.slug in ['blog', 'library'] %}
+    {% set collection = collection.ofOneOfTheseTypes(['article', 'library', 'libraryItemBible']) %}
+  {% endif %}
+
+
+  {# Searching with queries #}
+  
+  {# Use `if uri.query('query')` since `if uri.query('query') is not empty` doesn't work if the URL is `?query=` (i.e., it's a blank query) #}
+  {% if uri.query('query') %}
+    {% set collection = search_results %}
+  {% endif %}
+
+
+  {# Limit blog and library pages to the proper pages #}
+
+  {% if page.slug in ['blog', 'library'] %}
+    {% set filters = ['category', 'format', 'language', 'author'] %}
+    {% for filter in filters %}
+      {% if uri.query(filter) %}
+        {% set filteredCollection = page.collection({'items': {'@taxonomy': {(filter):uri.query(filter)}}}) %}
+        {% set collection = collection.intersect(filteredCollection) %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+
+  {# Sort with queries #}
+
+  {% if uri.query('sort') is same as 'dateasc' %}
+    {% set collection = collection.order('date', 'asc') %}
+  {% elseif uri.query('sort') is same as 'nameasc' %}
+    {% set collection = collection.order('title', 'asc') %}
+  {% elseif uri.query('sort') is same as 'namedesc' %}
+    {% set collection = collection.order('title', 'desc') %}
+  {% endif %}
+
+
+  {# Paginate the collection based on results #}
+
+  {% if config.plugins.pagination.enabled and collection.params.pagination %}
+    {% if uri.query('results') %}    
+      {% set limit = uri.query('results') %}
+    {% else %}
+      {% set limit = 25 %}
+    {% endif %}
+    
+    {% do paginate(collection, limit) %}
+  {% endif %}
+
+
+  {# Filters Sidebar #}
+
+  {% if page.slug in ['blog', 'library'] %}
+  <div class="flex-container">
+  {# TODO: what was this aside for? #}
+  <aside role="complementary">
+  <div class="filters-container">
+    {# RSS and Atom Feed buttons #}
+
+    <h3>{{ 'SUBSCRIBE'|t }}</h3>
+      <div class="subscribe">
+      <a href="https://newsletter.akaitsurugi.org/subscription/form"><img src="{{ url('image://newsletter_icon.png') }}" alt="Newsletter Icon">Newsletter</a>
+      <br /><a href="{{ page.url }}.rss"><img src="{{ url('image://feed_icon.png') }}" alt="RSS Feed Icon">RSS Feed</a>
+      <br /><a href="{{ page.url }}.atom"><img src="{{ url('image://feed_icon.png') }}" alt="Atom Feed Icon">Atom Feed</a>
+      </div>
+
+    <h3>{{ 'FILTERS'|t }}</h3>
+    {% if uri.query() %}
+      <a href="{{ uri.path }}">{{ 'RESET_FILTERS'|t }}</a>
+    {% endif %}
+  
+    {# Use a custom searchbox, instead of the built-in template #}
+    {# This way, it works with the filters in the form #}
+{#    {% include 'partials/simplesearch_searchbox.html.twig' %}  #}
+    <form action="{{ base_url }}" method="GET">
+      <input
+        name="query"
+        class="search-input"
+        aria-label="search"
+        type="text"
+{#        {% if min_chars > 0 %} data-min="{{- min_chars -}}" {% endif %}#}
+        data-min="3"
+        placeholder="{{"PLUGIN_SIMPLESEARCH.SEARCH_PLACEHOLDER"|t}}"
+        value="{{ query|e }}"
+        data-search-invalid="{{ "PLUGIN_SIMPLESEARCH.SEARCH_FIELD_MINIMUM_CHARACTERS"|t(3)|raw }}"
+        data-search-separator="="
+        data-search-input="{{ base_url }}?query"
+      />
+  
+      <select name="sort" id="sort">
+        <option value="sort" disabled selected>{{ "SORT"|t }}</option>
+        {% if uri.query('sort') is same as "datedesc" %}
+            <option value="datedesc" selected>{{ "SORT_NEWEST"|t }}</option>
+        {% else %}
+            <option value="datedesc">{{ "SORT_NEWEST"|t }}</option>
+        {% endif %}
+    
+        {% if uri.query('sort') is same as "dateasc" %}
+            <option value="dateasc" selected>{{ "SORT_OLDEST"|t }}</option>
+        {% else %}
+            <option value="dateasc">{{ "SORT_OLDEST"|t }}</option>
+        {% endif %}
+    
+        {% if uri.query('sort') is same as "nameasc" %}
+            <option value="nameasc" selected>{{ "SORT_NAME_AZ"|t }}</option>
+        {% else %}
+            <option value="nameasc">{{ "SORT_NAME_AZ"|t }}</option>
+        {% endif %}
+    
+        {% if uri.query('sort') is same as "namedesc" %}
+            <option value="namedesc" selected>{{ "SORT_NAME_ZA"|t }}</option>
+        {% else %}
+            <option value="namedesc">{{ "SORT_NAME_ZA"|t }}</option>
+        {% endif %}
+      </select><br />
+    
+      <select name="results" id="results">
+        <option value="results" disabled selected>{{ "RESULTS"|t }}</option>
+        {% if uri.query('results') == 10 %}
+            <option value="10" selected>10</option>
+        {% else %}
+            <option value="10">10</option>
+        {% endif %}
+      
+        {% if uri.query('results') == 25 %}
+            <option value="25" selected>25 ({{ 'DEFAULT'|t }})</option>
+        {% else %}
+            <option value="25">25 ({{ 'DEFAULT'|t }})</option>
+        {% endif %}
+      
+        {% if uri.query('results') == 50 %}
+            <option value="50" selected>50</option>
+        {% else %}
+            <option value="50">50</option>
+        {% endif %}
+      
+        {% if uri.query('results') == 100 %}
+            <option value="100" selected>100</option>
+        {% else %}
+            <option value="100">100</option>
+        {% endif %}
+      </select><br />
+
+      <select name="author" id="author">
+        <option value="author" disabled selected>{{ "AUTHOR"|t }}</option>
+        {% include 'partials/taxonomylist.html.twig' with {base_url: page.url, taxonomy: 'author', children_only: false} %}
+      </select><br />
+
+      {% if page.slug is same as 'library' %}
+      <select name="format" id="format">
+        <option value="format" disabled selected>{{ "FORMAT"|t }}</option>
+        {% include 'partials/taxonomylist.html.twig' with {base_url: page.url, taxonomy: 'format', children_only: false} %}
+      </select><br />
+      {% endif %}
+    
+      <select name="category" id="category">
+        <option value="category" disabled selected>{{ "CATEGORY"|t }}</option>
+        {% include 'partials/taxonomylist.html.twig' with {base_url: page.url, taxonomy: 'category', children_only: false} %}
+      </select><br />
+
+      {% if page.slug is same as 'library' %}
+      <select name="language" id="language">
+        <option value="language" disabled selected>{{ "LANGUAGE"|t }}</option>
+        {% include 'partials/taxonomylist.html.twig' with {base_url: page.url, taxonomy: 'language', children_only: false} %}
+      </select><br />
+      {% endif %}
+    
+      <input type="submit" value={{ 'SUBMIT'|t }} />
+    </form>
+  </div>
+  </aside>
+  {% endif %}
+
+  <div class="text-container">
+    {# Main icon on the item page itself #}
+    {% if page.media['icon.jpg'] %}
+      <div class="item-icon">
+        {% if page.parent.slug is same as 'sermons' %}
+          <img src="{{ page.url }}/icon.jpg?cropResize=400&grayscale" alt="Icon">
+        {% else %}
+          <img src="{{ page.url }}/icon.jpg?cropResize=400" alt="Icon">
+        {% endif %}
+      </div>
+    {% endif %}
+
+    {{ page.content|raw }}
+
+    {% if collection is not empty %}
+      {# Show pagination controls on top, only if there is more than 1 page #}
+
+      {% if config.plugins.pagination.enabled and collection.params.pagination and (collection.params.pagination.count() > 1) %}
+        {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
+      {% endif %}
+
+
+      {# Display collection #}
+
+      {% for p in collection %}
+        {% if p.template is same as 'file' %}
+          {% set itemURL = p.route ~ '/' ~ p.media.current.filename|url_encode %}
+          {% set itemTitle = p.title ~ '.' ~ p.media.current.extension %}
+        {% else %}
+          {% set itemURL = p.url %}
+          {% set itemTitle = p.title %}
+        {% endif %}
+  
+        <div class="library-item">
+          {# Item title #}    
+          <div class="item-title text-left">
+            <span class="title-name"><a href={{ itemURL }}>
+              {%- if p.template is same as 'file' %}
+                {# TODO: add thumbnails for media files when ready #}
+{#                {{ p.media.current.thumbnail('default').display('thumbnail').resize(32, 32).html('Item Thumbnail', '', 'media-thumbnail')|raw }}#}
+              {% endif -%}
+          
+              {{- itemTitle|raw -}}</a>
+            </span>
+          </div>
+    
+    
+          {# Item icon #}
+    
+          {% if p.media['icon.jpg'] %}
+            <div class="item-icon">
+              <a href="{{ itemURL }}">
+              {% if p.taxonomy.category[0] is same as 'sermons' %}
+                <img src="{{ p.url }}/icon.jpg?cropResize=200&grayscale" alt="Icon">
+              {% else %}
+                <img src="{{ p.url }}/icon.jpg?cropResize=200" alt="Icon">
+              {% endif %}
+              </a>
+            </div>
+          {% endif %}
+  
+  
+          {# Item description #}
+    
+          <div class="item-description text-left">
+            {% if p.template is same as 'libraryItemBook' %}
+              {# TODO: don't hardcode this string #}        
+              <p>Read this book directly in your web browser.</p>
+            {% else %}
+              {{ p.summary|raw }}
+            {% endif %}
+          </div>
+    
+    
+          {# Item metadata #}
+    
+          <div class="item-metadata light-gray text-left">
+            {#- Check for multiple authors -#}
+            {%- if p.taxonomy.author|length > 1 -%}
+              {% for tag in p.taxonomy.author %}
+                {% if loop.index != p.taxonomy.author|length %}
+                  {{- tag|titleize -}},
+                {% else %}
+                  {{- tag|titleize -}}
+                {% endif %}
+              {% endfor %}
+            {% else %}
+              {{- p.taxonomy.author[0]|titleize -}}
+            {%- endif -%}
+      
+            {%- if p.taxonomy.format[0] -%}
+              &ensp;•&ensp;
+              {%- if p.taxonomy.format|length > 1 -%}
+                {% for tag in p.taxonomy.format %}
+                  {% if loop.index != p.taxonomy.format|length %}
+                    {{- tag|titleize -}},
+                  {% else %}
+                    {{- tag|titleize -}}
+                  {% endif %}
+                {% endfor %}
+              {% else %}
+                {{- p.taxonomy.format[0]|titleize -}}
+              {% endif %}
+            {%- endif -%}
+      
+            {%- if p.taxonomy.category[0] -%}
+              &ensp;•&ensp;
+              {%- if p.taxonomy.category|length > 1 -%}
+                {% for tag in p.taxonomy.category %}
+                  {% if loop.index != p.taxonomy.category|length %}
+                    {{- tag|titleize -}},
+                  {% else %}
+                    {{- tag|titleize -}}
+                  {% endif %}
+                {% endfor %}
+              {% else %}
+                {{- p.taxonomy.category[0]|titleize -}}
+              {% endif %}
+            {%- endif -%}
+      
+            &ensp;•&ensp;
+            {{- p.date|date("Y-n-j") -}}
+      
+      
+            {#- Media metadata -#}
+      
+            {%- if p.taxonomy.format[0] in ['audio', 'video'] and p.header.length -%}
+              &ensp;•&ensp;
+              {%- if p.header.length > 60 %}
+                {%- set length_hour = p.header.length // 60 %}
+                {%- set length_minute = p.header.length % 60 %}
+                {{- length_hour }}{{ "HOUR"|t }} {{ length_minute }}{{ "MINUTE"|t -}}
+              {% elseif p.header.length == 60 %}
+                {%- set length_hour = p.header.length // 60 %}
+                {{- length_hour }}{{ "HOUR"|t -}}
+              {% else %}
+                {{- p.header.length }}{{ "MINUTE"|t -}}
+              {% endif %}
+            {%- endif -%}
+  
+            {%- if p.template is same as 'file' -%}
+              &ensp;•&ensp;
+              {{- p.media.current.size|nicefilesizerounded -}}
+            {% endif -%}
+          </div>
+        </div>
+      {% endfor %}
+
+
+      {# Show pagination controls on bottom, only if there is more than 1 page #}
+
+      {% if config.plugins.pagination.enabled and collection.params.pagination and (collection.params.pagination.count() > 1) %}
+        {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
+      {% endif %}
+    {% elseif uri.query() %} {# Collection is empty #}
+      <center><strong>{{ 'NO_RESULTS'|t }}</strong>
+      <br /><a href="{{ uri.path }}">{{ 'RESET_FILTERS'|t }}</a></center>    
+    {% endif %} {# Ends if collection is not empty #}
+  </div> {# Ends text-container #}
+
+  {% if page.slug in ['blog', 'library'] %}
+  </div> {# Ends flex-container #}
+  {% endif %}
+{% endblock %}

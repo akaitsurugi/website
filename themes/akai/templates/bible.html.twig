@@ -1,0 +1,15 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block stylesheets %}
+  {{ parent() }}
+  {% do assets.addCss('theme://css/bible.css', 100) %}
+  {% if page.taxonomy.language[0] is same as 'japanese' %}
+    {% do assets.addCss('theme://css/bible.ja.css', 99) %}
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+  <div class="text-container">
+    {{ page.content|raw }}
+  </div>
+{% endblock %}

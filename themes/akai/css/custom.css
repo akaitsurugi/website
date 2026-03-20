@@ -1,0 +1,480 @@
+/* Variables */
+
+:root {
+  --text-width: 40rem;
+  --sidebar-width: 10rem;
+  --sidebar-margin: 5rem;
+  --header-text-color: #454B4D;
+  --code-color: #042029;
+  --code-background-color: #FDF6E3;
+  --code-border-color: #93A1A1;
+  --light-gray: #999;
+}
+
+
+/* Fonts */
+
+@font-face { 
+  font-family: 'Futura';
+  font-weight: 500;
+  font-style: normal;
+  src: url(../fonts/Futura-Medium.ttf) format('truetype');
+}
+
+@font-face { 
+  font-family: 'EBGaramond';
+  font-weight: 400;
+  font-style: normal;
+  src: url(../fonts/EBGaramond-Regular.ttf) format('truetype');
+}
+
+@font-face { 
+  font-family: 'EBGaramond';
+  font-weight: 400;
+  font-style: italic;
+  src: url(../fonts/EBGaramond-Italic.ttf) format('truetype');
+}
+
+@font-face { 
+  font-family: 'EBGaramond';
+  font-weight: 500;
+  font-style: normal;
+  src: url(../fonts/EBGaramond-Medium.ttf) format('truetype');
+}
+
+@font-face { 
+  font-family: 'EBGaramond-MediumItalic';
+  font-weight: 500;
+  font-style: italic;
+  src: url(../fonts/EBGaramond-MediumItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'EBGaramond';
+  font-weight: 600;
+  font-style: normal;
+  src: url(../fonts/EBGaramond-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'EBGaramond';
+  font-weight: 700;
+  font-style: normal;
+  src: url(../fonts/EBGaramond-Bold.ttf) format('truetype');
+}
+
+
+/* Main elements */
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1rem;
+  line-height: 1.3rem;
+  background-color: #f7f7f7;
+  font-family: Helvetica, sans-serif;
+  overflow-wrap: break-word;
+  margin: 0;
+}
+
+a {
+  color: #A774E4;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EB00C1;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #2768B5;
+}
+
+a:visited:hover {
+  color: #004080;
+}
+
+li:target {
+  background-color: #eaeaea;
+}
+
+li p {
+  margin: 0.5rem;
+}
+
+.header .padding {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.header {
+  background-color: #999;
+  text-align: center;
+  line-height: 1.0rem;
+}
+
+.header a {
+  color: #f7f7f7;
+}
+
+.header a:hover {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.header .logo {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center; /* needed in case the screen is really small */
+}
+  /* 450px is optimal for menu-toggle with three items */
+  /* 600px is optimal for menu-toggle with four items */
+@media (max-width: 600px) {
+  .header .logo {
+    padding-bottom: 1rem; /* Extra padding when menu-toggle is under the logo */
+  }
+}
+
+.header .title {
+  font-size: 2rem;
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-weight: 500;
+  padding: 0rem 2rem;
+}
+
+.wrapper {
+  margin: auto;
+}
+
+.padding {
+  padding: 1rem 2rem;
+}
+
+.main {
+}
+
+.article {
+  max-width: calc(var(--text-width) + var(--sidebar-width) + var(--sidebar-margin));
+  margin: auto;
+}
+
+.text-container {
+  max-width: var(--text-width);
+  margin: auto;
+  order: 2;
+}
+@media only screen and (max-width: 835px) {
+  .text-container {
+    order: 1;
+  }
+}
+
+h1 {
+  color: var(--header-text-color);
+  text-align: center;
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-weight: 700;
+  font-size: 2rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  line-height: 2rem;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--header-text-color);
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+h4 {
+  font-size: 1.1rem;
+}
+
+img {
+  max-width: 100%; /* Make sure all images are never wider than the viewport */
+}
+
+.footer {
+  min-height: 10rem;
+}
+
+
+/* Bible verses */
+
+blockquote {
+  position: relative;
+  padding: 0.5rem 0rem;
+  margin: 1rem auto;
+  max-width: 33rem;
+  font-size: 1.2rem;
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-weight: 500;
+}
+
+blockquote:before, blockquote:after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 65%;
+  height: 1px;
+  background: black;
+}
+
+blockquote em {
+  font-family: EBGaramond-MediumItalic, Cochin, Palatino, serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+blockquote .small-caps {
+  font-variant: small-caps;
+}
+
+blockquote .reference {
+  display: block;
+  text-align: right;
+  margin-top: 0.25rem;
+  font-size: 1.1rem;
+}
+
+
+/* Special text */
+
+.subtitle {
+  color: var(--header-text-color);
+  text-align: center;
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-weight: 500;
+  display: block;
+}
+
+sup {
+  line-height: 0; /* Prevent sup from adjusting the line-height */
+}
+
+.regular {
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-weight: 400;
+}
+
+.medium {
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-weight: 500;
+}
+
+.semi-bold {
+  font-size: 1.1rem;
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-weight: 600;
+}
+
+.quote {
+  border-left: 1rem solid #eee;
+  margin: 0;
+  padding: 0 2rem;
+}
+
+pre {
+  padding: 1.5rem;
+  font-size: 85%;
+  line-height: 1.45;
+  white-space: pre-wrap;
+  color: var(--code-color);
+  background-color: var(--code-background-color);
+  border-radius: 6px;
+  border: 1px solid var(--code-border-color);
+}
+
+p code {
+  padding: 0.10rem 0.25rem 0.10rem 0.25rem;
+  font-size: 85%;
+  color: var(--code-color);
+  background-color: var(--code-background-color);
+  border-radius: 6px;
+  border: 1px solid var(--code-border-color);
+}
+
+li code {
+  padding: 0.10rem 0.25rem 0.10rem 0.25rem;
+  font-size: 85%;
+  color: var(--code-color);
+  background-color: var(--code-background-color);
+  border-radius: 6px;
+  border: 1px solid var(--code-border-color);
+}
+
+.light-gray {
+  color: var(--light-gray);
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.text-center {
+  text-align: center;
+  display: block;
+}
+
+.text-right {
+  text-align: right;
+  display: block;
+}
+
+.text-left {
+  text-align: left;
+  display: block;
+}
+
+
+/* Tables */
+
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #999;
+  color: #f7f7f7;
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 0.5rem;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f7f7f7;
+}
+
+thead tr th:first-child,
+tbody tr td:first-child {
+  width: 8rem;
+  min-width: 8rem;
+  max-width: 8rem;
+}
+
+
+/* Navigation bar */
+
+.site-navigation ul,
+.site-navigation li {
+  list-style: none;
+  font-family: Futura, Gill Sans, Arial, sans-serif;
+  white-space: nowrap;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+ 
+.site-navigation li {
+  position: relative;
+  font-size: 1.3rem;
+  padding: 0.5rem;
+}
+
+.site-navigation li a {
+  display: block;
+  padding: 1.25rem;
+  border-radius: 3px;
+}
+
+.site-navigation li a:hover {
+  background-color: #C0C0C0;
+  color: #f7f7f7;
+}
+
+/* Selected nav item */
+.site-navigation li.selected > a,
+.site-navigation li.selected > button {
+  background-color: #fff;
+  color: #454B4D;
+}
+
+/* Arrow for submenu indicator */
+/* 
+ul .has-children > a:after,
+ul .has-children > button:after {
+  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cpolyline viewbox='0 0 16 16' points='4 6, 8 10, 12 6' style='fill:none;stroke:%23f7f7f7;stroke-width:2;stroke-linecap:round'/%3E%3C/svg%3E");
+  width: 1em;
+  height: 1em;
+  position: absolute;
+  right: 1em;
+  top: 1.4em;
+  margin-left: 0.5em;
+  display: block;
+}
+ */
+
+
+/* JavaScript menu */
+/* Default: menu visible on larger screens */
+.menu-toggle {
+  display: none;
+  min-width: 200px;
+  font-family: Futura, Gill Sans, Arial, sans-serif;
+  padding-inline-start: 0; /* Needed to center this */
+  white-space: nowrap;
+  align-items: center;
+  font-size: 1.3rem;
+  color: #f7f7f7;
+}
+.site-navigation ul.topmenu {
+  padding-inline-start: 0; /* Needed to center this */
+}
+/* Mobile: toggle button visible, menu hidden by default */
+/* 450px is optimal for menu-toggle with three items */
+/* 600px is optimal for menu-toggle with four items */
+@media (max-width: 600px) {
+  .menu-toggle {
+    display: block;
+  }
+
+  .site-navigation ul.topmenu {
+    flex-direction: column;
+  }
+
+  .site-navigation {
+    overflow: hidden;
+    max-height: 0;
+    visibility: hidden;
+    transition: all 0.45s ease-in-out;
+  }
+
+  .site-navigation.active {
+    max-height: 350px; /* This is just taller than the menu items */
+    visibility: visible;
+  }
+}

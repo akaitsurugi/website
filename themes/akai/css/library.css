@@ -1,0 +1,149 @@
+/* Variables */
+
+:root {
+  --text-width: 40rem;
+  --sidebar-width: 10rem;
+  --light-gray: #999;
+}
+
+
+/* Main elements */
+
+/* TODO: For debugging, be sure to disable before deploying to prod */
+/* 
+div {
+  outline: 1px solid red;
+}
+ */
+
+.item-icon {
+  float: right;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+  text-align: center;
+}
+@media only screen and (max-width: 835px) {
+  .item-icon {
+    float: none;
+    padding-left: 0;
+    padding-top: 1rem;
+    padding-bottom: 0;
+  }
+}
+
+.item-icon img {
+  border-radius: 10px;
+}
+
+.item-header {
+  padding: 1rem;
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+.library-item {
+  margin: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid lightgray;
+  overflow: auto;
+  clear: both;
+}
+
+ul.pagination {
+  clear: both;
+}
+
+.item-title {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.title-name {
+  font-size: 1.2rem;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+.media-thumbnail {
+  vertical-align: bottom;
+  padding-right: 0.2rem;
+}
+
+.item-metadata {
+  padding-top: 0.2rem;
+}
+
+.item-description {
+  hyphens: auto;
+}
+
+.flex-container {
+  display: flex; /* Use a flex box instead of float, so that the text doesn't wrap around the sidebar */
+  flex-direction: row;
+  left: 5rem;
+  margin-right: 5rem; /* For some reason, this brings the text-container closer */
+}
+@media only screen and (max-width: 835px) {
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    margin-right: 0;
+  }
+}
+
+
+/* Filters sidebar */
+
+aside {
+  height: 100%;
+  order: 1;
+}
+@media only screen and (max-width: 835px) {
+  aside {
+    order: 2;
+  }
+}
+
+.filters-container {
+  padding: 10px;
+  border-radius: 10px;
+  background: #ececec;
+  max-width: var(--sidebar-width);
+  margin-top: 1rem; /* Roughly align with the top of text-container */
+  height: 100%; /* Prevent the sidebar from going the whole length of the page */
+}
+@media only screen and (max-width: 835px) {
+  .filters-container {
+    max-width: 300px;
+    margin: auto;
+  }
+}
+
+.filters-container h3 {
+  margin: 0.25rem 0 0.5rem;
+}
+
+.filters-container .search-input {
+  width: 100%;
+  margin-bottom: 2.5px;
+}
+
+.filters-container select {
+  width: 100%;
+  margin: 2.5px 0 2.5px;
+}
+
+.filters-container input {
+  display: block;
+  margin: auto;
+  margin-top: 2.5px;
+}
+
+.subscribe img {
+  width: 16px;
+  margin-right: 0.5rem;
+  position: relative;
+  top: 2px;
+}
