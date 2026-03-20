@@ -106,13 +106,13 @@
 
     <h3>{{ 'FILTERS'|t }}</h3>
     {% if uri.query() %}
-      <a href="{{ uri.path }}">{{ 'RESET_FILTERS'|t }}</a>
+      <a href="{{ uri.baseIncludingLanguage }}{{ uri.path }}">{{ 'RESET_FILTERS'|t }}</a>
     {% endif %}
   
     {# Use a custom searchbox, instead of the built-in template #}
     {# This way, it works with the filters in the form #}
 {#    {% include 'partials/simplesearch_searchbox.html.twig' %}  #}
-    <form action="{{ base_url }}" method="GET">
+    <form action="{{ page.url }}" method="GET">
       <input
         name="query"
         class="search-input"
@@ -367,7 +367,7 @@
       {% endif %}
     {% elseif uri.query() %} {# Collection is empty #}
       <center><strong>{{ 'NO_RESULTS'|t }}</strong>
-      <br /><a href="{{ uri.path }}">{{ 'RESET_FILTERS'|t }}</a></center>    
+      <br /><a href="{{ uri.baseIncludingLanguage }}{{ uri.path }}">{{ 'RESET_FILTERS'|t }}</a></center>
     {% endif %} {# Ends if collection is not empty #}
   </div> {# Ends text-container #}
 
