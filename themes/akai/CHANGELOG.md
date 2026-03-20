@@ -6,6 +6,7 @@
 1. [](#improved)
     * Added animation to menu when on a mobile device
     * Cleaned up for public release
+    * Fix filters for other languages
 
 # v1.2.1
 ## 02/18/2026
