@@ -6,11 +6,11 @@
   
   <div class="text-container">
     <div class="light-gray">
-      {{- 'AUTHOR'|t }}: {{ page.taxonomy.author[0]|t -}}
+      {{- 'AUTHOR'|t }}{{ 'COLON'|t }}{{ page.taxonomy.author[0]|t -}}
       &nbsp;•&nbsp;
-      {{- 'CATEGORY'|t }}: {{ page.taxonomy.category[0]|t|titleize -}}
+      {{- 'CATEGORY'|t }}{{ 'COLON'|t }}{{ page.taxonomy.category[0]|t|titleize -}}
       &nbsp;•&nbsp;
-      {{- 'PUBLISHED'|t }}: {{ page.date|date(('DATE_FORMAT'|t)) }}
+      {{- 'PUBLISHED'|t }}{{ 'COLON'|t }}{{ page.date|date(('DATE_FORMAT'|t))}}
     </div>
     
     {{ page.content|raw }}
