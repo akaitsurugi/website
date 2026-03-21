@@ -5,7 +5,7 @@
     {% for tax,value in taxlist[taxonomy] %}
         {% set selected = uri.query(taxonomy) == tax? 'selected' : '' %}
 {#        {% set query = uri.query('query') != ''? '?query=' ~ uri.query('query') : '' %}#}
-        <option value="{{ tax }}" {{ selected }}>{{ tax|titleize }}</option>
+        <option value="{{ tax }}" {{ selected }}>{{ tax|t|titleize }}</option>
         
 {#        {% set active = uri.param(taxonomy) == tax? 'active' : '' %}#}
 {#        {% set query = uri.query() != ''? '?' ~ uri.query() : '' %}#}

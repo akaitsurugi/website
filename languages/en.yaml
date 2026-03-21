@@ -1,9 +1,7 @@
-# Site-wide
-
 # Navigation
 MENU: 'Menu'
 
-# Library
+# Main Pages
 CATEGORY: 'Category'
 SERMONS: 'Sermons'
 LECTURES: 'Lectures'
@@ -19,16 +17,15 @@ FILTERS: 'Filters'
 TAGS: 'Tags'
 FORMAT: 'Format'
 SUBMIT: 'Submit'
-TITLE: 'Title'
-BOOK: 'Book'
 TOC: 'Table of Contents'
 LANGUAGE: 'Language'
 RESULTS: 'Results'
 DEFAULT: 'Default'
 RESET_FILTERS: 'Reset Filters'
 NO_RESULTS: 'No Results'
+DATE_FORMAT: 'Y-m-d'
 
-# Library Sub-pages
+# Sub-pages
 AUTHOR: 'Author'
 LENGTH: 'Length'
 HOUR: 'h'

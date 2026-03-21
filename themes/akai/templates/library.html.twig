@@ -292,13 +292,13 @@
             {%- if p.taxonomy.author|length > 1 -%}
               {% for tag in p.taxonomy.author %}
                 {% if loop.index != p.taxonomy.author|length %}
-                  {{- tag|titleize -}},
+                  {{- tag|t|titleize -}},
                 {% else %}
-                  {{- tag|titleize -}}
+                  {{- tag|t|titleize -}}
                 {% endif %}
               {% endfor %}
             {% else %}
-              {{- p.taxonomy.author[0]|titleize -}}
+              {{- p.taxonomy.author[0]|t|titleize -}}
             {%- endif -%}
       
             {%- if p.taxonomy.format[0] -%}
@@ -306,13 +306,13 @@
               {%- if p.taxonomy.format|length > 1 -%}
                 {% for tag in p.taxonomy.format %}
                   {% if loop.index != p.taxonomy.format|length %}
-                    {{- tag|titleize -}},
+                    {{- tag|t|titleize -}},
                   {% else %}
-                    {{- tag|titleize -}}
+                    {{- tag|t|titleize -}}
                   {% endif %}
                 {% endfor %}
               {% else %}
-                {{- p.taxonomy.format[0]|titleize -}}
+                {{- p.taxonomy.format[0]|t|titleize -}}
               {% endif %}
             {%- endif -%}
       
@@ -321,18 +321,18 @@
               {%- if p.taxonomy.category|length > 1 -%}
                 {% for tag in p.taxonomy.category %}
                   {% if loop.index != p.taxonomy.category|length %}
-                    {{- tag|titleize -}},
+                    {{- tag|t|titleize -}},
                   {% else %}
-                    {{- tag|titleize -}}
+                    {{- tag|t|titleize -}}
                   {% endif %}
                 {% endfor %}
               {% else %}
-                {{- p.taxonomy.category[0]|titleize -}}
+                {{- p.taxonomy.category[0]|t|titleize -}}
               {% endif %}
             {%- endif -%}
       
             &ensp;•&ensp;
-            {{- p.date|date("Y-n-j") -}}
+            {{ p.date|date(('DATE_FORMAT'|t)) }}
       
       
             {#- Media metadata -#}
