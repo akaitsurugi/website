@@ -1,35 +1,47 @@
-# Site-wide
-
 # Navigation
 MENU: 'メニュー'
 
-# Library
+# Main Pages
 CATEGORY: 'カテゴリー'
 SERMONS: '説教'
 LECTURES: '講義'
-PUBLISHED: 'Published'
+PUBLISHED: '公開日'
 UPDATED: '更新日'
 SORT: '並び替え'
 SORT_NEWEST: '新しい順 (デフォルト)'
 SORT_OLDEST: '古い順'
 SORT_NAME_AZ: '名前 (A-Z)'
 SORT_NAME_ZA: '名前 (Z-A)'
-SUBSCRIBE: 'Subscribe'
+SUBSCRIBE: '購読'
 FILTERS: 'フィルター'
-TAGS: 'Tags'
+TAGS: 'タグ'
 FORMAT: 'フォーマット'
-SUBMIT: 'Submit'
-TITLE: '題名'
-BOOK: '書'
-TOC: 'Table of Contents'
+SUBMIT: '送信'
+TOC: '目次'
 LANGUAGE: '言語'
 RESULTS: '表示結果'
 DEFAULT: 'デフォルト'
-RESET_FILTERS: 'Reset Filters'
-NO_RESULTS: 'No Results'
+RESET_FILTERS: 'フィルドーをリセット'
+NO_RESULTS: '結果なし'
+DATE_FORMAT: 'Y年m月d日'
 
-# Library Sub-pages
-AUTHOR: 'Author'
-LENGTH: 'Length'
+# Sub-pages
+AUTHOR: '著者'
+LENGTH: '再生時間'
 HOUR: '時間'
 MINUTE: '分'
+
+# Taxonomy
+news: 'ニューズ'
+articles: '記事'
+text: 'テキスト'
+audio: 'オージオ'
+bibles: '聖書'
+books: '本'
+tools: 'ツール'
+english: '英語'
+japanese: '日本語'
+
+# Authors
+'Luke Lollard': 'ルーク・ロラード'
+'Akai Tsurugi': '赤い剣'
