@@ -25,42 +25,35 @@
   font-family: 'EBGaramond';
   font-weight: 400;
   font-style: normal;
-  src: url(../fonts/EBGaramond-Regular.ttf) format('truetype');
+  src: url(../fonts/EBGaramond-Regular.woff2) format('woff2');
 }
 
 @font-face { 
   font-family: 'EBGaramond';
   font-weight: 400;
   font-style: italic;
-  src: url(../fonts/EBGaramond-Italic.ttf) format('truetype');
+  src: url(../fonts/EBGaramond-Italic.woff2) format('woff2');
 }
 
 @font-face { 
   font-family: 'EBGaramond';
   font-weight: 500;
   font-style: normal;
-  src: url(../fonts/EBGaramond-Medium.ttf) format('truetype');
-}
-
-@font-face { 
-  font-family: 'EBGaramond-MediumItalic';
-  font-weight: 500;
-  font-style: italic;
-  src: url(../fonts/EBGaramond-MediumItalic.ttf) format('truetype');
+  src: url(../fonts/EBGaramond-Medium.woff2) format('woff2');
 }
 
 @font-face {
   font-family: 'EBGaramond';
   font-weight: 600;
   font-style: normal;
-  src: url(../fonts/EBGaramond-SemiBold.ttf) format('truetype');
+  src: url(../fonts/EBGaramond-SemiBold.woff2) format('woff2');
 }
 
 @font-face {
   font-family: 'EBGaramond';
   font-weight: 700;
   font-style: normal;
-  src: url(../fonts/EBGaramond-Bold.ttf) format('truetype');
+  src: url(../fonts/EBGaramond-Bold.woff2) format('woff2');
 }
 
 
@@ -224,7 +217,7 @@ blockquote {
   max-width: 33rem;
   font-size: 1.2rem;
   font-family: EBGaramond, Cochin, Palatino, serif;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 blockquote:before, blockquote:after {
@@ -238,10 +231,17 @@ blockquote:before, blockquote:after {
 }
 
 blockquote em {
-  font-family: EBGaramond-MediumItalic, Cochin, Palatino, serif;
-  font-weight: 500;
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-weight: 400;
   font-style: italic;
 }
+
+blockquote strong {
+  font-family: EBGaramond, Cochin, Palatino, serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
 
 blockquote .small-caps {
   font-variant: small-caps;
