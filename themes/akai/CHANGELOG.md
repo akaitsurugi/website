@@ -1,3 +1,13 @@
+# v1.3
+## 03/21/2026
+
+1. [](#improved)
+    * Only use open-source fonts
+    * Use woff2 fonts instead of ttf
+    * Dates are now localized
+    * Metadata is now translated using the languages files
+    * Update Japanese translations
+
 # v1.2.2
 ## 03/19/2026
 
