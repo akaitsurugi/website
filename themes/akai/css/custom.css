@@ -14,11 +14,11 @@
 
 /* Fonts */
 
-@font-face { 
-  font-family: 'Futura';
+@font-face {
+  font-family: 'LeagueSpartan';
   font-weight: 500;
   font-style: normal;
-  src: url(../fonts/Futura-Medium.ttf) format('truetype');
+  src: url(../fonts/LeagueSpartan-Medium.woff2) format('woff2');
 }
 
 @font-face { 
@@ -391,7 +391,8 @@ tbody tr td:first-child {
 .site-navigation ul,
 .site-navigation li {
   list-style: none;
-  font-family: Futura, Gill Sans, Arial, sans-serif;
+  font-family: LeagueSpartan, Gill Sans, Arial, sans-serif;
+  font-size: 1.4rem;
   white-space: nowrap;
   display: flex;
   flex-wrap: wrap;
@@ -401,7 +402,6 @@ tbody tr td:first-child {
  
 .site-navigation li {
   position: relative;
-  font-size: 1.3rem;
   padding: 0.5rem;
 }
 
@@ -444,11 +444,11 @@ ul .has-children > button:after {
 .menu-toggle {
   display: none;
   min-width: 200px;
-  font-family: Futura, Gill Sans, Arial, sans-serif;
+  font-family: LeagueSpartan, Gill Sans, Arial, sans-serif;
+  font-size: 1.4rem;
   padding-inline-start: 0; /* Needed to center this */
   white-space: nowrap;
   align-items: center;
-  font-size: 1.3rem;
   color: #f7f7f7;
 }
 .site-navigation ul.topmenu {
