@@ -3,8 +3,8 @@ title: 'ライフライン新約聖書'
 subtitle: 'バージョン：1.3'
 template: libraryItemBible
 taxonomy:
-    category: 聖書
-    language: 日本語
+    category: bibles
+    language: japanese
     format: text
     author: 'Akai Tsurugi'
 content:
