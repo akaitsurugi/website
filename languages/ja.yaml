@@ -30,6 +30,7 @@ AUTHOR: '著者'
 LENGTH: '再生時間'
 HOUR: '時間'
 MINUTE: '分'
+COLON: '：'
 
 # Taxonomy
 news: 'ニューズ'
