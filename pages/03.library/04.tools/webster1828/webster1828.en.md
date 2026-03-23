@@ -1,7 +1,7 @@
 ---
 title: Webster's Dictionary 1828
 subtitle: 'Version: 1.1'
-template: library
+template: libraryItem
 taxonomy:
     category: tools
     language: english

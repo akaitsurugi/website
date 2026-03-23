@@ -1,3 +1,9 @@
+# v1.3.1
+## xx/xx/2026
+
+1. [](#improved)
+    * Filter Library collection with libraryItem template instead of library
+
 # v1.3
 ## 03/21/2026
 

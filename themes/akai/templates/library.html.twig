@@ -39,7 +39,7 @@
   {% set collection = page.collection %}
 
   {% if page.slug in ['blog', 'library'] %}
-    {% set collection = collection.ofOneOfTheseTypes(['article', 'library', 'libraryItemBible']) %}
+    {% set collection = collection.ofOneOfTheseTypes(['article', 'libraryItem', 'libraryItemBible']) %}
   {% endif %}
 
 
