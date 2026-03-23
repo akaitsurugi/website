@@ -1,7 +1,7 @@
 ---
 title: "King Jesus Bible"
 subtitle: "A KJV Reader's Bible"
-template: library
+template: libraryItem
 taxonomy:
     category: bibles
     language: english

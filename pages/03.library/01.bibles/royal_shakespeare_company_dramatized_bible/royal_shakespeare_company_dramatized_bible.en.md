@@ -1,6 +1,6 @@
 ---
 title: Royal Shakespeare Company Dramatized Bible
-template: library
+template: libraryItem
 taxonomy:
     category: bibles
     language: english

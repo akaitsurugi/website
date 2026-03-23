@@ -1,7 +1,7 @@
 ---
 title: 'osis2md.rb'
 subtitle: 'Version 1.1'
-template: library
+template: libraryItem
 taxonomy:
     category: tools
     author: 'Akai Tsurugi'

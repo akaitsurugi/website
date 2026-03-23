@@ -1,7 +1,7 @@
 ---
 title: 'Analyzing Scofield'
 subtitle: 'The Life and Errors of C.I. Scofield'
-template: library
+template: libraryItem
 taxonomy:
     category: books
     language: english
