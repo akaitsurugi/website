@@ -1,6 +1,6 @@
 ---
 title: Webster's Dictionary 1828
-subtitle: 'Version: 1.1'
+subtitle: 'Version: 1.2'
 template: libraryItem
 taxonomy:
     category: tools
@@ -12,7 +12,7 @@ content:
     pagination: true
     order:
         by: default
-date: 2024/7/20
+date: 2026/03/25
 feed:
     skip: false
 ---
