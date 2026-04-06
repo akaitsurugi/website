@@ -3,6 +3,7 @@
 
 1. [](#improved)
     * Filter Library collection with libraryItem template instead of library
+    * Localize website title in head and header
 
 # v1.3
 ## 03/21/2026
