@@ -122,17 +122,25 @@ li p {
   text-decoration: none;
 }
 
-.header .logo {
+.header .brand {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
   justify-content: center; /* needed in case the screen is really small */
 }
-  /* 450px is optimal for menu-toggle with three items */
-  /* 600px is optimal for menu-toggle with four items */
-@media (max-width: 600px) {
-  .header .logo {
+/* 460px is about when it switches to all vertical nav */
+@media (max-width: 460px) {
+  .header .brand {
     padding-bottom: 1rem; /* Extra padding when menu-toggle is under the logo */
+  }
+}
+
+.logo {
+  margin: 0rem 1rem;
+}
+@media (max-width: 460px) {
+  .logo {
+    margin-bottom: 1rem;
   }
 }
 
@@ -140,7 +148,13 @@ li p {
   font-size: 2rem;
   font-family: EBGaramond, Cochin, Palatino, serif;
   font-weight: 500;
-  padding: 0rem 2rem;
+  padding: 0.5rem 1rem;
+}
+
+.header .title-ja {
+  font-size: 1.5rem;
+  font-family: serif;
+  padding: 0.5rem 1rem 0.5rem 1.7rem;
 }
 
 .wrapper {
@@ -169,6 +183,7 @@ li p {
     order: 1;
   }
 }
+
 
 h1 {
   color: var(--header-text-color);
@@ -388,6 +403,16 @@ tbody tr td:first-child {
 
 /* Navigation bar */
 
+.topmenu {
+  margin: 0; /* Override mystery margin */
+}
+/* 900px is about when nav goes under the logo */
+@media (max-width: 900px) {
+  .topmenu {
+    margin: 0.5rem 0 0 0; /* Override mystery margin */
+  }
+}
+
 .site-navigation ul,
 .site-navigation li {
   list-style: none;
@@ -455,9 +480,8 @@ ul .has-children > button:after {
   padding-inline-start: 0; /* Needed to center this */
 }
 /* Mobile: toggle button visible, menu hidden by default */
-/* 450px is optimal for menu-toggle with three items */
-/* 600px is optimal for menu-toggle with four items */
-@media (max-width: 600px) {
+/* 625px is optimal for menu-toggle with four items */
+@media (max-width: 625px) {
   .menu-toggle {
     display: block;
   }
