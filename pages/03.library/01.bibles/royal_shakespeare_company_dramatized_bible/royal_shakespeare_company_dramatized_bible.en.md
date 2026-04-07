@@ -10,7 +10,7 @@ content:
     items: '@self.children'
     order:
         by: default
-date: 2026/03/21
+date: 2026/04/06
 feed:
     skip: false
 ---
@@ -23,5 +23,3 @@ This is a dramatized audio version of the Bible, performed by the Royal Shakespe
 
 > So then faith _cometh_ by hearing, and hearing by the word of God.  
 <span class="reference">- Romans 10:17</span>
-
-I have been editing these to separate the files by book, so I'm uploading them after I listen to make sure the cuts aren't jarring.
