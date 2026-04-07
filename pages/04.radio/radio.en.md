@@ -2,7 +2,7 @@
 title: Radio
 ---
 
-This radio station is provided by [GraceAlone Radio](https://gracealoneradio.net/).
+This radio station is provided by [GraceAlone Radio](https://gracealoneradio.net/?target=_blank&rel=noopener&rel=noreferrer).
 
 One day, I hope to have this radio section built off the content in the [Library](/library).
 
