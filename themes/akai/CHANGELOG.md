@@ -1,6 +1,8 @@
 # v1.3.1
 ## xx/xx/2026
 
+1. [](#new)
+    * Added librarySubItem template (used to filter items from the Library page)
 1. [](#improved)
     * Filter Library collection with libraryItem template instead of library
     * Localize website title in head and header
