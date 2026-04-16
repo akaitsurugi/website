@@ -1,0 +1,24 @@
+title: 'Akai Tsurugi (The Red Sword)'
+default_lang: en
+author:
+  name: 'Luke Lollard'
+  email: akaitsurugi@protonmail.com
+taxonomies:
+  - category
+  - tag
+  - author
+  - language
+  - series
+  - format
+metadata:
+  description: 'A library of free, Biblically-based educational resources for Christians.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects:
+  /library/study: /library/tools
+routes: null
+blog:
+  route: /blog
