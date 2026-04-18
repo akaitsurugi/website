@@ -18,6 +18,7 @@ simplesearch:
     filters:
         - '@self'
     filter_combinator: and
+publish_date: 2024/10/7
 date: 2024/10/7
 published: true
 feed:

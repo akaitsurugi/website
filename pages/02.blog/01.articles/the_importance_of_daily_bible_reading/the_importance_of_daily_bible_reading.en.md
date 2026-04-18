@@ -4,6 +4,7 @@ template: article
 taxonomy:
     category: articles
     author: 'Luke Lollard'
+publish_date: 2025/04/03
 date: 2025/04/03
 markdown:
     extra: true

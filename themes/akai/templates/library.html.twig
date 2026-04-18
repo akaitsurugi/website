@@ -66,8 +66,12 @@
 
   {# Sort with queries #}
 
-  {% if uri.query('sort') is same as 'dateasc' %}
+  {% if uri.query('sort') is same as 'pubdateasc' %}
+    {% set collection = collection.order('publish_date', 'asc') %}
+  {% elseif uri.query('sort') is same as 'dateasc' %}
     {% set collection = collection.order('date', 'asc') %}
+  {% elseif uri.query('sort') is same as 'datedesc' %}
+    {% set collection = collection.order('date', 'desc') %}
   {% elseif uri.query('sort') is same as 'nameasc' %}
     {% set collection = collection.order('title', 'asc') %}
   {% elseif uri.query('sort') is same as 'namedesc' %}
@@ -129,6 +133,18 @@
   
       <select name="sort" id="sort">
         <option value="sort" disabled selected>{{ "SORT"|t }}</option>
+        {% if uri.query('sort') is same as "pubdatedesc" %}
+            <option value="pubdatedesc" selected>{{ "SORT_PUBLISHED_NEWEST"|t }}</option>
+        {% else %}
+            <option value="pubdatedesc">{{ "SORT_PUBLISHED_NEWEST"|t }}</option>
+        {% endif %}
+        
+        {% if uri.query('sort') is same as "pubdateasc" %}
+            <option value="pubdateasc" selected>{{ "SORT_PUBLISHED_OLDEST"|t }}</option>
+        {% else %}
+            <option value="pubdateasc">{{ "SORT_PUBLISHED_OLDEST"|t }}</option>
+        {% endif %}
+        
         {% if uri.query('sort') is same as "datedesc" %}
             <option value="datedesc" selected>{{ "SORT_NEWEST"|t }}</option>
         {% else %}
@@ -332,6 +348,14 @@
             {%- endif -%}
       
             &ensp;•&ensp;
+            {#- Since all items don't have a publish_date (date was used as the
+            default before publish_date), don't always display the publish_date
+            to differentiate them -#}
+            {%- if p.header.publish_date and p.date|date is not same as p.header.publish_date|date -%}
+              {{- p.header.publish_date|date(('DATE_FORMAT'|t)) -}}
+              &ensp;•&ensp;{{- "UPDATED"|t }}{{ "COLON"|t }}
+            {%- endif -%}
+            
             {{- p.date|date(('DATE_FORMAT'|t)) -}}
       
       

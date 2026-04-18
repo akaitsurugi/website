@@ -4,6 +4,7 @@ template: article
 taxonomy:
     category: articles
     author: 'Luke Lollard'
+publish_date: 2023/7/1
 date: 2023/7/1
 published: true
 feed:

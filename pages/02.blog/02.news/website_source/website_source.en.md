@@ -4,6 +4,7 @@ template: article
 taxonomy:
     category: news
     author: 'Luke Lollard'
+publish_date: 2026/04/06
 date: 2026/04/06
 feed:
     skip: false

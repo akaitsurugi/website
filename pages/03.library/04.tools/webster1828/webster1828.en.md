@@ -12,6 +12,7 @@ content:
     pagination: true
     order:
         by: default
+publish_date: 2023/6/30
 date: 2026/03/25
 feed:
     skip: false

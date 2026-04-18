@@ -2,8 +2,9 @@
 title: 'RSS & Atom Feeds Now Available'
 template: article
 taxonomy:
-        category: news
-        author: 'Luke Lollard'
+    category: news
+    author: 'Luke Lollard'
+publish_date: 2025/04/10
 date: 2025/04/10
 feed:
     skip: false

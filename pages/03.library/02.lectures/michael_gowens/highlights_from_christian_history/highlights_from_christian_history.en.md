@@ -17,6 +17,7 @@ simplesearch:
         - '@self'
     filter_combinator: and
 length: 205
+publish_date: 2026/03/22
 date: 2026/03/22
 feed:
     skip: false

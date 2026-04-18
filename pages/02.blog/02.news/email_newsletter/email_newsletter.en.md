@@ -2,8 +2,9 @@
 title: 'Email Newsletter Now Available'
 template: article
 taxonomy:
-        category: news
-        author: 'Luke Lollard'
+    category: news
+    author: 'Luke Lollard'
+publish_date: 2025/06/07
 date: 2025/06/07
 feed:
     skip: false

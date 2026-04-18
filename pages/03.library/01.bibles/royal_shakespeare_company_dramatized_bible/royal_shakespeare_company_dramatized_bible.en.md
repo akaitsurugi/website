@@ -10,6 +10,7 @@ content:
     items: '@self.children'
     order:
         by: default
+publish_date: 2023/04/23
 date: 2026/04/11
 feed:
     skip: false
