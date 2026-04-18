@@ -10,7 +10,7 @@
       &nbsp;•&nbsp;
       {{- 'CATEGORY'|t }}{{ 'COLON'|t }}{{ page.taxonomy.category[0]|t|titleize -}}
       &nbsp;•&nbsp;
-      {{- 'PUBLISHED'|t }}{{ 'COLON'|t }}{{ page.date|date(('DATE_FORMAT'|t)) -}}
+      {{- 'PUBLISHED'|t }}{{ 'COLON'|t }}{{ page.header.publish_date|date(('DATE_FORMAT'|t)) -}}
     </div>
     
     {{ page.content|raw }}

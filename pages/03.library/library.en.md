@@ -5,7 +5,7 @@ content:
     items: '@self.descendants'
     pagination: true
     order:
-        by: date
+        by: publish_date
         dir: desc
 simplesearch:
     process: true

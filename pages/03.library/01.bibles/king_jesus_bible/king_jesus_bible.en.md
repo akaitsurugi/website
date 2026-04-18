@@ -7,6 +7,7 @@ taxonomy:
     language: english
     author: 'Akai Tsurugi'
     format: text
+publish_date: 2023/9/23
 date: 2023/9/23
 process:
     twig: true

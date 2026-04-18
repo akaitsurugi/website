@@ -5,6 +5,7 @@ template: article
 taxonomy:
     category: articles
     author: 'Luke Lollard'
+publish_date: 2023/8/11
 date: 2023/8/11
 published: true
 markdown:

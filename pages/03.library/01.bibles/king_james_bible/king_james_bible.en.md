@@ -12,6 +12,7 @@ content:
     order:
         by: default
 format: text
+publish_date: 2023/12/15
 date: 2026/01/11
 published: true
 feed:

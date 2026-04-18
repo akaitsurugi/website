@@ -3,8 +3,9 @@ title: 'Moving Away from IPFS'
 subtitle: "Decentralization doesn't matter without availability"
 template: article
 taxonomy:
-        category: news
-        author: 'Luke Lollard'
+    category: news
+    author: 'Luke Lollard'
+publish_date: 2025/01/18
 date: 2025/01/18
 feed:
     skip: false

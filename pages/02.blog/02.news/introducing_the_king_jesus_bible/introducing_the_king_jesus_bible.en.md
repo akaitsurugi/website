@@ -4,6 +4,7 @@ template: article
 taxonomy:
     category: news
     author: 'Luke Lollard'
+publish_date: 2023/9/23
 date: 2023/9/23
 feed:
     skip: false
