@@ -308,13 +308,13 @@
             {%- if p.taxonomy.author|length > 1 -%}
               {% for tag in p.taxonomy.author %}
                 {% if loop.index != p.taxonomy.author|length %}
-                  {{- tag|t|titleize -}},
+                  {{- tag|t -}},
                 {% else %}
-                  {{- tag|t|titleize -}}
+                  {{- tag|t -}}
                 {% endif %}
               {% endfor %}
             {% else %}
-              {{- p.taxonomy.author[0]|t|titleize -}}
+              {{- p.taxonomy.author[0]|t -}}
             {%- endif -%}
       
             {%- if p.taxonomy.format[0] -%}
