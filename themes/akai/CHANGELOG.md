@@ -3,10 +3,12 @@
 
 1. [](#new)
     * Added librarySubItem template (used to filter items from the Library page)
+    * Create a custom version of `titleize` that doesn't use `underscoreize` (`titleizesafe`)
 1. [](#improved)
     * Filter Library collection with libraryItem template instead of library
     * Localize website title in head and header
     * Change default sort method to publish date
+    * Fix the missing dot (・) in Japanese versions of Western names (`titleizesafe` is part of this)
 
 # v1.3
 ## 03/21/2026
