@@ -5,8 +5,6 @@ MENU: 'Menu'
 
 # Main Pages
 CATEGORY: 'Category'
-SERMONS: 'Sermons'
-LECTURES: 'Lectures'
 PUBLISHED: 'Published'
 UPDATED: 'Updated'
 SORT: 'Sort'
