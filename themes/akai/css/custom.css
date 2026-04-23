@@ -92,12 +92,13 @@ a:visited:hover {
   color: #004080;
 }
 
-li:target {
+.footnotes li:target {
   background-color: #eaeaea;
 }
 
-li p {
-  margin: 0.5rem;
+.footnotes li p {
+  margin: 0 5px 0 5px;
+  padding: 5px 0 5px 0;
 }
 
 .header .padding {
