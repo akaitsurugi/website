@@ -24,4 +24,4 @@ RSS and Atom feeds are now available for the [Blog](/blog) and [Library](/librar
 
 I know that some folks prefer to use RSS feeds to be notified of updates, rather than periodically checking websites manually. Rather than having to visit the site to check for new content, RSS feeds provide the convenience that when a new update is available, your RSS reader pulls just that new page and you know of it right away.
 
-If you're a Linux/BSD user, I personally recommend [`newsraft`](https://codeberg.org/newsraft/newsraft/) as an RSS reader. If a Mac or iOS user, [NetNewsWire](https://netnewswire.com/) has been the standard RSS reader for over a decade.
+If you're a Linux/BSD user, I personally recommend [`newsraft`](https://codeberg.org/newsraft/newsraft/?target=_blank&rel=noreferrer) as an RSS reader. If a Mac or iOS user, [NetNewsWire](https://netnewswire.com/?target=_blank&rel=noreferrer) has been the standard RSS reader for over a decade.
