@@ -281,3 +281,8 @@ types:
     thumb: media/thumb-book.png
     mime: application/x-mobipocket-ebook
     image: null
+  woff2:
+    type: file
+    thumb: null
+    mime: font/woff2
+    image: null
