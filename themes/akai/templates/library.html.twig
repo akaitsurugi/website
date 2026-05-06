@@ -293,8 +293,14 @@
     
           <div class="item-description text-left">
             {% if p.template is same as 'libraryItemBook' %}
-              {# TODO: don't hardcode this string #}        
+              {# TODO: don't hardcode these strings #}
               <p>Read this book directly in your web browser.</p>
+            {% elseif p.template is same as 'file' %}
+              {% if p.slug is same as 'epub' %}
+                <p>Read this book on an ereader (including modern Kindles).</p>
+              {% elseif p.slug is same as 'mobi' %}
+                <p>Read this book on a legacy Kindle.</p>
+              {% endif %}
             {% else %}
               {{ p.summary|raw }}
             {% endif %}
