@@ -1,5 +1,5 @@
 # v1.3.1
-## xx/xx/2026
+## 05/06/2026
 
 1. [](#new)
     * Added librarySubItem template (used to filter items from the Library page)
@@ -9,6 +9,7 @@
     * Localize website title in head and header
     * Change default sort method to publish date
     * Fix the missing dot (・) in Japanese versions of Western names (`titleizesafe` is part of this)
+    * Use zoom-in cursor style for lightbox images
 
 # v1.3
 ## 03/21/2026
