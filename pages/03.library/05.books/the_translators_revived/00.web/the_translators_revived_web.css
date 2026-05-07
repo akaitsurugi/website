@@ -1,0 +1,41 @@
+/* Fonts */
+
+@font-face {
+  font-family: 'ManufacturingConsent';
+  src: url('fonts/ManufacturingConsent-Regular.woff2') format('woff2');
+}
+
+.gothic {
+  font-family: ManufacturingConsent, serif;
+}
+
+
+/* Override Bible verse styling */
+
+blockquote {
+  all: unset;
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+blockquote:before, blockquote:after {
+  all: unset;
+}
+
+blockquote em {
+  all: unset;
+}
+
+blockquote strong {
+  all: unset;
+}
+
+blockquote .small-caps {
+  all: unset;
+}
+
+blockquote .reference {
+  all: unset;
+}
