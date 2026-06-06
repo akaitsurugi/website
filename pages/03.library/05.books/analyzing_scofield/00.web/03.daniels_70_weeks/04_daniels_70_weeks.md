@@ -8,10 +8,10 @@ simplesearch:
 # Daniel's 70 Weeks
 
 <div class="text-center">by
-<br />CHARLES GILBERT WESTON
+<br>CHARLES GILBERT WESTON
 
 <p>Taken from cassette tapes and notes from
-<br /><i>The Weston Study Bible</i> by EMMA MOORE WESTON</p></div>
+<br><i>The Weston Study Bible</i> by EMMA MOORE WESTON</p></div>
 
 Daniel's mind was troubled and his soul shaken by what he read in the scrolls of Jeremiah the prophet. Jeremiah prophesied a return from their 70-year captivity in Babylon. That was good, but there were other terrible prophecies that he did not understand. God said that he would visit them to perform his good word toward them in causing them to return from all nations where he had driven them and give them "an expected end."
 

@@ -81,7 +81,7 @@ One of the most striking characteristics of modern seminary-educated preachers i
 
 In case you don't know what the word means, here's a definition from [Webster's 1828](/library/study/webster1828):
 
-<div class="quote"><p>1. Having the qualities of the female sex; soft or delicate to an unmanly degree; tender; womanish; voluptuous.<br/>"The king, by his voluptuous life and mean marriage, became <em>effeminate</em> and less sensible of honor."</p></div>
+<div class="quote"><p>1. Having the qualities of the female sex; soft or delicate to an unmanly degree; tender; womanish; voluptuous.<br>"The king, by his voluptuous life and mean marriage, became <em>effeminate</em> and less sensible of honor."</p></div>
 
 I know many preachers won't believe this definition of the word, so here's a definition from the Oxford English Dictionary as well:  
 

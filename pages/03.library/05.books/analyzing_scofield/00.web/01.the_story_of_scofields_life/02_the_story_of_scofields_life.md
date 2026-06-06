@@ -8,7 +8,7 @@ simplesearch:
 # The Story of Scofield's Life
 
 <div class="text-center">by
-<br />EMMA MOORE WESTON</div>
+<br>EMMA MOORE WESTON</div>
 
 In 1833, Elias and Abigail Scofield moved to Lenawee County, Michigan to help her father operate a sawmill on the Raisin River. Their home was on a cleared farm along the river.
 
@@ -87,7 +87,7 @@ It is assumed that the character of a candidate for a pastorate would be careful
 Scofield had received a fair amount of publicity during his political life in Kansas. His sudden disappearance at the beginning of 1874 left editors wondering. The contrast between the politician of 1873, the scalawag of 1874, and the minister of 1881 was too profound to ignore. So we find a Scofield story in the Atchison Patriot that was picked up by the Topeka paper, August 27, 1881. It follows, with the journalist's misspelling of Scofield's name intact:
 
 <div class="text-center"><i>CYRUS I. SCHOFIELD IN THE ROLE</i>
-<br /><i>OF A CONGREGATIONAL MINISTER</i></div>
+<br><i>OF A CONGREGATIONAL MINISTER</i></div>
 
 _"CYRUS I. SCHOFIELD, formerly of Kansas, late lawyer, politician and shyster generally has come to the surface again, and promises once more to gather around himself that halo of notoriety that has made him so prominent in the past. The last personal knowledge Kansans have had of this peer among scalawags was when about four years ago, after a series of forgeries and confidence games, he left the state and a destitute family and took refuge in Canada. For a time he kept undercover; nothing being heard of him until within the past two years when he turned up in St. Louis, where he had a wealthy widowed sister living who has generally come to the front and squared up Cyrus's little follies and foibles by paying good round sums of money. Within the past year, however, Cyrus committed a series of St. Louis forgeries that could not be settled so easily, and the erratic young man was compelled to linger in the St. Louis jail for a period of six months._
 

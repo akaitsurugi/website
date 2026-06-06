@@ -8,11 +8,11 @@ simplesearch:
 # Scofield Notes Answered
 
 <div class="text-center">by
-<br />CHARLES GILBERT WESTON
+<br>CHARLES GILBERT WESTON
 
 <p>From the Scofield Reference Bibles
-<br />1917 and 1967 editions
-<br />(Referenced as SRB 1917 and SRB 1967)</p></div>
+<br>1917 and 1967 editions
+<br>(Referenced as SRB 1917 and SRB 1967)</p></div>
 
 As a very young Bible school teacher I obtained books on the Christian life, principles of interpretation, doctrine and prophecy that were duly approved in "Fundamentalist" circles. Also I was given a copy of the 1917 _Scofield Reference Bible_. I ran into problems of squaring what they taught with what I was learning as I studied and taught the Scriptures. Now I am past 80, having studied, ministered, and taught for 64 years around the world. Many others have helped and still help me. Please hear some Scriptures bearing on biblical interpretation that must be clarified.
 

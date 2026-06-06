@@ -15,7 +15,7 @@ feed:
     skip: false
 ---
 
-<div class="quote"><p>If we would destroy the Christian religion, we must first of all destroy man's belief in the Bible.<br/><span class="text-right">- Voltaire</span></p></div>
+<div class="quote"><p>If we would destroy the Christian religion, we must first of all destroy man's belief in the Bible.<br><span class="text-right">- Voltaire</span></p></div>
 
 In recent decades there has been a great attack on the Bible, specifically the King James. This has resulted in many Americans turning away from it. The #1 reason people say they don't read the KJV now is because it is "too hard" to read.
 
@@ -28,7 +28,7 @@ In recent decades there has been a great attack on the Bible, specifically the K
 
 There hasn't been a widely accepted update to the King James since the 18<sup>th</sup> century. Our hope is to make it more accessible, especially for those of the Millennial generation and younger. The King Jesus Bible aims to be a Bible that both old and young will use. Additional information about this project can be found in the News article, [Introducing the King Jesus Bible](/blog/news/introducing_the_king_jesus_bible).
 
-<br />![King Jesus Bible Sketch](2up.png?lightbox&width=100%)
+<br>![King Jesus Bible Sketch](2up.png?lightbox&width=100%)
 
 ### Features
 

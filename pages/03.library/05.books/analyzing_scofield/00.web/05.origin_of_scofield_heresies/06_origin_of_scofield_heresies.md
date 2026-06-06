@@ -8,7 +8,7 @@ simplesearch:
 # Origin of Scofield Heresies
 
 <div class="text-center">by
-<br />EMMA MOORE WESTON</div>
+<br>EMMA MOORE WESTON</div>
 
 _"No greater mischief can happen to a Christian people than to have God's word taken from them, or falsified, so that they no longer have it pure and clear. God grant that we and our descendants be not witnesses of such a calamity"_ (Martin Luther, Table Talk.)
 

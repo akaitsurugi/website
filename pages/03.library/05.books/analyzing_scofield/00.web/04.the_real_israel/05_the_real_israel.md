@@ -8,8 +8,8 @@ simplesearch:
 # The Real Israel
 
 <div class="text-center"><b>The Teaching of Romans 11
-<br />by
-<br />CHARLES GILBERT WESTON</b></div>
+<br>by
+<br>CHARLES GILBERT WESTON</b></div>
 
 Moses gave a great prophecy of Christ, one like himself who would give to Israel all of God's word. If any man would not hear that prophet, God would require it of him. Peter quotes it as in fulfillment in this age, "And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people." (Ac 3:22-23.) lsrael is the people from among whom they are to be destroyed. If the Apostles were here today, who would believe them?
 

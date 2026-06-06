@@ -13,13 +13,13 @@ simplesearch:
 
 <div class="text-center" style="font-family: 'Times New Roman', Times, serif; line-height: 1.4rem;">
 <span style="font-size: 2.3rem; word-spacing: 0.5rem; letter-spacing: 0.9rem;"><strong>TO THE MOST</strong></span>
-<br /><span style="font-size: 2rem; word-spacing: 1.2rem; letter-spacing: 0.4rem; line-height: 2.4rem; bottom: 0.2rem; position: relative;">HIGH AND MIGHTY</span>
-<br /><span style="font-size: 1.75rem;">Prince, <span class="small-caps">James</span> by the grace of God</span>
-<br /><span style="font-size: 1.2rem;">King of Great Britain, France, and Ireland,</span>
-<br /><span style="position: relative; bottom: 0.3rem; line-height: 1.5rem;">Defender of the Faith, &c.</span>
-<br /><span style="font-size: 1.2rem; word-spacing: 0.5rem; letter-spacing: 0.04rem;">THE TRANSLATORS OF <em>THE BIBLE,</em></span>
-<br /><span style="position: relative; bottom: 0.4rem; line-height: 1.6rem;"><em>wish Grace, Mercy, and Peace, through</em> <span class="small-caps">Jesus</span></span>
-<br /><span style="position: relative; bottom: 0.7rem;"><span class="small-caps">Christ</span> <em>our</em> <span class="small-caps">Lord</span>.</span>
+<br><span style="font-size: 2rem; word-spacing: 1.2rem; letter-spacing: 0.4rem; line-height: 2.4rem; bottom: 0.2rem; position: relative;">HIGH AND MIGHTY</span>
+<br><span style="font-size: 1.75rem;">Prince, <span class="small-caps">James</span> by the grace of God</span>
+<br><span style="font-size: 1.2rem;">King of Great Britain, France, and Ireland,</span>
+<br><span style="position: relative; bottom: 0.3rem; line-height: 1.5rem;">Defender of the Faith, &c.</span>
+<br><span style="font-size: 1.2rem; word-spacing: 0.5rem; letter-spacing: 0.04rem;">THE TRANSLATORS OF <em>THE BIBLE,</em></span>
+<br><span style="position: relative; bottom: 0.4rem; line-height: 1.6rem;"><em>wish Grace, Mercy, and Peace, through</em> <span class="small-caps">Jesus</span></span>
+<br><span style="position: relative; bottom: 0.7rem;"><span class="small-caps">Christ</span> <em>our</em> <span class="small-caps">Lord</span>.</span>
 </div>
 
 Great and manifold were the blessings (most dread Sovereign) which Almighty <span class="small-caps">God</span>, the Father of all Mercies, bestowed upon us the people <span class="small-caps">England</span>, when first he sent your Majesty's Royal person to rule and reign over us. For whereas it was the expectation of many, who wished not well unto our <span class="small-caps">Zion</span>, that upon the setting of that bright _Occidental Star_ Queen <span class="small-caps">Elizabeth</span> of most happy memory, some thick and palpable clouds of darkness would so have overshadowed this land, that men should have been in doubt which way they were to walk, and that it should hardly be known, who was to direct the unsettled State: the appearance of your <span class="small-caps">Majesty</span>, as of the _Sun_ in his strength, instantly dispelled those supposed and surmised mists, and gave unto all that were well affected, exceeding cause of comfort; especially when we beheld the government established in your <span class="small-caps">Highness</span>, and your hopeful Seed, by an undoubted Title, and this also accompanied with Peace and tranquility, at home and abroad.

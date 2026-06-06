@@ -27,7 +27,7 @@ I also found that the KJV has a poetical quality that the modern versions lack. 
 
 ## The Current Situation
 
-<div class="quote"><p>No greater mischief can happen to a Christian people, than to have God's word taken from them, or falsified, so that they no longer have it pure and clear. God grant we and our descendants be not witness to such a calamity.<br/><span class="text-right">- Martin Luther</span></p></div>
+<div class="quote"><p>No greater mischief can happen to a Christian people, than to have God's word taken from them, or falsified, so that they no longer have it pure and clear. God grant we and our descendants be not witness to such a calamity.<br><span class="text-right">- Martin Luther</span></p></div>
 
 Unfortunately, corrupt modern translations are now more prevalent in use in America than the King James. The reason usually given for this is that the KJV is "too hard" to read. There were attempts to modernize the text of the King James after 1900, but these often changed the words, not just the formatting or spelling.
 
