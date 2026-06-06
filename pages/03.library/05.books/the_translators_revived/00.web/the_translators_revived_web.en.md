@@ -14,8 +14,6 @@ content:
 publish_date: 2026/5/6
 date: 2026/5/6
 published: true
-feed:
-    skip: false
 process:
     twig: true
 never_cache_twig: true

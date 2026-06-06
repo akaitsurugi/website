@@ -11,8 +11,6 @@ content:
     order:
         by: default
 date: 2026/04/11
-feed:
-    skip: false
 ---
 
 Listen in full stereo for the best quality and intended experience. If you do not have two speakers, there are times when it may feel awkward or even silent, due to the stereo mixing.
