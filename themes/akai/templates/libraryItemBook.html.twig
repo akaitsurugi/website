@@ -23,14 +23,14 @@
     {% set chapterNumber = 0 %}
   
     {% for p in page.collection %}
-      {#- TODO: Don't hardcode 'Preface' if possible -#}
-      {% if p.title is not same as 'Preface' %}
+      {#- TODO: Don't hardcode the strings below if possible -#}
+      {% if p.title not in ['Preface', 'Table of Contents', 'Introduction'] %}
         {% set chapterNumber = chapterNumber + 1 %}
       {% endif %}
       <div class="library-item title-name text-left">
           <a href="{{ page.slug }}/{{ p.slug }}" name="{{ p.slug }}">
-          {#- TODO: Don't hardcode 'Preface' if possible -#}
-          {%- if p.title is not same as 'Preface' %}
+          {#- TODO: Don't hardcode the strings below if possible -#}
+          {%- if p.title not in ['Preface', 'Table of Contents', 'Introduction'] %}
             {{- chapterNumber }}. {{ p.title -}}
           {% else %}
             {{- p.title -}}
