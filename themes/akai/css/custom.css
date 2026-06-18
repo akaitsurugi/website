@@ -262,11 +262,6 @@ blockquote strong {
   font-style: normal;
 }
 
-
-blockquote .small-caps {
-  font-variant: small-caps;
-}
-
 blockquote .reference {
   display: block;
   text-align: right;
@@ -370,6 +365,10 @@ li code {
 .text-left {
   text-align: left;
   display: block;
+}
+
+.small-caps {
+  font-variant: small-caps;
 }
 
 
