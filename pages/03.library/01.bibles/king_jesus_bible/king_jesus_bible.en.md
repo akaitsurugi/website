@@ -18,7 +18,7 @@ cache_enable: false
 king_jesus_bible.css
 {/assets}
 
-<div class="quote"><p>If we would destroy the Christian religion, we must first of all destroy man's belief in the Bible.<br><span class="text-right">- Voltaire</span></p></div>
+<div class="quote"><p>If we would destroy the Christian religion, we must first of all destroy man's belief in the Bible.<br><span class="text-right block">- Voltaire</span></p></div>
 
 In recent decades there has been a great attack on the Bible, specifically the King James. This has resulted in many Americans turning away from it. The #1 reason people say they don't read the KJV now is because it is "too hard" to read.
 

@@ -46,4 +46,4 @@ As I learned from the crayon box song: red is for the color of the blood that He
 
 Ultimately, the Bible is about Christ and His blood. The doctrine of the blood atonement has been assaulted by people who claim to be Christians, saying that the atonement has nothing to do with the blood or that blood is just a "symbol" of His death. Don't let those liberals fool you. What Christ accomplished through His sinless life, shed blood, vicarious death, burial, and resurrection (also referred to as the work of Christ) is the core of the Bible and the foundation of eternal salvation. No wonder it is under attack by Satan and his devils.
 
-<span class="text-right">- Luke</span>
+<div class="text-right">- Luke</div>

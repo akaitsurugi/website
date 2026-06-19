@@ -354,16 +354,17 @@ li code {
 
 .text-center {
   text-align: center;
-  display: block;
 }
 
 .text-right {
   text-align: right;
-  display: block;
 }
 
 .text-left {
   text-align: left;
+}
+
+.block {
   display: block;
 }
 
