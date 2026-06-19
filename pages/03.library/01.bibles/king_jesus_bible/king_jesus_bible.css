@@ -1,0 +1,29 @@
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #999;
+  color: #f7f7f7;
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 0.5rem;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f7f7f7;
+}
+
+thead tr th:first-child,
+tbody tr td:first-child {
+  width: 8rem;
+  min-width: 8rem;
+  max-width: 8rem;
+}
