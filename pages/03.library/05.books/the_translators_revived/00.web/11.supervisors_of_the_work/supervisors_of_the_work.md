@@ -5,12 +5,12 @@ simplesearch:
     process: false
 markdown:
     extra: true
-process:
-    twig: true
-never_cache_twig: true
+cache_enable: false
 ---
 
-{% do assets.addCss('/library/books/the_translators_revived/web/the_translators_revived_web.css', 5) %}
+{assets:css order:5}
+/library/books/the_translators_revived/web/the_translators_revived_web.css
+{/assets}
 
 # Supervisors of the Work
 

@@ -14,12 +14,12 @@ content:
 publish_date: 2026/5/6
 date: 2026/5/6
 published: true
-process:
-    twig: true
-never_cache_twig: true
+cache_enable: false
 ---
 
-{% do assets.addCss('/library/books/the_translators_revived/web/the_translators_revived_web.css', 5) %}
+{assets:css order:5}
+the_translators_revived_web.css
+{/assets}
 
 <div class="text-center" style="font-family: serif;">
 <p>THE</p>
