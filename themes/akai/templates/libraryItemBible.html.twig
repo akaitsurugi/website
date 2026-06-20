@@ -1,4 +1,12 @@
 {% extends 'libraryItemBook.html.twig' %}
-{# The only thing this is currently used for is to separate it from its parent #}
-{# so that it'll show up in the library page. #}
-{# Eventually, we can change this so books have epub, web, etc., like books #}
+{# The main thing this is currently used for is to separate it from its parent #}
+{# so that it'll show up in the Library. #}
+
+{% block content %}
+  <h1>{{ page.title|raw }}</h1>
+  {% if page.header.subtitle %}
+    <h3><div class="subtitle">{{ page.header.subtitle }}</div></h3>
+  {% endif %}
+
+  {{ parent() }}
+{% endblock %}
