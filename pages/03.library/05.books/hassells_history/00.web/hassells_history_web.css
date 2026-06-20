@@ -1,0 +1,100 @@
+/* Override main CSS */
+
+hr {
+  width: 30%;
+}
+
+.footnotes hr {
+  width: 100%;
+}
+
+blockquote {
+  all: unset;
+  display: table;
+  font-size: .9rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+blockquote::before,
+blockquote::after {
+  all: unset;
+}
+
+blockquote em,
+blockquote strong {
+  all: unset;
+}
+
+
+/* Tables */
+
+table {
+  border-collapse: separate;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.leader {
+  overflow: hidden;
+  position: relative;
+}
+
+.leader::after {
+  content: ' .............................................................................';
+  letter-spacing: .25rem;  /* controls dot density */
+  padding-left: .5rem;  /* don't intersect the text */
+  position: absolute;
+  white-space: nowrap;
+}
+
+.letter-spacing-long::after {
+  letter-spacing: 1rem;  /* controls dot density */
+}
+
+.number {
+  min-width: 1.5rem;
+  text-align: right;
+}
+
+.border-top {
+  border-top: .15rem solid black;
+  height: .5rem;
+}
+
+.border-right {
+  border-right: .15rem solid black;
+}
+
+.padding-top {
+  padding-top: 1rem;
+}
+
+.padding-bottom {
+  padding-bottom: 1rem;
+}
+
+
+/* .association is special for Chapter XXVII */
+
+.association {
+  border-collapse: collapse;
+}
+
+.association td {
+  padding-left: .5rem;
+  padding-right: .5rem;
+}
+
+.association td:nth-child(2) {
+  width: 35%;
+}
+
+.association td:nth-child(3) {
+  width: 20%;
+}
+
+.association .number {
+  min-width: 2rem;
+}
