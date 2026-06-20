@@ -232,9 +232,9 @@
     {% if page.media['icon.jpg'] %}
       <div class="item-icon">
         {% if page.parent.slug is same as 'sermons' %}
-          <img src="{{ page.url }}/icon.jpg?cropResize=400&grayscale" alt="Icon">
+          <img src="{{ page.url }}/icon.jpg?cropResize=300&grayscale" alt="Icon">
         {% else %}
-          <img src="{{ page.url }}/icon.jpg?cropResize=400" alt="Icon">
+          <img src="{{ page.url }}/icon.jpg?cropResize=300" alt="Icon">
         {% endif %}
       </div>
     {% endif %}
