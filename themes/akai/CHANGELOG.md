@@ -1,3 +1,14 @@
+# v1.3.2
+## xx/yy/2026
+
+1. [](#new)
+    * Use Assets plugin for loading per-page CSS
+1. [](#improved)
+    * Switch to 300px for library item icons
+    * Don't count Introduction of Table of Contents in chapter counts
+    * Extracted CSS so overrides are no longer necessary
+    * Don't show header on book title pages
+
 # v1.3.1
 ## 05/06/2026
 
