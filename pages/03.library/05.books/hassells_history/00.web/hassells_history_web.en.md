@@ -14,7 +14,6 @@ content:
 publish_date: 2026/6/20
 date: 2026/6/20
 published: true
-cache_enable: false
 ---
 
 {assets:css order:5}

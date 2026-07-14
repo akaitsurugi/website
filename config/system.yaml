@@ -102,7 +102,7 @@ cache:
   enabled: true
   check:
     method: file
-  driver: auto
+  driver: file
   prefix: g
   purge_at: '0 4 * * *'
   clear_at: '0 3 * * *'

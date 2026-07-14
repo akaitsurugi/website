@@ -5,7 +5,6 @@ simplesearch:
     process: false
 markdown:
     extra: true
-cache_enable: false
 ---
 
 {assets:css order:5}
